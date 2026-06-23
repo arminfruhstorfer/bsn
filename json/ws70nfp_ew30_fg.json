@@ -1,0 +1,47 @@
+﻿{
+  "subnavigation":[
+    {
+      "label":"Planung",
+      "icon":"fa fa-desktop",
+      "links":[
+        {"text":"Ausschreibungstexte","link":"ws70nfp_ew30_at"},
+        {"text":"Füllungen & Größen","link":"ws70nfp_ew30_fg", "active":true}
+      ]
+    },
+    {
+      "label":"CAD-Unterstützung",
+      "icon":"fa fa-usb",
+      "links":[
+        {"text":"Konstruktionsschnitte","link":"ws70nfp_ew30_ks"},
+        {"text":"Profilkonturen (.dwg)","link":"ws70nfp_ew30_pk"},
+        {"text":"Vorschläge Bauanschlüsse","link":"ws70nfp_ew30_ba"}
+      ]
+    },
+    {
+      "label":"Dokumentation",
+      "icon":"fa fa-book",
+      "links":[
+        {"text":"Montageanleitung ÜA","link":"ws70nfp_ew30_ma"},
+        {"text":"Programmliste & Verarbeitung","link":"ws70nfp_ew30_pv"}
+      ]
+    }
+  ],
+  "content":{
+    "list":[
+
+      {
+        "desc1":"Elementgrößen",
+        "pimg":"../globalassets/media/items/wicona/png/ws70nfp_ew30_eg.png?v=a02622c7f11a86deee07eb7d5b0f9050a7618196",
+        "pdf":"../globalassets/media/items/wicona/pdf/ws70nfp_ew30_eg.pdf?v=3652b615ba6e1b8cd3e0ae659eeddd0d9c3ee346",
+        "ebook":"../ebook.html?d=622696"
+      },
+      {
+        "desc1":"Glasliste",
+        "pimg":"../globalassets/media/items/wicona/png/ws70nfp_ew30_gl.png?v=825543cbf58ec3a8da87b70c6a9f1f7001c3db1e",
+        "pdf":"../globalassets/media/items/wicona/pdf/ws70nfp_ew30_gl.pdf?v=06f1a2fad45766f6d21ad636c518f93a56340008",
+        "ebook":"../ebook.html?d=647821"
+      }
+    ]
+  },
+  "style":{"background":false}
+}

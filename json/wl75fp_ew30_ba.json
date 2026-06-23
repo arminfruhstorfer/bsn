@@ -1,0 +1,98 @@
+﻿{
+  "subnavigation":[
+    {
+      "label":"Planung",
+      "icon":"fa fa-desktop",
+      "links":[
+        {"text":"Ausschreibungstexte","link":"wl75fp_ew30_at"},
+        {"text":"Füllungen & Größen","link":"wl75fp_ew30_fg"},
+        {"text":"Systemdatenblatt","link":"wl75fp_ew30_sd"}
+      ]
+    },
+    {
+      "label":"CAD-Unterstützung",
+      "icon":"fa fa-usb",
+      "links":[
+        {"text":"Konstruktionsschnitte","link":"wl75fp_ew30_ks"},
+        {"text":"Profilkonturen (.dwg)","link":"wl75fp_ew30_pk"},
+        {"text":"Vorschläge Bauanschlüsse","link":"wl75fp_ew30_ba", "active":true}
+      ]
+    },
+    {
+      "label":"Dokumentation",
+      "icon":"fa fa-book",
+      "links":[
+        {"text":"Montageanleitung","link":"wl75fp_ew30_ma"},
+        {"text":"Programm & Verarbeitung","link":"wl75fp_ew30_pv"}
+      ]
+    }
+  ],
+  "content":{
+    "list":[
+      {
+        "desc1":"DOC-FPA0000045",
+        "desc2":"Bauanschluss seitlich",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000045p.png?v=a6f9af668d7873eec8975581128454c08f6bc418",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000045.png?v=f34a13beeb3f30be227e35186ee4b0ba94a047fd",
+        "dwg":"../globalassets/media/sections/wicona/dwg/wl75fp_ew30_ba.dwg?v=7447822fff139de31ff586290600e9b59316fe05",
+        "tags":["1910148","4090113"]
+      },
+      {
+        "desc1":"DOC-FPA0000046",
+        "desc2":"Bauanschluss seitlich",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000046p.png?v=3ad9e25b940b7c092878b253e4ca55219f72a6c0",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000046.png?v=3c9da8c928ff08a39615091469a2d3390b372010",
+        "dwg":"../globalassets/media/sections/wicona/dwg/wl75fp_ew30_ba.dwg?v=7447822fff139de31ff586290600e9b59316fe05",
+        "tags":["1910148","4090113"]
+      },
+      {
+        "desc1":"DOC-FPA0000047",
+        "desc2":"Bauanschluss seitlich",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000047p.png?v=fca1c52de38daf1f9e8c74342a508af7820eb7e4",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000047.png?v=67575a61a7155ca624905890a33f749dd42e58ac",
+        "dwg":"../globalassets/media/sections/wicona/dwg/wl75fp_ew30_ba.dwg?v=7447822fff139de31ff586290600e9b59316fe05",
+        "tags":["1311073","4090112"]
+      },
+      {
+        "desc1":"DOC-FPA0000048",
+        "desc2":"Bauanschluss seitlich",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000048p.png?v=2324d588ef3fe60ea2124fcde3767cd198a1bceb",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000048.png?v=8b00064003378d7e5fa8c266be9e8f281e762668",
+        "dwg":"../globalassets/media/sections/wicona/dwg/wl75fp_ew30_ba.dwg?v=7447822fff139de31ff586290600e9b59316fe05",
+        "tags":["1910148","3091036","3091057","4030035","4090113"]
+      },
+      {
+        "desc1":"DOC-FPA0000049",
+        "desc2":"Bauanschluss seitlich",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000049p.png?v=d2584bb78bc197aa684334d36e271604189a8c2f",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000049.png?v=862748d58a035fb493e626118210ceb664080af6",
+        "dwg":"../globalassets/media/sections/wicona/dwg/wl75fp_ew30_ba.dwg?v=7447822fff139de31ff586290600e9b59316fe05",
+        "tags":["1311073","4090112"]
+      },
+      {
+        "desc1":"DOC-FPA0000050",
+        "desc2":"Bauanschluss seitlich",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000050p.png?v=9cb994a127e0d0c7d675cda21046ad41c1227548",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000050.png?v=b9c2dc3b362b41a6eedeccda5cb925f9e6a44109",
+        "dwg":"../globalassets/media/sections/wicona/dwg/wl75fp_ew30_ba.dwg?v=7447822fff139de31ff586290600e9b59316fe05",
+        "tags":["1910149","4090113"]
+      },
+      {
+        "desc1":"DOC-FPA0000051",
+        "desc2":"Bauanschluss seitlich",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000051p.png?v=86c8d6c422a1661d73feff992aaecbfbc8cf4e08",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000051.png?v=06fdb20d3facab1f51f8602698ee47512fd39946",
+        "dwg":"../globalassets/media/sections/wicona/dwg/wl75fp_ew30_ba.dwg?v=7447822fff139de31ff586290600e9b59316fe05",
+        "tags":["1311073","4090112"]
+      }
+    ]
+  },
+  "style":{"background":false}
+}

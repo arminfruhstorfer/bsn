@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+  </head>
+  <body>
+    <script language="javascript">
+		window.onload = function() {
+			let sBaseURL = window.location.href.substring(0, window.location.href.indexOf("sites"));
+			let sSearchTerm = window.location.href.substring(window.location.href.indexOf("?") + 1);
+			window.location.replace(sBaseURL + "index.html?s=" + sSearchTerm);
+		}
+	</script>
+  </body>
+</html>

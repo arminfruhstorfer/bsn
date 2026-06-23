@@ -1,0 +1,71 @@
+﻿{
+  "subnavigation":[
+    {
+      "label":"Planung",
+      "icon":"fa fa-desktop",
+      "links":[
+        {"text":"Ausschreibungstexte","link":"wt50fp_ei30_at"},
+        {"text":"Füllungen & Größen","link":"wt50fp_ei30_fg"},
+        {"text":"Systemdatenblatt","link":"wt50fp_ei30_sd"}
+      ]
+    },
+    {
+      "label":"CAD-Unterstützung",
+      "icon":"fa fa-usb",
+      "links":[
+        {"text":"Konstruktionsschnitte","link":"wt50fp_ei30_ks"},
+        {"text":"Profilkonturen (.dwg)","link":"wt50fp_ei30_pk"},
+        {"text":"Vorschläge Bauanschlüsse","link":"wt50fp_ei30_ba"}
+      ]
+    },
+    {
+      "label":"Dokumentation",
+      "icon":"fa fa-book",
+      "links":[
+        {"text":"Programm & Verarbeitung","link":"wt50fp_ei30_pv", "active":true}
+      ]
+    }
+  ],
+  "content":{
+    "list":[
+
+      {
+        "desc1":"Inhaltsverzeichnis",
+        "pimg":"../globalassets/media/items/wicona/png/wt50fp_ei30_iv.png?v=01b4d4d9e70d7fd7d32f23920d9c46ec0e86f23c",
+        "pdf":"../globalassets/media/items/wicona/pdf/wt50fp_ei30_iv.pdf?v=3dc46797669612ef6f3ab36cf0696f77734107f2",
+        "ebook":"../ebook.html?d=712730"
+      },
+      {
+        "desc1":"Nummernverzeichnis",
+        "pimg":"../globalassets/media/items/wicona/png/wt50fp_ei30_ah1.png?v=b129d0735827cdd6a85cdf85614c1fdc7f12d086",
+        "pdf":"../globalassets/media/items/wicona/pdf/wt50fp_ei30_ah1.pdf?v=bfa843175256fedc31b3aa68fe8fcf25dba3e187",
+        "ebook":"../ebook.html?d=326206"
+      },
+      {
+        "desc1":"Allgemeine Hinweise",
+        "pimg":"../globalassets/media/items/wicona/png/wt50fp_ei30_ah2.png?v=4d24bd9d7f36c4c1f4ff1eeba7b9ba3843cbdc3c",
+        "pdf":"../globalassets/media/items/wicona/pdf/wt50fp_ei30_ah2.pdf?v=d3018df8a9df5ee19031d04acb2299b2dbbb1844",
+        "ebook":"../ebook.html?d=633178"
+      },
+      {
+        "desc1":"Profilkonturen",
+        "pimg":"../globalassets/media/items/wicona/png/wt50fp_ei30_pl.png?v=b401a0f11de1257d87d8268c513d99d0077a7743",
+        "pdf":"../globalassets/media/items/wicona/pdf/wt50fp_ei30_pl.pdf?v=d31308d7e50e4ec43449b859007f73c97eb225e8",
+        "ebook":"../ebook.html?d=207561"
+      },
+      {
+        "desc1":"Zubehör",
+        "pimg":"../globalassets/media/items/wicona/png/wt50fp_ei30_zb.png?v=457ef3c68216407167c0bd01d51883b32934930c",
+        "pdf":"../globalassets/media/items/wicona/pdf/wt50fp_ei30_zb.pdf?v=3d9c6695928dc36c9449a6f0064f66df4d081ff5",
+        "ebook":"../ebook.html?d=186013"
+      },
+      {
+        "desc1":"Verarbeitungsrichtlinien",
+        "pimg":"../globalassets/media/items/wicona/png/wt50fp_ei30_va.png?v=9df932cd6dcc2ac18b5e6b30319ab4a8f4fa5918",
+        "pdf":"../globalassets/media/items/wicona/pdf/wt50fp_ei30_va.pdf?v=8b00ecd567a86345dbb4bc200538768f915bf9d3",
+        "ebook":"../ebook.html?d=583359"
+      }
+    ]
+  },
+  "style":{"background":false}
+}

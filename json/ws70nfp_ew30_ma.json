@@ -1,0 +1,41 @@
+﻿{
+  "subnavigation":[
+    {
+      "label":"Planung",
+      "icon":"fa fa-desktop",
+      "links":[
+        {"text":"Ausschreibungstexte","link":"ws70nfp_ew30_at"},
+        {"text":"Füllungen & Größen","link":"ws70nfp_ew30_fg"}
+      ]
+    },
+    {
+      "label":"CAD-Unterstützung",
+      "icon":"fa fa-usb",
+      "links":[
+        {"text":"Konstruktionsschnitte","link":"ws70nfp_ew30_ks"},
+        {"text":"Profilkonturen (.dwg)","link":"ws70nfp_ew30_pk"},
+        {"text":"Vorschläge Bauanschlüsse","link":"ws70nfp_ew30_ba"}
+      ]
+    },
+    {
+      "label":"Dokumentation",
+      "icon":"fa fa-book",
+      "links":[
+        {"text":"Montageanleitung ÜA","link":"ws70nfp_ew30_ma", "active":true},
+        {"text":"Programmliste & Verarbeitung","link":"ws70nfp_ew30_pv"}
+      ]
+    }
+  ],
+  "content":{
+    "list":[
+
+      {
+        "desc1":"Montageanleitung",
+        "pimg":"../globalassets/media/items/wicona/png/ws70nfp_ew30_ma.png?v=09a8a045c86314e7cc9a5c043c27367523e66010",
+        "pdf":"../globalassets/media/items/wicona/pdf/ws70nfp_ew30_ma.pdf?v=5fe18b272c54bcfd12a29c856391663dbc4205f8",
+        "ebook":"../ebook.html?d=263792"
+      }
+    ]
+  },
+  "style":{"background":false}
+}

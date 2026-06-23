@@ -1,0 +1,133 @@
+﻿{
+  "subnavigation":[
+    {
+      "label":"Planung",
+      "icon":"fa fa-desktop",
+      "links":[
+        {"text":"Ausschreibungstexte","link":"wt50fp_ei30_at", "active":true},
+        {"text":"Füllungen & Größen","link":"wt50fp_ei30_fg"},
+        {"text":"Systemdatenblatt","link":"wt50fp_ei30_sd"}
+      ]
+    },
+    {
+      "label":"CAD-Unterstützung",
+      "icon":"fa fa-usb",
+      "links":[
+        {"text":"Konstruktionsschnitte","link":"wt50fp_ei30_ks"},
+        {"text":"Profilkonturen (.dwg)","link":"wt50fp_ei30_pk"},
+        {"text":"Vorschläge Bauanschlüsse","link":"wt50fp_ei30_ba"}
+      ]
+    },
+    {
+      "label":"Dokumentation",
+      "icon":"fa fa-book",
+      "links":[
+        {"text":"Programm & Verarbeitung","link":"wt50fp_ei30_pv"}
+      ]
+    }
+  ],
+  "content":{
+    "text":[
+      {
+        "tagtype":"h3",
+        "text":[
+          {"line":"EI30 AL-Brandschutzfassade AB 50"}
+        ]
+      },
+      {
+        "tagtype":"p",
+        "text":[
+          {"line":"Gegenstand der Ausschreibung sind Herstellung, Lieferung und Einbau von wärmegedämmten und ebenen Aluminiumfassaden-Konstruktionen aus Pfosten und Riegeln mit von außen einzusetzenden Füllungen als feststehender Feuer-schutzabschluß der Widerstandsklasse EI30 nach ÖNORM EN 1634 Teil 1, nach aktuellen Planungs-, Verarbeitungs- und Einbauregeln des Systemgebers, z. Bsp. WICONA WICTEC 50 FP EI30."}
+        ]
+      },
+      {
+        "tagtype":"h3",
+        "text":[
+          {"line":"Bindend zu erfüllen sind folgende technische Anforderungen:"},
+          {"line":"Profildaten:"}
+        ]
+      },
+      {
+        "tagtype":"p",
+        "text":[
+          {"line":"Äußere und innere Ansichtsbreite der rechteckigen Hohlkammerprofile mind. 50 mm."},
+          {"line":"Durchlaufende Dämmebene in Profilkonstruktion und Füllungen"},
+          {"line":"Entwässerungs-/Belüftungskanäle der Pfosten mit glattflächigen Rechteckquerschnitten, ohne Hinterschneidungen, Pfostenprofile für polygonale Konstruktionen zusätzlich mit runden Aufnahmenuten für schwenkbare innere Glasdichtungen zur tangentialen Aufnahme von Füllungen im Winkelbereich bis 5° ohne Nachkanten der Pfostenfälze."},
+          {"line":"Riegelprofile mit verstärkter Hohlkammerwand zur überlappenden Verbindung mit Profilen dieser Profilgruppe sowie mit Standardpfosten und -riegeln (auch Riegel-Stoßverbindungen möglich)."},
+          {"line":"Um Bewegungen der Fassaden zwängungs- und geräuschfrei aufnehmen zu können erfolgt die Befestigung der Riegel an den Pfosten überlappend mit unterlegten Dichtungsteilen."},
+          {"line":"Bei Ausfachungsgewichten über 120 kg werden die Profile mit systemeigenen, einteiligen, hoch belastbaren und dickwandigen Aluminium-Verbindungsstücken, die in die Hohlkammern der Profilenden eingesteckt werden, verschraubt."},
+          {"line":"Tragende Profile raumseitig kantig, max. Pfostenabstände bis 2 m."},
+          {"line":"Gesicherter Dampfdruckausgleich über die vier Ecken in jedem Feld und Wahlmöglichkeit im Entwässerungssystem (am Fassadenfußpunkt oder geschoßweise) entsprechend Bauhöhe der Fassade."},
+          {"line":"Stützenprofile bei räumlichen Konstruktionen in senkrechten und schrägen Flächen in sich formschlüssig durchlaufend, mit schwenkbar angeordneten inneren Glasdichtungen für in unterschiedlichen Winkeln anschließenden Glasebenen."},
+          {"line":"Äußere Standard-Abdeckprofile auf den Andruckprofilen kantig, 15 bis 50 mm hoch."},
+          {"line":"Wahlweise Abdeckprofile aus nichtrostendem Stahl, 55 mm breit, 15 und 20 mm hoch."}
+        ]
+      },
+      {
+        "tagtype":"h3",
+        "text":[
+          {"line":"Brandschutz:"}
+        ]
+      },
+      {
+        "tagtype":"p",
+        "text":[
+          {"line":"Über systemeigene Verstärkungsprofile, vorgefüllt mit Brandschutzplatten, als Einschübe in die Pfosten-/Riegelhohlkammern aus Aluminium sowie mit einseitig selbstklebenden durchlaufenden Brandschutzdichtstreifen im Glasfalz sowie auf dem Andruckprofil."}
+        ]
+      },
+      {
+        "tagtype":"h3",
+        "text":[
+          {"line":"Wärmedämmung:"}
+        ]
+      },
+      {
+        "tagtype":"p",
+        "text":[
+          {"line":"Die Wärmedämmung erfolgt mit Leisten aus ABS, durch Klemmverbindung durchlaufend auf den Schraubkanälen der tragenden Profile fixiert. Die Höhe der Dämmleisten ist abhängig von der Dicke der aufzunehmenden Füllungen. Die Dämmleiste bildet zugleich den Anschlag für die Andruckprofile, so dass die Endlage beim Einbau in zwei Achsen genau definiert ist."}
+        ]
+      },
+      {
+        "tagtype":"h3",
+        "text":[
+          {"line":"Füllungen:"}
+        ]
+      },
+      {
+        "tagtype":"p",
+        "text":[
+          {"line":"von 15 bis 57 mm Füllungsdicke."},
+          {"line":"Alle Füllungen werden von außen eingesetzt."},
+          {"line":"Verklotzung mit verstärkten Tragklötzen, die zur Gewichtsabtragung in die Schraubkanäle der Riegel verschraubt werden."}
+        ]
+      },
+      {
+        "tagtype":"h3",
+        "text":[
+          {"line":"Dichtungssysteme:"}
+        ]
+      },
+      {
+        "tagtype":"p",
+        "text":[
+          {"line":"Senkrechte und waagrechte Innendichtungen haben gleiche Ansichtsbreiten."},
+          {"line":"Verbindung in den Ecken durch stumpfe Verklebung, Außendichtungen in den Andruckprofilen senkrecht durchlaufend, waagrecht stumpf anstoßend; jeweils mit rechteckigem Querschnitt an der Glasanlage."}
+        ]
+      },
+      {
+        "tagtype":"h3",
+        "text":[
+          {"line":"Kombinierbarkeit:"}
+        ]
+      },
+      {
+        "tagtype":"p",
+        "text":[
+          {"line":"Einbau von EI30 und EI30-C Aluminium- Fenster und Türen"},
+          {"line":"Über die Bauart der angebotenen Türen wird ein gültiges Prüfzeugnis einer staatlich autorisierten Prüfanstalt vorgelegt."}
+        ]
+      }
+    ]
+  },
+  "style":{"background":false}
+}

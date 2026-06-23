@@ -1,0 +1,61 @@
+﻿{
+  "subnavigation":[
+    {
+      "label":"Planung",
+      "icon":"fa fa-desktop",
+      "links":[
+        {"text":"Füllungen & Größen","link":"ws65nngfp_e30_fg"},
+        {"text":"Systemdatenblatt","link":"ws65nngfp_e30_sd"}
+      ]
+    },
+    {
+      "label":"CAD-Unterstützung",
+      "icon":"fa fa-usb",
+      "links":[
+        {"text":"Konstruktionsschnitte","link":"ws65nngfp_e30_ks", "active":true},
+        {"text":"Profilkonturen (.dwg)","link":"ws65nngfp_e30_pk"},
+        {"text":"Bauanschlüsse","link":"ws65nngfp_e30_ba"}
+      ]
+    },
+    {
+      "label":"Dokumentation",
+      "icon":"fa fa-book",
+      "links":[
+        {"text":"Montageanleitung","link":"ws65nngfp_e30_ma"},
+        {"text":"Programm & Verarbeitung","link":"ws65nngfp_e30_pv"}
+      ]
+    }
+  ],
+  "content":{
+    "list":[
+      {
+        "desc1":"DOC-FPA0000106",
+        "desc2":"",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000106p.png?v=242008af358572032db06d439fe1216232149cbf",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000106.png?v=f27a87f852c5e9741dbdbcc97c82ec092070a4ab",
+        "dwg":"../globalassets/media/sections/wicona/dwg/DOC-FPA0000106.dwg?v=d948a860ca9e9a23136389dc0f7e14ffbb2f4d11",
+        "tags":["3010125","3991008","4010135","4020006","4080323","4080330","4090216"]
+      },
+      {
+        "desc1":"DOC-FPA0000107",
+        "desc2":"",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000107p.png?v=38f71e7f78fe7fc846c3a6d882f5603182621d43",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000107.png?v=56cd5f158ec9042439ce809d09b5c0ce64fb3b06",
+        "dwg":"../globalassets/media/sections/wicona/dwg/DOC-FPA0000107.dwg?v=61f67efae8a8a7463e4fd5d5e92b8d89e9b99a1f",
+        "tags":["3010118","3091041","3091042","3991008","4010135","4020006","4070050","4080323","4080330","4090216"]
+      },
+      {
+        "desc1":"DOC-FPA0000108",
+        "desc2":"",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000108p.png?v=9e4be3cc3eaebec8e7380e66bbc355c05c69c540",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000108.png?v=12041a0c55f334ebd73aa8e180ad7f0122518c4d",
+        "dwg":"../globalassets/media/sections/wicona/dwg/DOC-FPA0000108.dwg?v=080960a4527e9d69a6376a39ceab991016bf69fb",
+        "tags":["3010118","3991008","4010135","4020006","4080323","4080330","4090216"]
+      }
+    ]
+  },
+  "style":{"background":false}
+}

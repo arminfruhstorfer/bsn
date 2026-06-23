@@ -1,0 +1,41 @@
+﻿{
+  "navigation":[
+    {
+      "label":"WICLINE 75FP",
+      "links":[
+        {"text":"EW30","link":"wl75fp_ew30"},
+        {"text":"EI30","link":"wl75fp_ei30"},
+        {"text":"EI60","link":"wl75fp_ei60"},
+        {"text":"EI90","link":"wl75fp_ei90"}
+      ]
+    },
+    {
+      "label":"WICSTYLE 65N NG FP",
+      "links":[
+        {"text":"E30","link":"ws65nngfp_e30"},
+        {"text":"EW30","link":"ws65nngfp_ew30"}
+      ]
+    },
+    {
+      "label":"WICSTYLE 77FP",
+      "links":[
+        {"text":"EI30","link":"ws77fp_ei30"},
+        {"text":"EI60","link":"ws77fp_ei60"}
+      ]
+    },
+    {
+      "label":"WICTEC 50/60FP",
+      "links":[
+        {"text":"EI30","link":"wt50fp_ei30"},
+        {"text":"EI60","link":"wt50fp_ei60"}
+      ]
+    },
+    {
+      "label":"ELEGANCE 52FR",
+      "links":[
+        {"text":"EW30","link":"el52fr_ew30"},
+        {"text":"EI30","link":"el52fr_ei30"}
+      ]
+    }
+  ]
+}

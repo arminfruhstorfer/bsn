@@ -1,0 +1,345 @@
+﻿{
+  "subnavigation":[
+    {
+      "label":"Planung",
+      "icon":"fa fa-desktop",
+      "links":[
+        {"text":"Ausschreibungstexte","link":"ws77fp_ei30_at"},
+        {"text":"Füllungen & Größen CE","link":"ws77fp_ei30_fg_ce"},
+        {"text":"Füllungen & Größen ÜA","link":"ws77fp_ei30_fg_ua"},
+        {"text":"Systemdatenblatt","link":"ws77fp_ei30_sd"}
+      ]
+    },
+    {
+      "label":"CAD-Unterstützung",
+      "icon":"fa fa-usb",
+      "links":[
+        {"text":"Konstruktionsschnitte","link":"ws77fp_ei30_ks"},
+        {"text":"Profilkonturen (.dwg)","link":"ws77fp_ei30_pk"},
+        {"text":"Vorschläge Bauanschlüsse","link":"ws77fp_ei30_ba", "active":true}
+      ]
+    },
+    {
+      "label":"Dokumentation",
+      "icon":"fa fa-book",
+      "links":[
+        {"text":"Dokumentation CE","link":"ws77fp_ei30_do_ce"},
+        {"text":"Einbruchhemmung ","link":"ws77fp_ei30_rc"},
+        {"text":"Montageanleitung ÜA","link":"ws77fp_ei30_ma_ua"},
+        {"text":"Programmliste ÜA","link":"ws77fp_ei30_pl_ua"},
+        {"text":"Verarbeitung","link":"ws77fp_ei30_vr"},
+        {"text":"Vorlagen","link":"ws77fp_ei30_vo"}
+      ]
+    }
+  ],
+  "content":{
+    "list":[
+      {
+        "desc1":"DOC-0000961072",
+        "desc2":"Bauanschluss seitlich/oben, Blendrahmen",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/doc-0000961072p.png?v=a1e20cf63d11eb44256072c3a6563f817a18ecc1",
+        "img":"../globalassets/media/sections/wicona/png/doc-0000961072.png?v=e4cdffe15d4e26d9cd6bead4b33aceec566829d7",
+        "dwg":"../globalassets/media/sections/wicona/dwg/wdoc-0000961072.dwg?v=1c01e300f04789810091accf8bd78bfa6ef73c82",
+        "tags":["1021361","4070448","4080006","4080202","4090072"]
+      },
+      {
+        "desc1":"DOC-0000961120",
+        "desc2":"Bauanschluss seitlich/oben, Kämpfer",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/doc-0000961120p.png?v=68c76bf10d3f0c453061ce5ced630012f2e990fd",
+        "img":"../globalassets/media/sections/wicona/png/doc-0000961120.png?v=d50f6736e8dab6265e3a0b42da9b2bf39a89bad3",
+        "dwg":"../globalassets/media/sections/wicona/dwg/wdoc-0000961120.dwg?v=b6850bd4eaaa7fba9e12650d115b239944b932f2",
+        "tags":["1021365","3090198","4010003","4070448","4080006","4080202","4090072"]
+      },
+      {
+        "desc1":"DOC-0000961157",
+        "desc2":"Bauanschluss seitlich/oben, Flügelprofil",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/doc-0000961157p.png?v=2d1bb53dfbd70b532bea10d64feb6695eefcf695",
+        "img":"../globalassets/media/sections/wicona/png/doc-0000961157.png?v=ebd744ee8063f30a98c4182dd266ff33cae29b78",
+        "dwg":"../globalassets/media/sections/wicona/dwg/wdoc-0000961157.dwg?v=5e7d916a12fb6fcf6e67483832f745673faa882d",
+        "tags":["1020450","3090198","4010003","4080006","4090073"]
+      },
+      {
+        "desc1":"DOC-0000961237",
+        "desc2":"Bauanschluss seitlich/oben, Blendrahmen",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/doc-0000961237p.png?v=03c8b983929cea392b6edf6278ec27e2ee50c5be",
+        "img":"../globalassets/media/sections/wicona/png/doc-0000961237.png?v=e0e3067a78be9c088a6f15c9c7a4def73148e963",
+        "dwg":"../globalassets/media/sections/wicona/dwg/wdoc-0000961237.dwg?v=80650df920b40e51afd83689a0dfd4854a0a45c5",
+        "tags":["1020449","4090091","4080006"]
+      },
+      {
+        "desc1":"DOC-0000961281",
+        "desc2":"Bauanschluss seitlich/oben, Dehnblendrahmen",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/doc-0000961281p.png?v=fd5dcd735c4371248fcf130fcbbc3ed18abaeeef",
+        "img":"../globalassets/media/sections/wicona/png/doc-0000961281.png?v=976820b8905b336da7710421925a4fcc5b19c315",
+        "dwg":"../globalassets/media/sections/wicona/dwg/wdoc-0000961281.dwg?v=e04ba55dc7ad64c0bc9a7298dd8dbe6b96215947",
+        "tags":["1021363","4090073"]
+      },
+      {
+        "desc1":"DOC-0000961291",
+        "desc2":"Bauanschluss seitlich/oben, Spezialblendrahmen",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/doc-0000961291p.png?v=6bf87c9993d961cd3352843d41e8785eddd63977",
+        "img":"../globalassets/media/sections/wicona/png/doc-0000961291.png?v=679012968090f2d9a7ac76d1d138408c99d56e08",
+        "dwg":"../globalassets/media/sections/wicona/dwg/wdoc-0000961291.dwg?v=e1b0748ac398c5a4f4a4375aa4a8e63dbf758462",
+        "tags":["1021351","4070448","4080202"]
+      },
+      {
+        "desc1":"DOC-0000961780",
+        "desc2":"Bauanschluss seitlich/oben, Spezialblendrahmen",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/doc-0000961780p.png?v=e25ec696ca0b36aeb1989f6ea581c6e61bcbcf23",
+        "img":"../globalassets/media/sections/wicona/png/doc-0000961780.png?v=df489ea82e7d5f870bf92433167616e72b49b139",
+        "dwg":"../globalassets/media/sections/wicona/dwg/wdoc-0000961780.dwg?v=32d26f873588b5000627e5bfb6d05280a922c910",
+        "tags":["1021351","4070448","4080006","4080202"]
+      },
+      {
+        "desc1":"DOC-0000961984",
+        "desc2":"Bauanschluss seitlich/oben, Kämpfer",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/doc-0000961984p.png?v=ada27aceba4b6777fc20456b613a586017af67d8",
+        "img":"../globalassets/media/sections/wicona/png/doc-0000961984.png?v=7ab2ca85097d4b08b2411dfefaabd43d4ebe762a",
+        "dwg":"../globalassets/media/sections/wicona/dwg/wdoc-0000961984.dwg?v=f5a95f6b9124acda62374b82e00437cd03c1f75e",
+        "tags":["1021365","3090198","4070448","4080202","4090072"]
+      },
+      {
+        "desc1":"DOC-0000962133",
+        "desc2":"Bauanschluss seitlich/oben, Flügelprofil",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/doc-0000962133p.png?v=df26c0221a0e988c77115dfc51c86f8f38a70420",
+        "img":"../globalassets/media/sections/wicona/png/doc-0000962133.png?v=b355888df68551f903ee05b7490f6d30a645c8c0",
+        "dwg":"../globalassets/media/sections/wicona/dwg/wdoc-0000962133.dwg?v=e5af180727d4f6a24c2b888452f2791e578b6c2e",
+        "tags":["1020451","3090198","4070448","4080202","4090073"]
+      },
+      {
+        "desc1":"DOC-0000975570",
+        "desc2":"Bauanschluss seitlich, Blendrahmen",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/doc-0000975570p.png?v=05bf6046d53f63f5650cf3c6774c605a6da0df8d",
+        "img":"../globalassets/media/sections/wicona/png/doc-0000975570.png?v=6f61edeae7a856e24e5f5571df1068a799f7bbea",
+        "dwg":"../globalassets/media/sections/wicona/dwg/wdoc-0000975570.dwg?v=cdbafa7626966f43b67d23e8e8cc9ccb314bf7e6",
+        "tags":["1021354","4070448","4080202","4090076"]
+      },
+      {
+        "desc1":"DOC-0000975569",
+        "desc2":"Bauanschluss seitlich, Dehnblendrahmen",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/doc-0000975569p.png?v=c2d85827c210bcbe85e8dbc23db806c827e024e1",
+        "img":"../globalassets/media/sections/wicona/png/doc-0000975569.png?v=9d23fcad90c8bdba73a7187636df855a250f5a4c",
+        "dwg":"../globalassets/media/sections/wicona/dwg/wdoc-0000975569.dwg?v=824b302c4a7174e57f44225d48437fde85693c3c",
+        "tags":["1021363","4090073"]
+      },
+      {
+        "desc1":"DOC-0001066873",
+        "desc2":"Bauanschluss unten, Sockelprofil",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-0001066873p.png?v=d9eae03f226624d250fd08de77a6d22230243240",
+        "img":"../globalassets/media/sections/wicona/png/DOC-0001066873.png?v=2cf7801926a98e368210f881f8ad850a40710c87",
+        "tags":["199174","1021365","3011020","3020325","4010017","4010065","4070040","4070053","4070448","4080201","4080204","4090072"]
+      },
+      {
+        "desc1":"6203MW-001",
+        "desc2":"Bauanschluss unten - Schwellenlösung",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/6203MW-001p.png?v=8748cc81ee3f2094f22b72d401f5708b536eeeac",
+        "img":"../globalassets/media/sections/wicona/png/6203MW-001.png?v=0344e4e8870b6a1b61bfeb48f593a5e226699f82",
+        "dwg":"../globalassets/media/sections/wicona/dwg/6203MW-001.dwg?v=7da207205f2ab822002c830328014373644f1b7a",
+        "tags":["199174","1021232","1021235","1021353","3090077","4010016","4010065","4010101","4010103","4030187","4070448","4080201","4080205","4090042","4090068","4090084","4910041"]
+      },
+      {
+        "desc1":"6203MW-001",
+        "desc2":"Bauanschluss unten - Schwellenlösung",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/6203MW-001p.png?v=8748cc81ee3f2094f22b72d401f5708b536eeeac",
+        "img":"../globalassets/media/sections/wicona/png/6203MW-001.png?v=0344e4e8870b6a1b61bfeb48f593a5e226699f82",
+        "dwg":"../globalassets/media/sections/wicona/dwg/6203MW-001.dwg?v=7da207205f2ab822002c830328014373644f1b7a",
+        "tags":["199174","1021232","1021235","1021353","3090077","4010016","4010065","4010101","4010103","4030187","4070448","4080201","4080205","4090042","4090068","4090084","4910041"]
+      },
+      {
+        "desc1":"DOC-0000961789",
+        "desc2":"Bauanschluss seitlich/oben, Blendrahmen",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/doc-0000961789p.png?v=ceba0d65da35a8b2b7710ffac62aa4c3e673c2c1",
+        "img":"../globalassets/media/sections/wicona/png/doc-0000961789.png?v=761bbf9752004395973a11450371d0dadda01a1d",
+        "dwg":"../globalassets/media/sections/wicona/dwg/wdoc-0000961789.dwg?v=eb7be4c8513f9ad172c344e7b06ebe5d552535ed",
+        "tags":["1021361","3091036","4010066","4030035","4070057","4070448","4080006","4080202"]
+      },
+      {
+        "desc1":"DOC-0000975583",
+        "desc2":"Bauanschluss seitlich/oben, Flügelprofil",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/doc-0000975583p.png?v=08871f1232610e009adf0374d4af1f7f30d9dea1",
+        "img":"../globalassets/media/sections/wicona/png/doc-0000975583.png?v=c30a1ca554b3df15ae4041aff531824c96bebeaf",
+        "dwg":"../globalassets/media/sections/wicona/dwg/wdoc-0000975583.dwg?v=df9b58a8d8c7987660c12bb817fbb8e98656c87e",
+        "tags":["1020450","4080006","4090073"]
+      },
+      {
+        "desc1":"DOC-0000961490",
+        "desc2":"Bauanschluss seitlich/oben, Blendrahmen mit Aufsatzprofil",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/doc-0000961490p.png?v=3413ebbca511a0cb8792eea2fb5a24f38dfc0a07",
+        "img":"../globalassets/media/sections/wicona/png/doc-0000961490.png?v=65a87ef89fc33fca9f7809038449de2931f5fd2e",
+        "dwg":"../globalassets/media/sections/wicona/dwg/wdoc-0000961490.dwg?v=9c9c64a6094f88165dca837f171c6872b3e654a8",
+        "tags":["1021361","1021376","4030187","4070448","4080202","4090072"]
+      },
+      {
+        "desc1":"DOC-0000961545",
+        "desc2":"Bauanschluss seitlich/oben, Blendrahmen mit Aufsatzprofil",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/doc-0000961545p.png?v=bbe0c07ce4f9cd68dceb96d4c4af5a32ed155216",
+        "img":"../globalassets/media/sections/wicona/png/doc-0000961545.png?v=0e0d09960005ca5311d7fc7fa182081601bfa74c",
+        "dwg":"../globalassets/media/sections/wicona/dwg/wdoc-0000961545.dwg?v=59f86d2a681f5b73e5e982a16e1a5348649acea4",
+        "tags":["1021361","1021376","4030187","4070448","4080202","4090072"]
+      },
+      {
+        "desc1":"DOC-0000961563",
+        "desc2":"Bauanschluss seitlich/oben, Spezialblendrahmen",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/doc-0000961563p.png?v=0d8e9451c70fa12be7c5fe1ce54f1406f722fc1c",
+        "img":"../globalassets/media/sections/wicona/png/doc-0000961563.png?v=7a84123951742d2d41f09c470137ecb03b86afa9",
+        "dwg":"../globalassets/media/sections/wicona/dwg/wdoc-0000961563.dwg?v=7f233d040fae13e7f1119a236b1e66e51fc6f738",
+        "tags":["1021351","4070448","4080202"]
+      },
+      {
+        "desc1":"DOC-0000977326",
+        "desc2":"Bauanschluss seitlich/oben, Blendrahmen",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/doc-0000977326p.png?v=924f8e952bd3583d0de6003638bdcc9ff0b9a492",
+        "img":"../globalassets/media/sections/wicona/png/doc-0000977326.png?v=17e85a12d169e09ad7364258fbfdb2287c292b8c",
+        "dwg":"../globalassets/media/sections/wicona/dwg/wdoc-0000977326.dwg?v=c2b94f771191c50adf1cf8dfdb204d918e4a2a37",
+        "tags":["1021361","4070448","4080202","4090072"]
+      },
+      {
+        "desc1":"DOC-0000962289",
+        "desc2":"Bauanschluss oben, flächenbündige Verglasung ",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/doc-0000962289p.png?v=5ec001a3c5a29f676b31ca749bf588a2ef544101",
+        "img":"../globalassets/media/sections/wicona/png/doc-0000962289.png?v=eb907a27a226238059c43d7e90cfcd4056e2e4c6",
+        "dwg":"../globalassets/media/sections/wicona/dwg/wdoc-0000962289.dwg?v=501acf902c838a53063b7761f6621c35e276d2fc",
+        "tags":["1021381","4070448","4080202","4080374"]
+      },
+      {
+        "desc1":"DOC-0000961820",
+        "desc2":"Bauanschluss seitlich/oben, Spezialblendrahmen",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/doc-0000961820p.png?v=8230ddb0fb7bc31ce34927bb1e1ee9d1b6da9a50",
+        "img":"../globalassets/media/sections/wicona/png/doc-0000961820.png?v=b4033620372403643ab4f3ca05f3517c39b0a444",
+        "dwg":"../globalassets/media/sections/wicona/dwg/wdoc-0000961820.dwg?v=1b1c7430a6390689ec78d27aab8aa7e764ea1a49",
+        "tags":["1021351","4070448","4080202"]
+      },
+      {
+        "desc1":"DOC-0000961783",
+        "desc2":"Bauanschluss seitlich/oben, Spezialblendrahmen",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/doc-0000961783p.png?v=2ca61aba31c1dcf48547a1a4f3d73ee163d4b0ec",
+        "img":"../globalassets/media/sections/wicona/png/doc-0000961783.png?v=bf9820bddf6b55cf2cc3ca6a27765f1e9863b993",
+        "dwg":"../globalassets/media/sections/wicona/dwg/wdoc-0000961783.dwg?v=983410107ada82df8b91a047ffd0ebfac446cf7b",
+        "tags":["1021351","4070448","4080202"]
+      },
+      {
+        "desc1":"DOC-0000961786",
+        "desc2":"Bauanschluss seitlich/oben, Dehnblendrahmen",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/doc-0000961786p.png?v=de95d5e1da726e38102aebc6ed17cef031f3176a",
+        "img":"../globalassets/media/sections/wicona/png/doc-0000961786.png?v=0747252db8431438d41e992cb6273bc0f84cb509",
+        "dwg":"../globalassets/media/sections/wicona/dwg/wdoc-0000961786.dwg?v=a8a4195ff1bc35663f136d0532a12e7bf33e5162",
+        "tags":["1021363","3091031","4010117","4070448","4080202","4090073"]
+      },
+      {
+        "desc1":"DOC-0000961952",
+        "desc2":"Bauanschluss seitlich/oben, Dehnblendrahmen",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/doc-0000961952p.png?v=f7d7bd1d0cfcc263088961e4aa581d3106efa606",
+        "img":"../globalassets/media/sections/wicona/png/doc-0000961952.png?v=d05a89e12037911fc5302b4fa02152fd56b47180",
+        "dwg":"../globalassets/media/sections/wicona/dwg/wdoc-0000961952.dwg?v=c01bc8eb34fc41ed3215c04ff732de72a1525384",
+        "tags":["1021363","4010060","4090073"]
+      },
+      {
+        "desc1":"DOC-0000961812",
+        "desc2":"Bauanschluss seitlich/oben, Kämpfer",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/doc-0000961812p.png?v=2d6425c3e9eff566286cc1157cc57341b43b107a",
+        "img":"../globalassets/media/sections/wicona/png/doc-0000961812.png?v=f17db8d6d75fdbcb26884e5666a76eb9aad1003a",
+        "dwg":"../globalassets/media/sections/wicona/dwg/wdoc-0000961812.dwg?v=6178abf42f1cc804235a0bd137472cf49ea2d02d",
+        "tags":["1021365","4070448","4080202","4090072"]
+      },
+      {
+        "desc1":"6198MW-001",
+        "desc2":"Bauanschluss unten mit Purenit - Schwellenlösung",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/6198MW-001p.png?v=b5cbe7af84c9c7a5ab83c451e707ead91a31fd06",
+        "img":"../globalassets/media/sections/wicona/png/6198MW-001.png?v=6a8401028a48600cead7636b58954c63b23ad789",
+        "dwg":"../globalassets/media/sections/wicona/dwg/6198MW-001.dwg?v=96120e9c65c8328f13249bd1a393bc2383e307bd",
+        "tags":[]
+      },
+	  {
+        "desc1":"6198MW-002",
+        "desc2":"Bauanschluss unten mit Purenit - Festverglasung",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/6198MW-002p.png?v=3c5f1ca5a2dae00aeada98cfd4cb1ee8de87252b",
+        "img":"../globalassets/media/sections/wicona/png/6198MW-002.png?v=5077b29dca0f3963bc9d9b055eb44e036487bb90",
+        "dwg":"../globalassets/media/sections/wicona/dwg/6198MW-001.dwg?v=96120e9c65c8328f13249bd1a393bc2383e307bd",
+        "tags":[]
+      },
+	  {
+        "desc1":"6198MW-003",
+        "desc2":"Bauanschluss unten mit Purenit - Festverglasung WDVS",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/6198MW-003p.png?v=210b073ba569abc112563dcdf157870ff2fc4dbb",
+        "img":"../globalassets/media/sections/wicona/png/6198MW-003.png?v=22dfebe40e4002e69437bb6a51ceb69ffcaedba1",
+        "dwg":"../globalassets/media/sections/wicona/dwg/6198MW-001.dwg?v=96120e9c65c8328f13249bd1a393bc2383e307bd",
+        "tags":[]
+      },
+	  {
+        "desc1":"6198MW-004",
+        "desc2":"Bauanschluss unten mit Purenit - Schwellenlösung Innenbereich",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/6198MW-004p.png?v=2f47e7fe0b6e6dc360cd9503f887a5574f1ad49a",
+        "img":"../globalassets/media/sections/wicona/png/6198MW-004.png?v=fb85a5e87816f667fc16f83f7b3f82b7a0b601fc",
+        "dwg":"../globalassets/media/sections/wicona/dwg/6198MW-001.dwg?v=96120e9c65c8328f13249bd1a393bc2383e307bd",
+        "tags":[]
+      },
+	  {
+        "desc1":"6198MW-005",
+        "desc2":"Bauanschluss unten mit Purenit - Schwellenlösung Innenbereich",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/6198MW-005p.png?v=6d54f6636f8cc15a024196f7d647d79b29d64ee5",
+        "img":"../globalassets/media/sections/wicona/png/6198MW-005.png?v=4f3d02b91243dd9b73cc9d98e626dab8e927b772",
+        "dwg":"../globalassets/media/sections/wicona/dwg/6198MW-001.dwg?v=96120e9c65c8328f13249bd1a393bc2383e307bd",
+        "tags":[]
+      },
+	  {
+        "desc1":"6198MW-006",
+        "desc2":"Bauanschluss unten - Schwellenlösung",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/6198MW-006p.png?v=5b21cec647d8845f70004cf6c43b7e6bd305cb69",
+        "img":"../globalassets/media/sections/wicona/png/6198MW-006.png?v=c84c54a1e418ba52d114667fe9923703f4f54611",
+        "dwg":"../globalassets/media/sections/wicona/dwg/6198MW-001.dwg?v=96120e9c65c8328f13249bd1a393bc2383e307bd",
+        "tags":[]
+      },
+	  {
+        "desc1":"6198MW-007",
+        "desc2":"Bauanschluss unten - Schwellenlösung",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/6198MW-007p.png?v=9f5130b41a5e80157ccc04bff6702502bd27b11f",
+        "img":"../globalassets/media/sections/wicona/png/6198MW-007.png?v=c189b60ebc7cf81cf0d6146e69d27b59c9aa91e5",
+        "dwg":"../globalassets/media/sections/wicona/dwg/6198MW-001.dwg?v=96120e9c65c8328f13249bd1a393bc2383e307bd",
+        "tags":[]
+      },
+	  {
+        "desc1":"6198MW-008",
+        "desc2":"Bauanschluss unten - Schwellenlösung",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/6198MW-008p.png?v=b8ff4f747c4e18355a6476f71a80a924d92b658e",
+        "img":"../globalassets/media/sections/wicona/png/6198MW-008.png?v=ae0557805142a49529a1722b832ca5338f04915e",
+        "dwg":"../globalassets/media/sections/wicona/dwg/6198MW-001.dwg?v=96120e9c65c8328f13249bd1a393bc2383e307bd",
+        "tags":[]
+      }
+    ]
+  },
+  "style":{"background":false}
+}

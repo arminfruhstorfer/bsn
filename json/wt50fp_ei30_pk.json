@@ -1,0 +1,331 @@
+﻿{
+  "subnavigation":[
+    {
+      "label":"Planung",
+      "icon":"fa fa-desktop",
+      "links":[
+        {"text":"Ausschreibungstexte","link":"wt50fp_ei30_at"},
+        {"text":"Füllungen & Größen","link":"wt50fp_ei30_fg"},
+        {"text":"Systemdatenblatt","link":"wt50fp_ei30_sd"}
+      ]
+    },
+    {
+      "label":"CAD-Unterstützung",
+      "icon":"fa fa-usb",
+      "links":[
+        {"text":"Konstruktionsschnitte","link":"wt50fp_ei30_ks"},
+        {"text":"Profilkonturen (.dwg)","link":"wt50fp_ei30_pk", "active":true},
+        {"text":"Vorschläge Bauanschlüsse","link":"wt50fp_ei30_ba"}
+      ]
+    },
+    {
+      "label":"Dokumentation",
+      "icon":"fa fa-book",
+      "links":[
+        {"text":"Programm & Verarbeitung","link":"wt50fp_ei30_pv"}
+      ]
+    }
+  ],
+  "content":{
+    "list":[
+
+      {
+        "desc1":"135002",
+        "desc2":"Pfostenprofil E1, 50/106 mm",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/wicona/png/135002p.png?v=f73d7dc19cf387b47a2801d9c7843bd14c65bd57",
+        "img":"../globalassets/media/items/wicona/png/135002.png?v=df9b8e3b85a6663a6d184c20476d93a1fc51e75a",
+        "dwg":"https://www.wictip.com/globalassets/media/items/wicona/dwg/W135002-IDR.dwg?trackId=135002_item_DWG"
+      },
+      {
+        "desc1":"135003",
+        "desc2":"Pfostenprofil E1, 50/126 mm",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/wicona/png/135003p.png?v=daa9b6a5d7eec8f79e8b6b7f90323d0f7e73aa3c",
+        "img":"../globalassets/media/items/wicona/png/135003.png?v=0088f19ba91f6d93102c5c9177f6380b5bac8abd",
+        "dwg":"https://www.wictip.com/globalassets/media/items/wicona/dwg/W135003-IDR.dwg?trackId=135003_item_DWG"
+      },
+      {
+        "desc1":"135004",
+        "desc2":"Pfostenprofil E1, 50/146 mm",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/wicona/png/135004p.png?v=83919592a7a925967dc9502eb1c0cb57ed49967c",
+        "img":"../globalassets/media/items/wicona/png/135004.png?v=8816db2044518a72c98936a994ccf715ef21556e",
+        "dwg":"https://www.wictip.com/globalassets/media/items/wicona/dwg/W135004-IDR.dwg?trackId=135004_item_DWG"
+      },
+      {
+        "desc1":"135005",
+        "desc2":"Pfostenprofil E1, 50/166 mm",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/wicona/png/135005p.png?v=6b56f2a62d76a617d75e7019030acbb3120b6b8a",
+        "img":"../globalassets/media/items/wicona/png/135005.png?v=8e8f129f6e065185317199a9f57ae0bc632d5882",
+        "dwg":"https://www.wictip.com/globalassets/media/items/wicona/dwg/W135005-IDR.dwg?trackId=135005_item_DWG"
+      },
+      {
+        "desc1":"135006",
+        "desc2":"Pfostenprofil E1, 50/186 mm",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/wicona/png/135006p.png?v=39f9762ec3c651ecb3ec44155b0afb7f85c166b5",
+        "img":"../globalassets/media/items/wicona/png/135006.png?v=b7c6f1c6ec332e318a143ae13aba9c6f5a3c3cf6",
+        "dwg":"https://www.wictip.com/globalassets/media/items/wicona/dwg/W135006-IDR.dwg?trackId=135006_item_DWG"
+      },
+      {
+        "desc1":"135007",
+        "desc2":"Pfostenprofil E1, 50/206 mm",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/wicona/png/135007p.png?v=1a11b0d8a0da48860ab3ee97937144c7c81cc041",
+        "img":"../globalassets/media/items/wicona/png/135007.png?v=fc47696120b85d4e9c143c3fa815521fa4c21e42",
+        "dwg":"https://www.wictip.com/globalassets/media/items/wicona/dwg/W135007-IDR.dwg?trackId=135007_item_DWG"
+      },
+      {
+        "desc1":"135046",
+        "desc2":"Pfostenprofil E1A, 50/106 mm",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/wicona/png/135046p.png?v=1ca7a561d603bd7846bf270295a22398807af513",
+        "img":"../globalassets/media/items/wicona/png/135046.png?v=4727f3b3967b0956e43d1797642eb6614276b600",
+        "dwg":"https://www.wictip.com/globalassets/media/items/wicona/dwg/W135046-IDR.dwg?trackId=135046_item_DWG"
+      },
+      {
+        "desc1":"135047",
+        "desc2":"Pfostenprofil E1A, 50/126 mm",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/wicona/png/135047p.png?v=e19ba4fd0680ceee63bd2309a75c3462e0bde7d2",
+        "img":"../globalassets/media/items/wicona/png/135047.png?v=b8622e58a8d27c6c6dadd3d96e9b3acd9f5ba0d0",
+        "dwg":"https://www.wictip.com/globalassets/media/items/wicona/dwg/W135047-IDR.dwg?trackId=135047_item_DWG"
+      },
+      {
+        "desc1":"135048",
+        "desc2":"Pfostenprofil E1A, 50/146 mm",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/wicona/png/135048p.png?v=790437b51f8a1f03781c42d55fa42443731f8c26",
+        "img":"../globalassets/media/items/wicona/png/135048.png?v=2f789e0495e5a3cae46e2255489550622c29bf00",
+        "dwg":"https://www.wictip.com/globalassets/media/items/wicona/dwg/W135048-IDR.dwg?trackId=135048_item_DWG"
+      },
+      {
+        "desc1":"135049",
+        "desc2":"Pfostenprofil E1A, 50/166 mm",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/wicona/png/135049p.png?v=7a56ea127f57432766d227f4f2137f20a96feb32",
+        "img":"../globalassets/media/items/wicona/png/135049.png?v=54e6436a241e0c0b5839f84fbc2fc1756bb4d311",
+        "dwg":"https://www.wictip.com/globalassets/media/items/wicona/dwg/W135049-IDR.dwg?trackId=135049_item_DWG"
+      },
+      {
+        "desc1":"135050",
+        "desc2":"Pfostenprofil E1A, 50/186 mm",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/wicona/png/135050p.png?v=4b8c226dffd5bc6d357d5737d56eb198b2ea77d7",
+        "img":"../globalassets/media/items/wicona/png/135050.png?v=a8f3a629d2dac286aeb19bc6bae52984f57b7bdf",
+        "dwg":"https://www.wictip.com/globalassets/media/items/wicona/dwg/W135050-IDR.dwg?trackId=135050_item_DWG"
+      },
+      {
+        "desc1":"135051",
+        "desc2":"Pfostenprofil E1A, 50/206 mm",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/wicona/png/135051p.png?v=0e0d6cad80f0ef96240c6ccbb5ab9302443a59d7",
+        "img":"../globalassets/media/items/wicona/png/135051.png?v=0929f7f96b0794db90eea0b5e1ac99afe4c31b38",
+        "dwg":"https://www.wictip.com/globalassets/media/items/wicona/dwg/W135051-IDR.dwg?trackId=135051_item_DWG"
+      },
+      {
+        "desc1":"135023",
+        "desc2":"Riegelprofil E2, 50/65,5 mm",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/wicona/png/135023p.png?v=f7ff6232118bfc8fa67786664b9319c26f96e3ad",
+        "img":"../globalassets/media/items/wicona/png/135023.png?v=c4975103e2645708d87cfe123bc0430ea1f05485",
+        "dwg":"https://www.wictip.com/globalassets/media/items/wicona/dwg/W135023-IDR.dwg?trackId=135023_item_DWG"
+      },
+      {
+        "desc1":"135024",
+        "desc2":"Riegelprofil E2, 50/85,5 mm",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/wicona/png/135024p.png?v=deac79a40e5ff0610b2e85736c93b0b5e5f4479e",
+        "img":"../globalassets/media/items/wicona/png/135024.png?v=7bc34dabc8a25bd91542f6339a33a3532d536bdb",
+        "dwg":"https://www.wictip.com/globalassets/media/items/wicona/dwg/W135024-IDR.dwg?trackId=135024_item_DWG"
+      },
+      {
+        "desc1":"135025",
+        "desc2":"Riegelprofil E2, 50/105,5 mm",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/wicona/png/135025p.png?v=7d6e2cd7736a0583e1e9ede82f9a49d14d2c5e0a",
+        "img":"../globalassets/media/items/wicona/png/135025.png?v=7751dd6d6be82c4142dee5629e3d44ecef404d3b",
+        "dwg":"https://www.wictip.com/globalassets/media/items/wicona/dwg/W135025-IDR.dwg?trackId=135025_item_DWG"
+      },
+      {
+        "desc1":"135026",
+        "desc2":"Riegelprofil E2, 50/125,5 mm",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/wicona/png/135026p.png?v=a11cab71a005bed407ac374a0340474b2377307e",
+        "img":"../globalassets/media/items/wicona/png/135026.png?v=5fb3020826e4666b36489dc84a12c575ce776540",
+        "dwg":"https://www.wictip.com/globalassets/media/items/wicona/dwg/W135026-IDR.dwg?trackId=135026_item_DWG"
+      },
+      {
+        "desc1":"135027",
+        "desc2":"Riegelprofil E2, 50/145,5 mm",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/wicona/png/135027p.png?v=b01b0e9992cbf8158a5e32cbf60786cca0ee0823",
+        "img":"../globalassets/media/items/wicona/png/135027.png?v=42252cfb490b7d60d3b1827d186651e6df7bea0d",
+        "dwg":"https://www.wictip.com/globalassets/media/items/wicona/dwg/W135027-IDR.dwg?trackId=135027_item_DWG"
+      },
+      {
+        "desc1":"135028",
+        "desc2":"Riegelprofil E2, 50/165,5 mm",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/wicona/png/135028p.png?v=5e145c8ad95eed745569860f8d2b900b7fc70fa0",
+        "img":"../globalassets/media/items/wicona/png/135028.png?v=1fcc15c4343c9b9f6277d229f8d58a1609d1ac38",
+        "dwg":"https://www.wictip.com/globalassets/media/items/wicona/dwg/W135028-IDR.dwg?trackId=135028_item_DWG"
+      },
+      {
+        "desc1":"135032",
+        "desc2":"Riegelprofil E3, 50/65,5 mm",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/wicona/png/135032p.png?v=c6dcb0a753feb234b918467fb53dbade7f92b923",
+        "img":"../globalassets/media/items/wicona/png/135032.png?v=1575f743397f0fdba1125b32ccbd7b995e62e941",
+        "dwg":"https://www.wictip.com/globalassets/media/items/wicona/dwg/W135032-IDR.dwg?trackId=135032_item_DWG"
+      },
+      {
+        "desc1":"135033",
+        "desc2":"Riegelprofil E3, 50/85,5 mm",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/wicona/png/135033p.png?v=62fb859acb0c5fb191966680a0be3ee76b00538f",
+        "img":"../globalassets/media/items/wicona/png/135033.png?v=6ead6bdf00da7d473f0a97202ed313e13e43ef2a",
+        "dwg":"https://www.wictip.com/globalassets/media/items/wicona/dwg/W135033-IDR.dwg?trackId=135033_item_DWG"
+      },
+      {
+        "desc1":"135034",
+        "desc2":"Riegelprofil E3, 50/105,5 mm",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/wicona/png/135034p.png?v=bfbe43a61e21c0b1fbb8b3a83ca045f04b9a2bbc",
+        "img":"../globalassets/media/items/wicona/png/135034.png?v=932540c1536f02d3eec216c9415adde05fe4ad16",
+        "dwg":"https://www.wictip.com/globalassets/media/items/wicona/dwg/W135034-IDR.dwg?trackId=135034_item_DWG"
+      },
+      {
+        "desc1":"135035",
+        "desc2":"Riegelprofil E3, 50/125,5 mm",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/wicona/png/135035p.png?v=aebd1324c5b42543912f2a1d0ee37d717ff80f76",
+        "img":"../globalassets/media/items/wicona/png/135035.png?v=826a4da5e4e93395245f0c45d243d56e65f2ade4",
+        "dwg":"https://www.wictip.com/globalassets/media/items/wicona/dwg/W135035-IDR.dwg?trackId=135035_item_DWG"
+      },
+      {
+        "desc1":"135071",
+        "desc2":"Abdeckprofil für Andruckprofil 50/15 mm",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/wicona/png/135071p.png?v=a7509113d1f8e6dc8d7ae9b78fc7958deb6953d6",
+        "img":"../globalassets/media/items/wicona/png/135071.png?v=e92cdb80d85103b101dbec3f31dc251cc10652a3",
+        "dwg":"https://www.wictip.com/globalassets/media/items/wicona/dwg/W135071-IDR.dwg?trackId=135071_item_DWG"
+      },
+      {
+        "desc1":"135072",
+        "desc2":"Abdeckprofil für Andruckprofil 50/20 mm",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/wicona/png/135072p.png?v=5e773d800aa513d02b36776197a34bbd4682a8a3",
+        "img":"../globalassets/media/items/wicona/png/135072.png?v=1f80fcc4b2174b4f23b6a57303b93dbb4425ce2c",
+        "dwg":"https://www.wictip.com/globalassets/media/items/wicona/dwg/W135072-IDR.dwg?trackId=135072_item_DWG"
+      },
+      {
+        "desc1":"135073",
+        "desc2":"Abdeckprofil für Andruckprofil 50/25 mm",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/wicona/png/135073p.png?v=72e3a86204a1afec013f0e7b0148ce2bf91384b5",
+        "img":"../globalassets/media/items/wicona/png/135073.png?v=2e91d9ec5be3d39c1418014db2891901d7d7c047",
+        "dwg":"https://www.wictip.com/globalassets/media/items/wicona/dwg/W135073-IDR.dwg?trackId=135073_item_DWG"
+      },
+      {
+        "desc1":"135074",
+        "desc2":"Abdeckprofil für Andruckprofil 50/30 mm",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/wicona/png/135074p.png?v=f28a45aa6b1a39316a0f34ef52e202545740b6da",
+        "img":"../globalassets/media/items/wicona/png/135074.png?v=1e4617163adecce6a55a632e2cd2b824636e17b9",
+        "dwg":"https://www.wictip.com/globalassets/media/items/wicona/dwg/W135074-IDR.dwg?trackId=135074_item_DWG"
+      },
+      {
+        "desc1":"927604",
+        "desc2":"Abdeckprofil 15/55 mm, Edelstahl",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/wicona/png/927604p.png?v=4ea22daabebfbe19847c00d5f56d62fad49d30a6",
+        "img":"../globalassets/media/items/wicona/png/927604.png?v=be593d5cc639ab524bfdba800b7583930b4eeecd",
+        "dwg":"https://www.wictip.com/globalassets/media/items/wicona/dwg/W927604-IDR.dwg?trackId=927604_item_DWG"
+      },
+      {
+        "desc1":"927614",
+        "desc2":"Abdeckprofil 20/55 mm, Edelstahl",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/wicona/png/927614p.png?v=6af228ca4a9c58ac95ed873e47e25464f9f423b0",
+        "img":"../globalassets/media/items/wicona/png/927614.png?v=7476af9b2948a18cff582b907f752203ffd5d94e",
+        "dwg":"https://www.wictip.com/globalassets/media/items/wicona/dwg/W927614-IDR.dwg?trackId=927614_item_DWG"
+      },
+      {
+        "desc1":"135193",
+        "desc2":"Andruckprofil 46,8/10 mm, gelocht",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/wicona/png/135193p.png?v=3dbb66fdc36b3f8d287803f7a4742548641a6cb4",
+        "img":"../globalassets/media/items/wicona/png/135193.png?v=24b2c99411f9182be62139ecffc70ed313b4d48d",
+        "dwg":"https://www.wictip.com/globalassets/media/items/wicona/dwg/W135193-IDR.dwg?trackId=135193_item_DWG"
+      },
+      {
+        "desc1":"135069",
+        "desc2":"Andruckprofil für CRNI-Abdeckprofil 51,8/14,5 mm",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/wicona/png/135069p.png?v=5650619b8af6e24d9e69269c4fc720e760e6b9fa",
+        "img":"../globalassets/media/items/wicona/png/135069.png?v=2a8154cbe7e295054fdb3297943589136fa6c76a",
+        "dwg":"https://www.wictip.com/globalassets/media/items/wicona/dwg/W135069-IDR.dwg?trackId=135069_item_DWG"
+      },
+      {
+        "desc1":"135076",
+        "desc2":"Andruckprofil 50/11,5 mm",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/wicona/png/135076p.png?v=8eff403e6aaf1cf8cdcf9cbdee97de8434962592",
+        "img":"../globalassets/media/items/wicona/png/135076.png?v=f6eee252590b730c19a699886c7734d2d7ce260d",
+        "dwg":"https://www.wictip.com/globalassets/media/items/wicona/dwg/W135076-IDR.dwg?trackId=135076_item_DWG"
+      },
+      {
+        "desc1":"135077",
+        "desc2":"Andruckprofil 50/12 mm",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/wicona/png/135077p.png?v=9ba818e077fed9721592308114d94df51dd755e5",
+        "img":"../globalassets/media/items/wicona/png/135077.png?v=b5fac796fd05f24c165489dc258649c691af0f61",
+        "dwg":"https://www.wictip.com/globalassets/media/items/wicona/dwg/W135077-IDR.dwg?trackId=135077_item_DWG"
+      },
+      {
+        "desc1":"135058",
+        "desc2":"Andruckprofil 50/27 mm",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/wicona/png/135058p.png?v=1ca40597a512c50d07c4e0e1f396b42899600ec9",
+        "img":"../globalassets/media/items/wicona/png/135058.png?v=b61eea01ed6a25f6a026c1d66162bb83d5073431",
+        "dwg":"https://www.wictip.com/globalassets/media/items/wicona/dwg/W135058-IDR.dwg?trackId=135058_item_DWG"
+      },
+      {
+        "desc1":"199180",
+        "desc2":"Einschubprofil FP-Fassade",
+        "tags":["article","fparticle"],
+        "pimg":"../globalassets/media/items/wicona/png/199180p.png?v=6115789608ce40448e243f7291d82bec12171a45",
+        "img":"../globalassets/media/items/wicona/png/199180.png?v=5162d3aaeffd5d58423d8e37e34a0ae3c53b6dc0",
+        "dwg":"https://www.wictip.com/globalassets/media/items/wicona/dwg/W199180-IDR.dwg?trackId=199180_item_DWG"
+      },
+      {
+        "desc1":"199182",
+        "desc2":"Einschubprofil FP-Fassade",
+        "tags":["article","fparticle"],
+        "pimg":"../globalassets/media/items/wicona/png/199182p.png?v=7d328cc5afebcc7a742791696cd8d4025d911b3a",
+        "img":"../globalassets/media/items/wicona/png/199182.png?v=bd8d7238fb36abdfd53a7b7475cec59409aeda8e",
+        "dwg":"https://www.wictip.com/globalassets/media/items/wicona/dwg/W199182-IDR.dwg?trackId=199182_item_DWG"
+      },
+      {
+        "desc1":"199170",
+        "desc2":"Brandschutzstreifen Verbinder 38/18, L = 1248 mm",
+        "tags":["article","fparticle"],
+        "pimg":"../globalassets/media/items/wicona/png/199170p.png?v=858a5acf192f08ce05c2c4075977a794b354bdb0",
+        "img":"../globalassets/media/items/wicona/png/199170.png?v=78756c59c81a96a6af9e5a11fca0c7f0eb4ed780",
+        "dwg":"https://www.wictip.com/globalassets/media/items/wicona/dwg/W199170-IDR.dwg?trackId=199170_item_DWG"
+      }
+    ]
+  },
+  "filter":{
+    "type":"OR",
+    "data":[
+      {"label":"Alle","filteroption":[""]},
+      {"label":"Standardprofile","filteroption":["profile"]},
+      {"label":"Einschübe & Dichtstreifen","filteroption":["fparticle"]}
+    ]
+  },
+  "style":{"background":false}
+}

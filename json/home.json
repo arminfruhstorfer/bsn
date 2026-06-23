@@ -1,0 +1,84 @@
+{
+  "content":{
+    "home":[
+      {
+        "label":"\u00a0",
+        "links":[
+          {"text":"WL75FP"},
+          {"text":"WS65NNGFP"},
+		  {"text":"WS77FP"},
+		  {"text":"WT50FP"},
+		  {"text":"EL52FR"}
+        ]
+      },
+      {
+        "label":"E30",
+        "links":[
+          {"text":"\u00a0","link":""},
+          {"text":"Festverglasungen","link":"ws65nngfp_e30","shapes":["fix"]},
+		  {"text":"\u00a0","link":""},
+		  {"text":"\u00a0","link":""},
+		  {"text":"\u00a0","link":""}
+        ]
+      },
+      {
+        "label":"EW30",
+        "links":[
+          {"text":"Festverglasungen","link":"wl75fp_ew30","shapes":["fix"]},
+          {"text":"Türen & Festverglasungen","link":"ws65nngfp_ew30","shapes":["open","fix"]},
+		  {"text":"\u00a0","link":""},
+		  {"text":"\u00a0","link":""},
+		  {"text":"Dachverglasungen","link":"el52fr_ew30","shapes":["fix"]}
+        ]
+      },
+	  {
+        "label":"EI30",
+        "links":[
+          {"text":"Fenster & Festverglasungen","link":"wl75fp_ei30","shapes":["open","fix"]},
+          {"text":"\u00a0","link":""},
+		  {"text":"Türen & Festverglasungen","link":"ws77fp_ei30","shapes":["open","fix"]},
+		  {"text":"Festverglasungen","link":"wt50fp_ei30","shapes":["fix"]},
+		  {"text":"Dachverglasungen","link":"el52fr_ei30","shapes":["fix"]}
+        ]
+      },
+	  {
+        "label":"EI60",
+        "links":[
+          {"text":"Festverglasungen","link":"wl75fp_ei60","shapes":["fix"]},
+          {"text":"\u00a0","link":""},
+		  {"text":"Türen & Festverglasungen","link":"ws77fp_ei60","shapes":["open","fix"]},
+		  {"text":"Festverglasungen","link":"wt50fp_ei60","shapes":["fix"]},
+		  {"text":"\u00a0","link":""}
+        ]
+      },
+	  {
+        "label":"EI90",
+        "links":[
+          {"text":"Festverglasungen","link":"wl75fp_ei90","shapes":["fix"]},
+          {"text":"\u00a0","link":""},
+		  {"text":"\u00a0","link":""},
+		  {"text":"\u00a0","link":""},
+		  {"text":"\u00a0","link":""}
+        ]
+      }
+    ],
+	"news":[
+		{"line":[
+			{"type":"span","text":"Dokumente in WICSTYLE 77 FP EI60 erneuert "},
+			{"type":"a","text":"Hier klicken für mehr Informationen","link":"../ebook.html?d=666669","mobilelink":"../globalassets/media/items/wicona/pdf/info1.pdf?v=f646336720dae13fa0edb8218ca1a52c22e02660"}
+		]},
+		{"line":[
+			{"type":"span","text":"WICLINE 75 FP EI30 EXAP Bericht für Kettenantrieb aktualisiert"}
+		]},
+		{"line":[
+			{"type":"span","text":"Dokumente in WICLINE 75 FP EI30 erneuert "},
+			{"type":"a","text":"Hier klicken für mehr Informationen","link":"../ebook.html?d=666666","mobilelink":"../globalassets/media/items/wicona/pdf/info.pdf?v=5a8892caa535d2a29d3a7af0649ac7c4ae688c7a"}
+		]},
+		{"line":[
+			{"type":"span","text":"Dokumente in WICSTYLE 77 FP EI30 erneuert "},
+			{"type":"a","text":"Hier klicken für mehr Informationen","link":"../ebook.html?d=666667","mobilelink":"../globalassets/media/items/wicona/pdf/info1.pdf?v=f2ebb7f0d680520d6ec7a50ae8472f6c711cb51f"}
+		]}
+	]
+  },
+  "style": {"background":true}
+}

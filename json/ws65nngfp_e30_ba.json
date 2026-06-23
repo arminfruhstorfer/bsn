@@ -1,0 +1,43 @@
+﻿{
+  "subnavigation":[
+    {
+      "label":"Planung",
+      "icon":"fa fa-desktop",
+      "links":[
+        {"text":"Füllungen & Größen","link":"ws65nngfp_e30_fg"},
+        {"text":"Systemdatenblatt","link":"ws65nngfp_e30_sd"}
+      ]
+    },
+    {
+      "label":"CAD-Unterstützung",
+      "icon":"fa fa-usb",
+      "links":[
+        {"text":"Konstruktionsschnitte","link":"ws65nngfp_e30_ks"},
+        {"text":"Profilkonturen (.dwg)","link":"ws65nngfp_e30_pk"},
+        {"text":"Bauanschlüsse","link":"ws65nngfp_e30_ba", "active":true}
+      ]
+    },
+    {
+      "label":"Dokumentation",
+      "icon":"fa fa-book",
+      "links":[
+        {"text":"Montageanleitung","link":"ws65nngfp_e30_ma"},
+        {"text":"Programm & Verarbeitung","link":"ws65nngfp_e30_pv"}
+      ]
+    }
+  ],
+  "content":{
+    "list":[
+      {
+        "desc1":"DOC-FPA0000109",
+        "desc2":"",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000109p.png?v=c4aad49be897dd3db3e01492391f55237c44679b",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000109.png?v=751ee960d8fff6f1fd6f024f2f38efcf74639315",
+        "dwg":"../globalassets/media/sections/wicona/dwg/DOC-FPA0000109.dwg?v=7fe01df8c17c1f71ecb96d3d7eeca4f7ace6ac32",
+        "tags":["3010125","3991008","4010135","4020006","4080323","4080330","4090216"]
+      }
+    ]
+  },
+  "style":{"background":false}
+}

@@ -1,0 +1,130 @@
+﻿{
+  "subnavigation":[
+    {
+      "label":"Planung",
+      "icon":"fa fa-desktop",
+      "links":[
+        {"text":"Ausschreibungstexte","link":"wl75fp_ei30_at"},
+        {"text":"Füllungen & Größen CE","link":"wl75fp_ei30_fg_ce"},
+        {"text":"Füllungen & Größen ÜA","link":"wl75fp_ei30_fg_ua"},
+        {"text":"Systemdatenblatt","link":"wl75fp_ei30_sd"}
+      ]
+    },
+    {
+      "label":"CAD-Unterstützung",
+      "icon":"fa fa-usb",
+      "links":[
+        {"text":"Konstruktionsschnitte","link":"wl75fp_ei30_ks"},
+        {"text":"Profilkonturen (.dwg)","link":"wl75fp_ei30_pk"},
+        {"text":"Vorschläge Bauanschlüsse","link":"wl75fp_ei30_ba", "active":true}
+      ]
+    },
+    {
+      "label":"Dokumentation",
+      "icon":"fa fa-book",
+      "links":[
+        {"text":"Dokumentation CE","link":"wl75fp_ei30_do_ce"},
+        {"text":"Montageanleitung ÜA","link":"wl75fp_ei30_ma_ua"},
+        {"text":"Programm ÜA","link":"wl75fp_ei30_pl_ua"},
+        {"text":"Verarbeitung","link":"wl75fp_ei30_vr"},
+        {"text":"Vorlagen","link":"wl75fp_ei30_vo"}
+      ]
+    }
+  ],
+  "content":{
+    "list":[
+      {
+        "desc1":"DOC-0000955063",
+        "desc2":"Bauanschluss unten, dreifach ISO - Typ\u00a0A",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/doc-0000955063p.png?v=1017fc27295a20ccf3190cd7dade511364ba792d",
+        "img":"../globalassets/media/sections/wicona/png/doc-0000955063.png?v=29637f01fb8d526be7578a0b71e252df3c343279",
+        "dwg":"../globalassets/media/sections/wicona/dwg/wdoc-0000955063.dwg?v=5ce80774c4d7880b608cd6a5858f45ed60f2d74e",
+        "tags":["1910146","1910148","3991007","4010016","4010045","4020006","4030187","4070448","4080131","4080202","4080403","4090112","4090113","4090121","4910016","4910022","4990007"]
+      },
+      {
+        "desc1":"DOC-0001034654",
+        "desc2":"Bauanschluss unten - Typ\u00a0A",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/doc-0001034654p.png?v=b9fc3269d2fdeb54fa23a5b7eadbb332b3ade424",
+        "img":"../globalassets/media/sections/wicona/png/doc-0001034654.png?v=affad6e3abc44a5a7e4a9d9670756f6096246078",
+        "dwg":"../globalassets/media/sections/wicona/dwg/wdoc-0001034654.dwg?v=28d7eb25754dee44820ced6620ce4fd26ed90434",
+        "tags":["1010557","1910148","3991216","4010047","4030035","4030187","4070448","4080202","4090113","4090121"]
+      },
+      {
+        "desc1":"DOC-0000953031",
+        "desc2":"Bauanschluss unten - Typ\u00a0A",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/doc-0000953031p.png?v=74be7120b44eefd10b11e9c691b1fc0d2cb19cca",
+        "img":"../globalassets/media/sections/wicona/png/doc-0000953031.png?v=6863554ea49139ce57497babc4863a6a7e0bb4a5",
+        "dwg":"../globalassets/media/sections/wicona/dwg/wdoc-0000953031.dwg?v=1c3c4e7c9481c7fcb31920c8f86e210007fc0fc0",
+        "tags":["126762","191049","3090079","4010016","4030187","4070448","4080260","4080436","4090113","4910022"]
+      },
+      {
+        "desc1":"DOC-0001019934",
+        "desc2":"Bauanschluss unten mit Falzverbreiterungsprofil - Typ\u00a0A",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/doc-0001019934p.png?v=cc19570e61c3199f6ed4722b5ef2e8313566ea6b",
+        "img":"../globalassets/media/sections/wicona/png/doc-0001019934.png?v=2a8856041c3eaba979033faf9c9bc03aab21add2",
+        "dwg":"../globalassets/media/sections/wicona/dwg/wdoc-0001019934.dwg?v=002f4266784902bf22b81d7ae6a44cd9bf55c4e8",
+        "tags":["199174","1331073","192527","3090080","4010016","4010047","4020006","4070448","4080202","4080259","4080436","4090112","4090186","4910022","4910040","4940171"]
+      },
+      {
+        "desc1":"DOC-0000955186",
+        "desc2":"Bauanschluss seitlich, dreifach ISO - Typ\u00a0A",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/doc-0000955186p.png?v=ac1654ff252b6612098cde6eea69d9c7db998512",
+        "img":"../globalassets/media/sections/wicona/png/doc-0000955186.png?v=02288d19b2ceec9a8659eafa06449e09201833eb",
+        "dwg":"../globalassets/media/sections/wicona/dwg/wdoc-0000955186.dwg?v=d2d3d55262bd0752811c635aa4b78fa0f6330426",
+        "tags":["1311073","3991004","4010016","4030187","4070046","4070448","4080006","4080131","4080436","4090112","4910022","4990007"]
+      },
+      {
+        "desc1":"DOC-0000955214",
+        "desc2":"Bauanschluss leichte Trennwand, dreifach ISO - Typ\u00a0A",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/doc-0000955214p.png?v=bc0d9d99998e9c4989d5860e7c9792e196fe4a56",
+        "img":"../globalassets/media/sections/wicona/png/doc-0000955214.png?v=7af8e059f4d75bdb8b0f25880f6fe3a53c2c9ab3",
+        "dwg":"../globalassets/media/sections/wicona/dwg/wdoc-0000955214.dwg?v=6cc131cdb28c55e63c7386657aa64c1e5dcb9661",
+        "tags":["1311073","3991004","4010016","4030187","4070448","4080131","4080436","4090112","4910022","4990007"]
+      },
+      {
+        "desc1":"DOC-0000954259",
+        "desc2":"öffenbare Brandschutzverglasung mit Rahmen und Profilkopplung, dreifach ISO - Typ\u00a0A",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/doc-0000954259p.png?v=9fa54e02be3962586ee70a1b66e902f79c8e71d2",
+        "img":"../globalassets/media/sections/wicona/png/doc-0000954259.png?v=6e2541ae48be88eff93ce9b801823bc967181640",
+        "dwg":"../globalassets/media/sections/wicona/dwg/wdoc-0000954259.dwg?v=ad3381211079ad6fe8e108d3a1324ebaf6899daf",
+        "tags":["1311073","1910146","1917060","3991007","4010016","4010045","4010047","4020006","4030187","4070061","4070165","4070448","4080202","4080403","4090112","4090121","4090122","4090183","4910016","4910022","499007"]
+      },
+      {
+        "desc1":"DOC-0000955280",
+        "desc2":"Bauanschluss bekleidete Holzstütze, dreifach ISO - Typ\u00a0A",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/doc-0000955280p.png?v=43049257fd78759860180c6672d3f5128dcb29d5",
+        "img":"../globalassets/media/sections/wicona/png/doc-0000955280.png?v=aec4b107d50d5294adc33cc943dd4f0400d0ecc4",
+        "dwg":"../globalassets/media/sections/wicona/dwg/wdoc-0000955280.dwg?v=e2bcce86ce9906ad909acd69591cbbbff87d3505",
+        "tags":["1910148","3991004","4010016","4030187","4070448","4080131","4080436","4090113","4910022","4990007"]
+      },
+      {
+        "desc1":"6193MW-001",
+        "desc2":"Bauanschluss unten - Typ\u00a0A",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/6193MW-001p.png?v=53691b8dfbae268a45a5ffe962a29fd72e979cea",
+        "img":"../globalassets/media/sections/wicona/png/6193MW-001.png?v=3b70ae93758cee781e50b592bdac20bc07c6092c",
+        "dwg":"../globalassets/media/sections/wicona/dwg/6193MW-001.dwg?v=7fad5f1ca8a5e4381a1d74599d298a395f7f7d11",
+        "tags":["199174","1311073","3090079","4010016","4070448","4080260","4080436","4090112","4090115","4910022"]
+      }
+	  ,
+      {
+        "desc1":"6193MW-002",
+        "desc2":"Bauanschluss unten - Typ\u00a0A",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/6193MW-002p.png?v=50077a3497dbbed432fe446a5433ebc96d8fa9cb",
+        "img":"../globalassets/media/sections/wicona/png/6193MW-002.png?v=86e8016b3c03fb50c47fedad7cb4689323a18d57",
+        "dwg":"../globalassets/media/sections/wicona/dwg/6193MW-002.dwg?v=7fad5f1ca8a5e4381a1d74599d298a395f7f7d11",
+        "tags":["199174","1311073","3090079","4010016","4070448","4080260","4080436","4090112","4090115","4910022"]
+      }
+    ]
+  },
+  "style":{"background":false}
+}

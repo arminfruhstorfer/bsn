@@ -1,0 +1,45 @@
+﻿{
+  "subnavigation":[
+    {
+      "label":"Planung",
+      "icon":"fa fa-desktop",
+      "links":[
+        {"text":"Ausschreibungstexte","link":"ws77fp_ei60_at"},
+        {"text":"Füllungen & Größen CE","link":"ws77fp_ei60_fg_ce"},
+        {"text":"Füllungen & Größen ÜA","link":"ws77fp_ei60_fg_ua", "active":true},
+        {"text":"Systemdatenblatt","link":"ws77fp_ei60_sd"}
+      ]
+    },
+    {
+      "label":"CAD-Unterstützung",
+      "icon":"fa fa-usb",
+      "links":[
+        {"text":"Konstruktionsschnitte","link":"ws77fp_ei60_ks"},
+        {"text":"Profilkonturen (.dwg)","link":"ws77fp_ei60_pk"},
+        {"text":"Vorschläge Bauanschlüsse","link":"ws77fp_ei60_ba"}
+      ]
+    },
+    {
+      "label":"Dokumentation",
+      "icon":"fa fa-book",
+      "links":[
+        {"text":"Dokumentation CE","link":"ws77fp_ei60_do_ce"},
+        {"text":"Montageanleitung ÜA","link":"ws77fp_ei60_ma_ua"},
+        {"text":"Programm ÜA","link":"ws77fp_ei60_pl_ua"},
+        {"text":"Verarbeitung","link":"ws77fp_ei60_vr"}
+      ]
+    }
+  ],
+  "content":{
+    "list":[
+
+      {
+        "desc1":"Füllungen & Größen ÜA",
+        "pimg":"../globalassets/media/items/wicona/png/ws77fp_ei60_fg_ua.png?v=3ba7bec9cbf94d8502ca22ab09eb3a930d98b00b",
+        "pdf":"../globalassets/media/items/wicona/pdf/ws77fp_ei60_fg_ua.pdf?v=792fb3add94212fd2104c7bce48450361f522fa4",
+        "ebook":"../ebook.html?d=979829"
+      }
+    ]
+  },
+  "style":{"background":false}
+}

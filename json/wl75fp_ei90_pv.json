@@ -1,0 +1,41 @@
+﻿{
+  "subnavigation":[
+    {
+      "label":"Planung",
+      "icon":"fa fa-desktop",
+      "links":[
+        {"text":"Ausschreibungstexte","link":"wl75fp_ei90_at"},
+        {"text":"Füllungen & Größen","link":"wl75fp_ei90_fg"},
+        {"text":"Systemdatenblatt","link":"wl75fp_ei90_sd"}
+      ]
+    },
+    {
+      "label":"CAD-Unterstützung",
+      "icon":"fa fa-usb",
+      "links":[
+        {"text":"Konstruktionsschnitte","link":"wl75fp_ei90_ks"},
+        {"text":"Profilkonturen (.dwg)","link":"wl75fp_ei90_pk"},
+        {"text":"Vorschläge Bauanschlüsse","link":"wl75fp_ei90_ba"}
+      ]
+    },
+    {
+      "label":"Dokumentation",
+      "icon":"fa fa-book",
+      "links":[
+        {"text":"Programm & Verarbeitung","link":"wl75fp_ei90_pv", "active":true}
+      ]
+    }
+  ],
+  "content":{
+    "list":[
+
+      {
+        "desc1":"Programmliste",
+        "pimg":"../globalassets/media/items/wicona/png/wl75fp_ei30_pl.png?v=71e20a2530ad53927b5d760edb6aa6385b33a848",
+        "pdf":"../globalassets/media/items/wicona/pdf/wl75fp_ei90_pl.pdf?v=e889ef41101d76f8267835a7ac9e3bac50b76c51",
+        "ebook":"../ebook.html?d=767111"
+      }
+    ]
+  },
+  "style":{"background":false}
+}

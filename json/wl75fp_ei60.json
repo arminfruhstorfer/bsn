@@ -1,0 +1,33 @@
+﻿{
+  "content":{
+    "overview":[
+      {
+        "label":"Planung",
+      "icon":"fa fa-desktop",
+        "links":[
+          {"text":"Ausschreibungstexte","link":"wl75fp_ei60_at"},
+          {"text":"Füllungen & Größen","link":"wl75fp_ei60_fg"},
+          {"text":"Systemdatenblatt","link":"wl75fp_ei60_sd"}
+        ]
+      },
+      {
+        "label":"CAD-Unterstützung",
+        "icon":"fa fa-usb",
+        "links":[
+          {"text":"Konstruktionsschnitte","link":"wl75fp_ei60_ks"},
+          {"text":"Profilkonturen (.dwg)","link":"wl75fp_ei60_pk"},
+          {"text":"Vorschläge Bauanschlüsse","link":"wl75fp_ei60_ba"}
+        ]
+      },
+      {
+        "label":"Dokumentation",
+        "icon":"fa fa-book",
+        "links":[
+          {"text":"Montageanleitung","link":"wl75fp_ei60_ma"},
+          {"text":"Programm & Verarbeitung","link":"wl75fp_ei60_pv"}
+        ]
+      }
+    ]
+  },
+  "style":{"background":false}
+}

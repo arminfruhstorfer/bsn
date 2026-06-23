@@ -1,0 +1,60 @@
+﻿{
+  "content":{
+    "target":"main",
+    "style":"grid",
+    "text":[
+      {
+        "tagtype":"h1",
+        "text":[
+          {"line":"Impressum"}
+        ]
+      },
+      {
+        "tagtype":"p",
+        "text":[
+          {"line":"Hydro Building Systems Austria GmbH"}
+        ]
+      },
+      {
+        "tagtype":"h2",
+        "icon":"fa fa-envelope",
+        "text":[
+          {"line":"Postanschrift"}
+        ]
+      },
+      {
+        "tagtype":"p",
+        "text":[
+          {"line":"Wallerseestrasse 49"},
+          {"line":"5201 Seekirchen"}
+        ]
+      },
+      {
+        "tagtype":"h2",
+        "icon":"fa fa-phone",
+        "text":[
+          {"line":"Kontakt"}
+        ]
+      },
+      {
+        "tagtype":"p",
+        "text":[
+          {"line":"Telefon: +43 6212 2000"},
+          {"line":"E-Mail: \u0069\u006E\u0066\u006F\u0040\u0077\u0069\u0063\u006F\u006E\u0061\u002E\u0061\u0074"},
+          {"line":"Website: www.wicona.at"}
+        ]
+      },
+      {
+        "tagtype":"p",
+        "text":[
+          {"line":"Sitz der Gesellschaft: Seekirchen"},
+          {"line":"UID-Nr. ATU 45486102"},
+          {"line":"Firmenbuch FN 174032 LG-Salzburg"}
+        ]
+      }
+    ]
+  },
+  "style":{
+    "background":"none"
+  }
+}

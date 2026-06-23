@@ -1,0 +1,40 @@
+﻿{
+  "subnavigation":[
+    {
+      "label":"Planung",
+      "icon":"fa fa-desktop",
+      "links":[
+        {"text":"Ausschreibungstexte","link":"wt50fp_ei60_at"},
+        {"text":"Füllungen & Größen","link":"wt50fp_ei60_fg"},
+        {"text":"Systemdatenblatt","link":"wt50fp_ei60_sd", "active":true}
+      ]
+    },
+    {
+      "label":"CAD-Unterstützung",
+      "icon":"fa fa-usb",
+      "links":[
+        {"text":"Konstruktionsschnitte","link":"wt50fp_ei60_ks"},
+        {"text":"Profilkonturen (.dwg)","link":"wt50fp_ei60_pk"}
+      ]
+    },
+    {
+      "label":"Dokumentation",
+      "icon":"fa fa-book",
+      "links":[
+        {"text":"Programm & Verarbeitung","link":"wt50fp_ei60_pv"}
+      ]
+    }
+  ],
+  "content":{
+    "list":[
+
+      {
+        "desc1":"Systemdatenblatt",
+        "pimg":"../globalassets/media/items/wicona/png/wt50fp_sd.png?v=3d0b8b3578d7630a4f6db52be10ad9590d4396f1",
+        "pdf":"../globalassets/media/items/wicona/pdf/wt50fp_sd.pdf?v=17a731c674692a54fdddf792d5d6281338126c83",
+        "ebook":"../ebook.html?d=502453"
+      }
+    ]
+  },
+  "style":{"background":false}
+}

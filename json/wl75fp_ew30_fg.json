@@ -1,0 +1,42 @@
+﻿{
+  "subnavigation":[
+    {
+      "label":"Planung",
+      "icon":"fa fa-desktop",
+      "links":[
+        {"text":"Ausschreibungstexte","link":"wl75fp_ew30_at"},
+        {"text":"Füllungen & Größen","link":"wl75fp_ew30_fg", "active":true},
+        {"text":"Systemdatenblatt","link":"wl75fp_ew30_sd"}
+      ]
+    },
+    {
+      "label":"CAD-Unterstützung",
+      "icon":"fa fa-usb",
+      "links":[
+        {"text":"Konstruktionsschnitte","link":"wl75fp_ew30_ks"},
+        {"text":"Profilkonturen (.dwg)","link":"wl75fp_ew30_pk"},
+        {"text":"Vorschläge Bauanschlüsse","link":"wl75fp_ew30_ba"}
+      ]
+    },
+    {
+      "label":"Dokumentation",
+      "icon":"fa fa-book",
+      "links":[
+        {"text":"Montageanleitung","link":"wl75fp_ew30_ma"},
+        {"text":"Programm & Verarbeitung","link":"wl75fp_ew30_pv"}
+      ]
+    }
+  ],
+  "content":{
+    "list":[
+
+      {
+        "desc1":"Element- und Glasgrößen",
+        "pimg":"../globalassets/media/items/wicona/png/wl75fp_ei30_pl.png?v=71e20a2530ad53927b5d760edb6aa6385b33a848",
+        "pdf":"../globalassets/media/items/wicona/pdf/wl75fp_ew30_eg.pdf?v=f246b441fa82ba205e7e19cb2141b9b9a8cdb9ed",
+        "ebook":"../ebook.html?d=053504"
+      }
+    ]
+  },
+  "style":{"background":false}
+}

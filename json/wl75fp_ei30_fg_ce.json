@@ -1,0 +1,52 @@
+﻿{
+  "subnavigation":[
+    {
+      "label":"Planung",
+      "icon":"fa fa-desktop",
+      "links":[
+        {"text":"Ausschreibungstexte","link":"wl75fp_ei30_at"},
+        {"text":"Füllungen & Größen CE","link":"wl75fp_ei30_fg_ce", "active":true},
+        {"text":"Füllungen & Größen ÜA","link":"wl75fp_ei30_fg_ua"},
+        {"text":"Systemdatenblatt","link":"wl75fp_ei30_sd"}
+      ]
+    },
+    {
+      "label":"CAD-Unterstützung",
+      "icon":"fa fa-usb",
+      "links":[
+        {"text":"Konstruktionsschnitte","link":"wl75fp_ei30_ks"},
+        {"text":"Profilkonturen (.dwg)","link":"wl75fp_ei30_pk"},
+        {"text":"Vorschläge Bauanschlüsse","link":"wl75fp_ei30_ba"}
+      ]
+    },
+    {
+      "label":"Dokumentation",
+      "icon":"fa fa-book",
+      "links":[
+        {"text":"Dokumentation CE","link":"wl75fp_ei30_do_ce"},
+        {"text":"Montageanleitung ÜA","link":"wl75fp_ei30_ma_ua"},
+        {"text":"Programm ÜA","link":"wl75fp_ei30_pl_ua"},
+        {"text":"Verarbeitung","link":"wl75fp_ei30_vr"},
+        {"text":"Vorlagen","link":"wl75fp_ei30_vo"}
+      ]
+    }
+  ],
+  "content":{
+    "list":[
+
+      {
+        "desc1":"Element- und Glasgrößen CE",
+        "pimg":"../globalassets/media/items/wicona/png/wl75fp_ei30_pl.png?v=71e20a2530ad53927b5d760edb6aa6385b33a848",
+        "pdf":"../globalassets/media/items/wicona/pdf/wl75fp_ei30_eg_ce.pdf?v=1d7ca2c19839dce55f303561b78616f8cdefc1f3",
+        "ebook":"../ebook.html?d=301948"
+      },
+      {
+        "desc1":"Zulässige Beschlagsformate CE",
+        "pimg":"../globalassets/media/items/wicona/png/wl75fp_ei30_fg.png?v=033a3ecdb4404df9108a841a07989ef6627a0561",
+        "pdf":"../globalassets/media/items/wicona/pdf/wl75fp_ei30_fg.pdf?v=229b498d2a4f2f3355af608afbb104f482e0782e",
+        "ebook":"../ebook.html?d=513737"
+      }
+    ]
+  },
+  "style":{"background":false}
+}

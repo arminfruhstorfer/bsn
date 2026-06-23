@@ -1,0 +1,183 @@
+﻿{
+  "subnavigation":[
+    {
+      "label":"Planung",
+      "icon":"fa fa-desktop",
+      "links":[
+        {"text":"Ausschreibungstexte","link":"wl75fp_ei60_at"},
+        {"text":"Füllungen & Größen","link":"wl75fp_ei60_fg"},
+        {"text":"Systemdatenblatt","link":"wl75fp_ei60_sd"}
+      ]
+    },
+    {
+      "label":"CAD-Unterstützung",
+      "icon":"fa fa-usb",
+      "links":[
+        {"text":"Konstruktionsschnitte","link":"wl75fp_ei60_ks"},
+        {"text":"Profilkonturen (.dwg)","link":"wl75fp_ei60_pk", "active":true},
+        {"text":"Vorschläge Bauanschlüsse","link":"wl75fp_ei60_ba"}
+      ]
+    },
+    {
+      "label":"Dokumentation",
+      "icon":"fa fa-book",
+      "links":[
+        {"text":"Montageanleitung","link":"wl75fp_ei60_ma"},
+        {"text":"Programm & Verarbeitung","link":"wl75fp_ei60_pv"}
+      ]
+    }
+  ],
+  "content":{
+    "list":[
+
+      {
+        "desc1":"1010557",
+        "desc2":"Bauanschlussprofil 40/40/59,1 mm",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/wicona/png/1010557p.png?v=15319f6a871255e6cbb5c2b05d5f766ba0d3e1bd",
+        "img":"../globalassets/media/items/wicona/png/1010557.png?v=27812b979d01f49f034057786fcd488b6b565fb7",
+        "dwg":"../globalassets/media/items/wicona/dwg/w1010557-idr.dwg?v=5e88f9eceb2a1a35ed2aa944e7687341ef8b8497"
+      },
+      {
+        "desc1":"1311073",
+        "desc2":"Blendrahmen 40/65/75 mm",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/wicona/png/1311073p.png?v=236df24e31cc7a8c881da9cf62d0203e99c4743a",
+        "img":"../globalassets/media/items/wicona/png/1311073.png?v=c59b6a7c43d3151e1ff4906cc07b17ef3efff3f1",
+        "dwg":"https://www.wictip.com/globalassets/media/items/wicona/dwg/W1311073-IDR.dwg?trackId=1311073_item_DWG"
+      },
+      {
+        "desc1":"1910148",
+        "desc2":"Blendrahmen 50/75/75 mm",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/wicona/png/1910148p.png?v=d9823aff490ea81ae1e1c8b09c8af1df2ddd9a58",
+        "img":"../globalassets/media/items/wicona/png/1910148.png?v=37da15ef40e2319b3628de9e6d9abe64de4571c6",
+        "dwg":"../globalassets/media/items/wicona/dwg/w1910148-idr.dwg?v=26a2c8810deb789f6427757c8793c7785c5a6165"
+      },
+      {
+        "desc1":"1311585",
+        "desc2":"Blendrahmen 70/95/75 mm",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/wicona/png/1311585p.png?v=b7da68aa41c416dd90dbb9e41ddce6307953bf9d",
+        "img":"../globalassets/media/items/wicona/png/1311585.png?v=39c8fcea8ab6d74d13b9125f842a47b0f43f0441",
+        "dwg":"../globalassets/media/items/wicona/dwg/w1311585-idr.dwg?v=e4429205f9ca7f4d9cd698ff39cb9ff94437f66f"
+      },
+      {
+        "desc1":"1910175",
+        "desc2":"Kämpfer/Sprosse 40/90/74,8 mm",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/wicona/png/1910175p.png?v=8d553e3e7c0fb31465e42049e07458be46e327f7",
+        "img":"../globalassets/media/items/wicona/png/1910175.png?v=cad967e02ea67d430401feea1a7ae064a6aa2b39",
+        "dwg":"https://www.wictip.com/globalassets/media/items/wicona/dwg/W1910175-IDR.dwg?trackId=1910175_item_DWG"
+      },
+      {
+        "desc1":"1910149",
+        "desc2":"Kämpfer/Sprosse 50/100/74,8 mm",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/wicona/png/1910149p.png?v=c74c1208083c8fd6ab1849cd9faea68194bfeb62",
+        "img":"../globalassets/media/items/wicona/png/1910149.png?v=f04882d041a34aef36c1c73b2a672ced1936d5a2",
+        "dwg":"../globalassets/media/items/wicona/dwg/w1910149-idr.dwg?v=f126c4e62d72894b40be17c96931d650df9e7587"
+      },
+      {
+        "desc1":"1917206",
+        "desc2":"Kämpfer/Sprosse 60/110/74,8 mm",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/wicona/png/1917206p.png?v=72200fc17457a522979610db07afe726cd8c6b98",
+        "img":"../globalassets/media/items/wicona/png/1917206.png?v=e221a09fbb98babf33b28978c03319f211b99899",
+        "dwg":"../globalassets/media/items/wicona/dwg/w1917206-idr.dwg?v=37c6c24cef70be1764f5e384c67f6dc2a252407b"
+      },
+      {
+        "desc1":"1917207",
+        "desc2":"Kämpfer/Sprosse 70/120/74,8 mm",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/wicona/png/1917207p.png?v=62a139e4e9aad3e8b0683fbb1823dea3f9baa11a",
+        "img":"../globalassets/media/items/wicona/png/1917207.png?v=b954c92fdd48b4786e668d530fa402e3aea50a62",
+        "dwg":"../globalassets/media/items/wicona/dwg/w1917207-idr.dwg?v=6364f4feaf16b1ff523e3a1ca9c8d03b0f2805f1"
+      },
+      {
+        "desc1":"1010592",
+        "desc2":"Stütze na verstärkt 50/100/100 mm",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/wicona/png/1010592p.png?v=571598c6e0bb8596deed1ceaf75c02a03c009b57",
+        "img":"../globalassets/media/items/wicona/png/1010592.png?v=6ac07feef850f03894d70573946cd5d5bd66f07a",
+        "dwg":"https://www.wictip.com/globalassets/media/items/wicona/dwg/W1010592-IDR.dwg?trackId=1010592_item_DWG"
+      },
+      {
+        "desc1":"1917060",
+        "desc2":"Neutralblendrahmen 70/70/75 mm",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/wicona/png/1917060p.png?v=cc02f8533e585a137810d2cf08ca12379edaa785",
+        "img":"../globalassets/media/items/wicona/png/1917060.png?v=b53ab7b73b64f6eeab232699eee909f19019ad84",
+        "dwg":"../globalassets/media/items/wicona/dwg/w1917060-idr.dwg?v=bc20830c4a915876a1a3be17076ad934809c1d50"
+      },
+      {
+        "desc1":"4090115",
+        "desc2":"Brandschutzstreifen 27/12, Länge = 1250 mm",
+        "tags":["article","fparticle"],
+        "pimg":"../globalassets/media/items/wicona/png/4090115p.png?v=2b16ee46c1c9a6f254a7c25b74ede610ddd7045e",
+        "img":"../globalassets/media/items/wicona/png/4090115.png?v=1038a00a8e3df2446cd715161573c2b0dfe677cd",
+        "dwg":"../globalassets/media/items/wicona/dwg/wi4090115.dwg?v=47f8bedf83b272f6567475585c9b7ff79821e4a5"
+      },
+      {
+        "desc1":"4090116",
+        "desc2":"Brandschutzstreifen 37/12, Länge = 1250 mm",
+        "tags":["article","fparticle"],
+        "pimg":"../globalassets/media/items/wicona/png/4090116p.png?v=091db8ffe9d8680704c61f3b827e9b714cb99a97",
+        "img":"../globalassets/media/items/wicona/png/4090116.png?v=3e6ce5483c99982a56c140ab900446ab6b4978ad",
+        "dwg":"../globalassets/media/items/wicona/dwg/wi4090116.dwg?v=1f910065f2621936c2b4105e8cbf390f237b20b8"
+      },
+      {
+        "desc1":"4090117",
+        "desc2":"Brandschutzstreifen 47/12, Länge = 1250 mm",
+        "tags":["article","fparticle"],
+        "pimg":"../globalassets/media/items/wicona/png/4090117p.png?v=b48d36a30e77a183a8783fd515f827047a8a3a95",
+        "img":"../globalassets/media/items/wicona/png/4090117.png?v=e7c7bf85ff78c2910b2aaceb9ae4b946a85b7e83",
+        "dwg":"../globalassets/media/items/wicona/dwg/wi4090117.dwg?v=ef634e171194965dfbedb50fae7f7926601709aa"
+      },
+      {
+        "desc1":"4090137",
+        "desc2":"Brandschutzplatte 18/35, Länge = 1245 mm",
+        "tags":["article","fparticle"],
+        "pimg":"../globalassets/media/items/wicona/png/4090137p.png?v=46a282f3c0fd6e6ca1300c3b06eb0cc3a1e56f16",
+        "img":"../globalassets/media/items/wicona/png/4090137.png?v=75870dbd0cb303913b265723652be3798fb91a00",
+        "dwg":"../globalassets/media/items/wicona/dwg/wi4090137.dwg?v=a7064e02682e01bba9134dacdfadd06e3ed556b9"
+      },
+      {
+        "desc1":"4090138",
+        "desc2":"Brandschutzplatte 18/28, Länge = 1245 mm",
+        "tags":["article","fparticle"],
+        "pimg":"../globalassets/media/items/wicona/png/4090138p.png?v=053e2ac46ffbc747ef0bfbffe0cb943b52de9c7f",
+        "img":"../globalassets/media/items/wicona/png/4090138.png?v=e6056be624b10ed4bc229b1f668a93749fb45266",
+        "dwg":"../globalassets/media/items/wicona/dwg/wi4090138.dwg?v=5a221e66ec037b906830b2b07e9ecac7945da8eb"
+      },
+      {
+        "desc1":"4090190",
+        "desc2":"Brandschutzplatte 18/45, Länge = 1245 mm",
+        "tags":["article","fparticle"],
+        "pimg":"../globalassets/media/items/wicona/png/4090190p.png?v=de84d362a6fca8ae84447514a0ab2f386d9fd5ee",
+        "img":"../globalassets/media/items/wicona/png/4090190.png?v=94f748db7b1c05ab020668219f6c5aa7f6190ba7",
+        "dwg":"../globalassets/media/items/wicona/dwg/wi4090190.dwg?v=4a6046a39d90a3e5a40a789604dc829c2b8bd90c"
+      },
+      {
+        "desc1":"4090013",
+        "desc2":"Brandschutz-Dichtstreifen 30/1,5 mm",
+        "tags":["article","fparticle"],
+        "pimg":"../globalassets/media/items/wicona/png/4090013p.png?v=c829a8411b7d4c1ee04d0ed0cba9c7362b9d89f8",
+        "img":"../globalassets/media/items/wicona/png/4090013.png?v=f89d6c0b7713aee4f9ab1c1e346c6772403e6e21",
+        "dwg":"../globalassets/media/items/wicona/dwg/w4090013-idc-001.dwg?v=90298be1737157dbcf98ef0be1af5e8dd264aa36"
+      }
+    ]
+  },
+  "filter":{
+    "type":"OR",
+    "data":[
+      {"label":"Alle","filteroption":[""]},
+      {"label":"Standardprofile","filteroption":["profile"]},
+      {"label":"Zusatzprofile","filteroption":["addprofile"]},
+      {"label":"Glasleisten","filteroption":["glazingbead"]},
+      {"label":"Einschübe & Dichtstreifen","filteroption":["fparticle"]},
+      {"label":"Zubehör","filteroption":["accessories"]}
+    ]
+  },
+  "style":{"background":false}
+}

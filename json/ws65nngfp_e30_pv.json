@@ -1,0 +1,47 @@
+﻿{
+  "subnavigation":[
+    {
+      "label":"Planung",
+      "icon":"fa fa-desktop",
+      "links":[
+        {"text":"Füllungen & Größen","link":"ws65nngfp_e30_fg"},
+        {"text":"Systemdatenblatt","link":"ws65nngfp_e30_sd"}
+      ]
+    },
+    {
+      "label":"CAD-Unterstützung",
+      "icon":"fa fa-usb",
+      "links":[
+        {"text":"Konstruktionsschnitte","link":"ws65nngfp_e30_ks"},
+        {"text":"Profilkonturen (.dwg)","link":"ws65nngfp_e30_pk"},
+        {"text":"Bauanschlüsse","link":"ws65nngfp_e30_ba"}
+      ]
+    },
+    {
+      "label":"Dokumentation",
+      "icon":"fa fa-book",
+      "links":[
+        {"text":"Montageanleitung","link":"ws65nngfp_e30_ma"},
+        {"text":"Programm & Verarbeitung","link":"ws65nngfp_e30_pv", "active":true}
+      ]
+    }
+  ],
+  "content":{
+    "list":[
+
+      {
+        "desc1":"Programmliste",
+        "pimg":"../globalassets/media/items/wicona/png/ws65nngfp_e30_pl.png?v=eaee84b26f0d3c8edb785ad31f237707092729fd",
+        "pdf":"../globalassets/media/items/wicona/pdf/ws65nngfp_e30_pl.pdf?v=a6f7617cd5e4b7bf32263ebdb73068d5e6983e35",
+        "ebook":"../ebook.html?d=627642"
+      },
+      {
+        "desc1":"Verarbeitungsrichtlinien",
+        "pimg":"../globalassets/media/items/wicona/png/ws65nngfp_e30_va.png?v=61689642fd93f4b18ed8d5f8f3a6ac3a1471afb2",
+        "pdf":"../globalassets/media/items/wicona/pdf/ws65nngfp_e30_va.pdf?v=a0783440d92939d3c00d8a68c1b1c6b007c3d0c9",
+        "ebook":"../ebook.html?d=428456"
+      }
+    ]
+  },
+  "style":{"background":false}
+}

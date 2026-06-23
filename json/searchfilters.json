@@ -1,0 +1,9 @@
+{
+	"type":"OR",
+	"data":[
+	  {"label":"Alle","filteroption":[""]},
+	  {"label":"Artikel","filteroption":["article"]},
+	  {"label":"Schnitte","filteroption":["section"]},
+	  {"label":"Bauanschlüsse","filteroption":["junction"]}
+	]
+}

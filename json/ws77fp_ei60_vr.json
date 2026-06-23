@@ -1,0 +1,45 @@
+﻿{
+  "subnavigation":[
+    {
+      "label":"Planung",
+      "icon":"fa fa-desktop",
+      "links":[
+        {"text":"Ausschreibungstexte","link":"ws77fp_ei60_at"},
+        {"text":"Füllungen & Größen CE","link":"ws77fp_ei60_fg_ce"},
+        {"text":"Füllungen & Größen ÜA","link":"ws77fp_ei60_fg_ua"},
+        {"text":"Systemdatenblatt","link":"ws77fp_ei60_sd"}
+      ]
+    },
+    {
+      "label":"CAD-Unterstützung",
+      "icon":"fa fa-usb",
+      "links":[
+        {"text":"Konstruktionsschnitte","link":"ws77fp_ei60_ks"},
+        {"text":"Profilkonturen (.dwg)","link":"ws77fp_ei60_pk"},
+        {"text":"Vorschläge Bauanschlüsse","link":"ws77fp_ei60_ba"}
+      ]
+    },
+    {
+      "label":"Dokumentation",
+      "icon":"fa fa-book",
+      "links":[
+        {"text":"Dokumentation CE","link":"ws77fp_ei60_do_ce"},
+        {"text":"Montageanleitung ÜA","link":"ws77fp_ei60_ma_ua"},
+        {"text":"Programm ÜA","link":"ws77fp_ei60_pl_ua"},
+        {"text":"Verarbeitung","link":"ws77fp_ei60_vr", "active":true}
+      ]
+    }
+  ],
+  "content":{
+    "list":[
+
+      {
+        "desc1":"Verarbeitungsrichtlinien 04.2022",
+        "pimg":"../globalassets/media/items/wicona/png/ws77fp_vr.png?v=3f2aebc27d78ec26a5e02ed16b0fe68cd0e0b707",
+        "pdf":"../globalassets/media/items/wicona/pdf/ws77fp_vr.pdf?v=856438e74bcedcb7b6130321754527321cbddbd8",
+        "ebook":"../ebook.html?d=022629"
+      }
+    ]
+  },
+  "style":{"background":false}
+}

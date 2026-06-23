@@ -1,0 +1,178 @@
+﻿{
+  "subnavigation":[
+    {
+      "label":"Planung",
+      "icon":"fa fa-desktop",
+      "links":[
+        {"text":"Ausschreibungstexte","link":"ws70nfp_ew30_at"},
+        {"text":"Füllungen & Größen","link":"ws70nfp_ew30_fg"}
+      ]
+    },
+    {
+      "label":"CAD-Unterstützung",
+      "icon":"fa fa-usb",
+      "links":[
+        {"text":"Konstruktionsschnitte","link":"ws70nfp_ew30_ks", "active":true},
+        {"text":"Profilkonturen (.dwg)","link":"ws70nfp_ew30_pk"},
+        {"text":"Vorschläge Bauanschlüsse","link":"ws70nfp_ew30_ba"}
+      ]
+    },
+    {
+      "label":"Dokumentation",
+      "icon":"fa fa-book",
+      "links":[
+        {"text":"Montageanleitung ÜA","link":"ws70nfp_ew30_ma"},
+        {"text":"Programmliste & Verarbeitung","link":"ws70nfp_ew30_pv"}
+      ]
+    }
+  ],
+  "content":{
+    "list":[
+      {
+        "desc1":"DOC-FPA0000009",
+        "desc2":"Anschlagtüren einwärts mit Spezialblendrahmen",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000009p.png?v=9fbc32c8298216b3b44d2d95b6f3bef4b14a92b0",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000009.png?v=b63c57e28cc8e242e58a7ee1bd77a6e2c5b183fe",
+        "dwg":"../globalassets/media/sections/wicona/dwg/S7NFP030.dwg?v=98b91af04220f8c5f2e7d8b22cb0900099510b2a",
+        "tags":["132341","132344","190507","190508","190524","199161","199162","3091023","4020006"]
+      },
+      {
+        "desc1":"DOC-FPA0000010",
+        "desc2":"Anschlagtüren einwärts mit Falzaufsatzprofil",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000010p.png?v=a15fab8f8cfc332bc809d41f4bca0d79ec390da6",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000010.png?v=d340b016932ec11b443dd8a75a8190c9b439fa9f",
+        "dwg":"../globalassets/media/sections/wicona/dwg/S7NFP030.dwg?v=98b91af04220f8c5f2e7d8b22cb0900099510b2a",
+        "tags":["132342","132344","132350","190507","190508","190524","199161","199162","3091023","4020006","4070056"]
+      },
+      {
+        "desc1":"DOC-FPA0000011",
+        "desc2":"Anschlagtüren einwärts mit Seitenteil",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000011p.png?v=eee3b95df2e8e8938dafa462654671e9cdc3b827",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000011.png?v=fcb564ee10a1e9dc6c18914fc5600bd9b0b31fc3",
+        "dwg":"../globalassets/media/sections/wicona/dwg/S7NFP030.dwg?v=98b91af04220f8c5f2e7d8b22cb0900099510b2a",
+        "tags":["132342","132344","132350","132353","190507","190508","199161","199162","3091023","4020006","4070056"]
+      },
+      {
+        "desc1":"DOC-FPA0000012",
+        "desc2":"Anschlagtüren einwärts/auswärts, Mittelstoß",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000012p.png?v=98e31c7d5efd196e882741c49d2de088495170dc",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000012.png?v=b2ba13f00c1d914834f9670b604e37a01fb5ebc8",
+        "dwg":"../globalassets/media/sections/wicona/dwg/S7NFP031.dwg?v=0f8a5233a60e7b004d246824d06eaed92454d209",
+        "tags":["132343","132344","190507","190508","190524","199161","199162","3091023","4020006"]
+      },
+      {
+        "desc1":"DOC-FPA0000013",
+        "desc2":"Anschlagtüren einwärts/auswärts, Mittelstoß",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000013p.png?v=801f8512a3cf20f6a1291fc805d13ef4d8966360",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000013.png?v=7e13d82c59ae23ec3cdb9b959c914c18b670b584",
+        "dwg":"../globalassets/media/sections/wicona/dwg/S7NFP031.dwg?v=0f8a5233a60e7b004d246824d06eaed92454d209",
+        "tags":["132343","132344","190507","190508","190524","199161","199162","3091023","4020006"]
+      },
+      {
+        "desc1":"DOC-FPA0000014",
+        "desc2":"Anschlagtüren auswärts mit Oberlicht-Festelement",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000014p.png?v=b7a3d824ad7a2b8ddba18ecde99d8bd46e0d1cf7",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000014.png?v=5c5f961035599b26d2bbfcd3fd5f1556bffd6535",
+        "dwg":"../globalassets/media/sections/wicona/dwg/S7NFP032.dwg?v=8c4e5ce0d56ff37909a16328836452d0169e3388",
+        "tags":["132343","132346","132349","190507","190508","190524","199161","199162","3091023","4020006","4070040"]
+      },
+      {
+        "desc1":"DOC-FPA0000015",
+        "desc2":"Anschlagtüren auswärts mit Spezialblendrahmen",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000015p.png?v=1f4e8b39f7996bdf5b31e572afdcef238e15c888",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000015.png?v=009cce5e624cb86469f4ac1cd48435d32d3a6b57",
+        "dwg":"../globalassets/media/sections/wicona/dwg/S7NFP032.dwg?v=8c4e5ce0d56ff37909a16328836452d0169e3388",
+        "tags":["132341","132343","190507","190508","190524","199161","199162","3091023","4020006"]
+      },
+      {
+        "desc1":"DOC-FPA0000016",
+        "desc2":"Anschlagtüren einwärts/auswärts mit Sockelprofil",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000016p.png?v=f5d14f09718e3e6e31fba09b05188c54ecdd88ca",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000016.png?v=d7de6ea3e5706b9f8af1b7cea1600362b3215029",
+        "dwg":"../globalassets/media/sections/wicona/dwg/S7NFP032.dwg?v=8c4e5ce0d56ff37909a16328836452d0169e3388",
+        "tags":["132351","190508","190524","199162","3091023","4020006"]
+      },
+      {
+        "desc1":"DOC-FPA0000017",
+        "desc2":"Anschlagtüren einwärts/auswärts mit Blendrahmen als Sockelprofil",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000017p.png?v=3641a9b24251dec26d12854f5ec7fa7515dd1f32",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000017.png?v=2a14028ce87e398eeff2d9bea3038085cab17403",
+        "dwg":"../globalassets/media/sections/wicona/dwg/S7NFP032.dwg?v=8c4e5ce0d56ff37909a16328836452d0169e3388",
+        "tags":["132345","190508","190524","199162","3091023","4020006"]
+      },
+      {
+        "desc1":"DOC-FPA0000018",
+        "desc2":"Anschlagtüren auswärts mit Spezialblendrahmen",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000018p.png?v=f619c8b09687d03a44fd813caa61d80264ae7e9e",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000018.png?v=2559e469b1f444904289b8a48b6c71f4faf5f0f7",
+        "dwg":"../globalassets/media/sections/wicona/dwg/S7NFP033.dwg?v=3a4dffe5c66e268a731173ccc6c47fd1d221b4aa",
+        "tags":["132341","132343","190507","190508","190524","199161","199162","3091023","4020006"]
+      },
+      {
+        "desc1":"DOC-FPA0000019",
+        "desc2":"Anschlagtüren auswärts mit Seitenteil",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000019p.png?v=c56350d81ff4b21a09c51db14c13697a4096c662",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000019.png?v=0499dd2ed065992ae43fd541348e82753b598a3a",
+        "dwg":"../globalassets/media/sections/wicona/dwg/S7NFP033.dwg?v=3a4dffe5c66e268a731173ccc6c47fd1d221b4aa",
+        "tags":["132342","132343","132349","190507","190508","190524","199161","199162","3091023","4020006"]
+      },
+      {
+        "desc1":"DOC-FPA0000020",
+        "desc2":"Anschlagtüren auswärts mit Seitenteil",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000020p.png?v=f10f2690778fb1708332c9e352b0fac04b7d121b",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000020.png?v=feb20ec1ab1b1d5399cce3594d3b7f5168e96e4c",
+        "dwg":"../globalassets/media/sections/wicona/dwg/S7NFPa016.dwg?v=89c5ed07ca3ed5d21ae28e9adc229c8b02e4112d",
+        "tags":["132342","132343","132349","132353","190507","190508","190524","199161","199162","3091023","4020006","4070040"]
+      },
+      {
+        "desc1":"DOC-FPA0000021",
+        "desc2":"Anschlagtüren auswärts mit Seitenteil",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000021p.png?v=7de14db75746781670588049b2a983f189327a38",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000021.png?v=7bc687863df602d728f2e2c907fd7d7b734f20ae",
+        "dwg":"../globalassets/media/sections/wicona/dwg/S7NFPa016.dwg?v=89c5ed07ca3ed5d21ae28e9adc229c8b02e4112d",
+        "tags":["132345","190508","190523","199162","3091024","4020006","4070054"]
+      },
+      {
+        "desc1":"DOC-FPA0000022",
+        "desc2":"Anschlagtüren auswärts mit Seitenteil",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000022p.png?v=f0cae8bc0465385ee9cdd2ff3e2e59c58cc9b2dc",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000022.png?v=af7e0c5cfedb206c0585132dff7607e9ac06db7e",
+        "dwg":"../globalassets/media/sections/wicona/dwg/S7NFP036.dwg?v=c2ff0411efa07a86191bbba2ccad63646acba4f9",
+        "tags":["132342","190508","190524","199162","3011115","3091024","4020006","4070061","4070063"]
+      },
+      {
+        "desc1":"DOC-FPA0000023",
+        "desc2":"Anschlagtüren auswärts mit Seitenteil",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000023p.png?v=a3d099b7e5f4ddf02de23f9b48d6b7eeb1e6d8ed",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000023.png?v=c81858f8394594f658b4ca12f6589172f6e6d78d",
+        "dwg":"../globalassets/media/sections/wicona/dwg/S7NFP036.dwg?v=c2ff0411efa07a86191bbba2ccad63646acba4f9",
+        "tags":["132342","132348","190508","190524","199162","3091023","4020006","4070085"]
+      },
+      {
+        "desc1":"DOC-FPA0000024",
+        "desc2":"Anschlagtüren auswärts mit Seitenteil",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000024p.png?v=083103ab59b0e077f528600d9738445d372e783d",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000024.png?v=1ba6f7fa0d1890f401abb1e1c0ebe504b68888d9",
+        "dwg":"../globalassets/media/sections/wicona/dwg/S7NFP033.dwg?v=3a4dffe5c66e268a731173ccc6c47fd1d221b4aa",
+        "tags":["132352","190508","190524","199162","3091023","4020006"]
+      }
+    ]
+  },
+  "style":{"background":false}
+}

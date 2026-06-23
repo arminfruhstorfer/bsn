@@ -1,0 +1,86 @@
+﻿{
+  "subnavigation":[
+    {
+      "label":"Planung",
+      "icon":"fa fa-desktop",
+      "links":[
+        {"text":"Füllungen & Größen","link":"el52fr_ew30_fg"}
+      ]
+    },
+    {
+      "label":"CAD-Unterstützung",
+      "icon":"fa fa-usb",
+      "links":[
+        {"text":"Konstruktionsschnitte","link":"el52fr_ew30_ks", "active":true},
+        {"text":"Profilkonturen (.dwg)","link":"el52fr_ew30_pk"},
+        {"text":"Vorschläge Bauanschlüsse","link":"el52fr_ew30_ba"}
+      ]
+    },
+    {
+      "label":"Dokumentation",
+      "icon":"fa fa-book",
+      "links":[
+        {"text":"Programm & Verarbeitung","link":"el52fr_ew30_pv"}
+      ]
+    }
+  ],
+  "content":{
+    "list":[
+      {
+        "desc1":"DOC-FPAS000001",
+        "desc2":"Pfostenschnitt",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/sapa/png/DOC-FPAS000001p.png?v=a79891374e421f0bcb3201c65ce2775959d92468",
+        "img":"../globalassets/media/sections/sapa/png/DOC-FPAS000001.png?v=8f82f567404574036d4a40e563f6d50883a49cf3",
+        "dwg":"../globalassets/media/sections/sapa/dwg/el52fr_sections_junctions.dwg?v=94d6b523e0bd221d44d31b229f07cdd50ea2044c",
+        "tags":["S52M80","S52A12","S52P03","SCO5007","SBT0006","S52R222","S52R027","SCO5010","SCO5011","SCO5012","SPV002","SSCM649"]
+      },
+      {
+        "desc1":"DOC-FPAS000002",
+        "desc2":"Pfostenschnitt",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/sapa/png/DOC-FPAS000002p.png?v=c61be98e5c638b350bbcd3785810694db33becb8",
+        "img":"../globalassets/media/sections/sapa/png/DOC-FPAS000002.png?v=43f90b72a1ef9b11f2af0c9ccef5f312e0de9c86",
+        "dwg":"../globalassets/media/sections/sapa/dwg/el52fr_sections_junctions.dwg?v=94d6b523e0bd221d44d31b229f07cdd50ea2044c",
+        "tags":["S52M80","S52A12","S52P03","SCO5007","SBT0006","S52R222","S52R027","SCO5010","SCO5011","SCO5012","SPV002","SSCM649"]
+      },
+      {
+        "desc1":"DOC-FPAS000003",
+        "desc2":"Pfostenschnitt",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/sapa/png/DOC-FPAS000003p.png?v=70298de28a323477d15ae3682fe538f178ec4511",
+        "img":"../globalassets/media/sections/sapa/png/DOC-FPAS000003.png?v=12291f0607e1ef3d2171f1d13d08815970182704",
+        "dwg":"../globalassets/media/sections/sapa/dwg/el52fr_sections_junctions.dwg?v=94d6b523e0bd221d44d31b229f07cdd50ea2044c",
+        "tags":["S52M80","S52A12","S52P03","SCO5007","SBT0006","S52R222","S52R227","S52R027","SCO5010","SCO5011","SCO5012","SPV002","SSCM649"]
+      },
+      {
+        "desc1":"DOC-FPAS000004",
+        "desc2":"Riegelschnitt",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/sapa/png/DOC-FPAS000004p.png?v=30c78cd44bdaaf9a63a2aef3b82cf5818430ea19",
+        "img":"../globalassets/media/sections/sapa/png/DOC-FPAS000004.png?v=7fb2d22563bec4edaf3731e65792b9dba8864439",
+        "dwg":"../globalassets/media/sections/sapa/dwg/el52fr_sections_junctions.dwg?v=94d6b523e0bd221d44d31b229f07cdd50ea2044c",
+        "tags":["S52T62","SCO5008","S82K216","S52P10","SPV002","SBT0006","SSCM642","S52R025","S52R220"]
+      },
+      {
+        "desc1":"DOC-FPAS000005",
+        "desc2":"Riegelschnitt",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/sapa/png/DOC-FPAS000005p.png?v=ba0bf9e4396f555c024231c211a97fddc0cdedbe",
+        "img":"../globalassets/media/sections/sapa/png/DOC-FPAS000005.png?v=664fecc9ec6b67d96cb7b4f4295eb59899808e9d",
+        "dwg":"../globalassets/media/sections/sapa/dwg/el52fr_sections_junctions.dwg?v=94d6b523e0bd221d44d31b229f07cdd50ea2044c",
+        "tags":["S52T62","S52A17","SCO5007","SCO5008","S82K216","S52P03","SPV003","SBT0006","SSCM647","S52R025","S52R221","SRU1600"]
+      },
+      {
+        "desc1":"DOC-FPAS000006",
+        "desc2":"Riegelschnitt",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/sapa/png/DOC-FPAS000006p.png?v=a010a0a51755b0fb353304e1991661841b7cd0fc",
+        "img":"../globalassets/media/sections/sapa/png/DOC-FPAS000006.png?v=2093a5dc72d5d2f1be7a1c8faa5c8520b5538c52",
+        "dwg":"../globalassets/media/sections/sapa/dwg/el52fr_sections_junctions.dwg?v=94d6b523e0bd221d44d31b229f07cdd50ea2044c",
+        "tags":["S52T62","SCO5008","S82K216","S52P10","SPV002","SBT0006","SSCM642","S52R025","S52R221"]
+      }
+    ]
+  },
+  "style":{"background":false}
+}

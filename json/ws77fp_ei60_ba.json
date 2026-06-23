@@ -1,0 +1,371 @@
+﻿{
+  "subnavigation":[
+    {
+      "label":"Planung",
+      "icon":"fa fa-desktop",
+      "links":[
+        {"text":"Ausschreibungstexte","link":"ws77fp_ei60_at"},
+        {"text":"Füllungen & Größen CE","link":"ws77fp_ei60_fg_ce"},
+        {"text":"Füllungen & Größen ÜA","link":"ws77fp_ei60_fg_ua"},
+        {"text":"Systemdatenblatt","link":"ws77fp_ei60_sd"}
+      ]
+    },
+    {
+      "label":"CAD-Unterstützung",
+      "icon":"fa fa-usb",
+      "links":[
+        {"text":"Konstruktionsschnitte","link":"ws77fp_ei60_ks"},
+        {"text":"Profilkonturen (.dwg)","link":"ws77fp_ei60_pk"},
+        {"text":"Vorschläge Bauanschlüsse","link":"ws77fp_ei60_ba", "active":true}
+      ]
+    },
+    {
+      "label":"Dokumentation",
+      "icon":"fa fa-book",
+      "links":[
+        {"text":"Dokumentation CE","link":"ws77fp_ei60_do_ce"},
+        {"text":"Montageanleitung ÜA","link":"ws77fp_ei60_ma_ua"},
+        {"text":"Programm ÜA","link":"ws77fp_ei60_pl_ua"},
+        {"text":"Verarbeitung","link":"ws77fp_ei60_vr"}
+      ]
+    }
+  ],
+  "content":{
+    "list":[
+      {
+        "desc1":"DOC-FPA0000069",
+        "desc2":"Bauanschluss seitlich",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000069p.png?v=79c0be75e54a864eb898b658deef73580d19bf73",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000069.png?v=36f0a46ff5e33fa16837fd3564c95cd2cdda8283",
+        "dwg":"../globalassets/media/sections/wicona/dwg/ws77fp_ei60_ba.dwg?v=f84abbf792bef68221e3054db5cf10a111f98bbc",
+        "tags":["1021361","4030232","4070448","4080006","4080202","4090038","4090059"]
+      },
+      {
+        "desc1":"DOC-FPA0000070",
+        "desc2":"Bauanschluss seitlich",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000070p.png?v=cf20ef9cd78d08764e5c71c109da4e15242904d2",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000070.png?v=81267d1c54d00fbb9ecf98ea7579c3b49cc6f5f8",
+        "dwg":"../globalassets/media/sections/wicona/dwg/ws77fp_ei60_ba.dwg?v=f84abbf792bef68221e3054db5cf10a111f98bbc",
+        "tags":["1021361","4030232","4070448","4080006","4090038","4090059"]
+      },
+      {
+        "desc1":"DOC-FPA0000071",
+        "desc2":"Bauanschluss seitlich",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000071p.png?v=aaff144fdb53555e89f8f436da1c18d70588b45a",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000071.png?v=82ab6a10fe52aa6e1e323ddd253d73a8090f7677",
+        "dwg":"../globalassets/media/sections/wicona/dwg/ws77fp_ei60_ba.dwg?v=f84abbf792bef68221e3054db5cf10a111f98bbc",
+        "tags":["1021365","3090198","4010003","4030232","4070448","4080202","4090038","4090059","4090084"]
+      },
+      {
+        "desc1":"DOC-FPA0000072",
+        "desc2":"Bauanschluss seitlich",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000072p.png?v=db1bae7527ef5557f4c09fb1bca1e0042db550e7",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000072.png?v=90a8e8eac16925e84014af6dd64e350d8fb6e53e",
+        "dwg":"../globalassets/media/sections/wicona/dwg/ws77fp_ei60_ba.dwg?v=f84abbf792bef68221e3054db5cf10a111f98bbc",
+        "tags":["1021351","4070448","4080202","4090045","4090060"]
+      },
+      {
+        "desc1":"DOC-FPA0000073",
+        "desc2":"Bauanschluss seitlich",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000073p.png?v=fb8a569859a920dcf6887e410b74be6a6d9e76df",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000073.png?v=27ab2f22f13f47e14a85b04fe8c039eb41001fd0",
+        "dwg":"../globalassets/media/sections/wicona/dwg/ws77fp_ei60_ba.dwg?v=f84abbf792bef68221e3054db5cf10a111f98bbc",
+        "tags":["1021365","4030232","4070448","4080006","4090038","4090059"]
+      },
+      {
+        "desc1":"DOC-FPA0000074",
+        "desc2":"Bauanschluss seitlich",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000074p.png?v=f5b05cefab8467caccad6c95b87ce4a71ac2d2eb",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000074.png?v=2db8efcb3c203d7d28bad281d7b25049d2ffd030",
+        "dwg":"../globalassets/media/sections/wicona/dwg/ws77fp_ei60_ba.dwg?v=f84abbf792bef68221e3054db5cf10a111f98bbc",
+        "tags":["1021351","4070448","4080202","4090045","4090060"]
+      },
+      {
+        "desc1":"DOC-FPA0000075",
+        "desc2":"Bauanschluss seitlich",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000075p.png?v=0c30b217d5d6ed3d534a5d1304f70ebb500c9318",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000075.png?v=7c543bf1f82b1eb746b1e06eec5b5ab34ac1f6fa",
+        "dwg":"../globalassets/media/sections/wicona/dwg/ws77fp_ei60_ba.dwg?v=f84abbf792bef68221e3054db5cf10a111f98bbc",
+        "tags":["1021361","4030232","4090038","4090059"]
+      },
+      {
+        "desc1":"DOC-FPA0000076",
+        "desc2":"Bauanschluss seitlich",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000076p.png?v=02d4c7fe027d9dbe6df5160af94d9eb7ee30e2cc",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000076.png?v=66b619962ac49cfb635a365d207eb8571f7b891e",
+        "dwg":"../globalassets/media/sections/wicona/dwg/ws77fp_ei60_ba.dwg?v=f84abbf792bef68221e3054db5cf10a111f98bbc",
+        "tags":["1021361","3091036","3091057","4010066","4030035","4070057","4070448","4080006","4090038","4090059"]
+      },
+      {
+        "desc1":"DOC-FPA0000077",
+        "desc2":"Bauanschluss seitlich",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000077p.png?v=6ff66b24b2531aa68386e3bd78caef3fe1fd8e5b",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000077.png?v=e02e9653834bcd543dfb325f4cecb8148bb2f22c",
+        "dwg":"../globalassets/media/sections/wicona/dwg/ws77fp_ei60_ba.dwg?v=f84abbf792bef68221e3054db5cf10a111f98bbc",
+        "tags":["1021365","3090198","4030232","4070448","4080202","4090038","4090059","4090084"]
+      },
+      {
+        "desc1":"DOC-FPA0000078",
+        "desc2":"Bauanschluss unten",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000078p.png?v=dba8c49be39aa50a7f1713a715f84844f6942a01",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000078.png?v=212c44954b533b0b5017f2b2478ce04a8ed47126",
+        "dwg":"../globalassets/media/sections/wicona/dwg/ws77fp_ei60_ba.dwg?v=f84abbf792bef68221e3054db5cf10a111f98bbc",
+        "tags":["1021361","4030232","4070448","4080202","4090038","4090059"]
+      },
+      {
+        "desc1":"DOC-FPA0000079",
+        "desc2":"Bauanschluss unten",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000079p.png?v=e0b174ba8593ccee87e306eec15f53324b9c0a07",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000079.png?v=03e722cbe20c5b368e3735244a2a46490d25c2b0",
+        "dwg":"../globalassets/media/sections/wicona/dwg/ws77fp_ei60_ba.dwg?v=f84abbf792bef68221e3054db5cf10a111f98bbc",
+        "tags":["1021361","4030232","4070448","4080202","4090038","4090059"]
+      },
+      {
+        "desc1":"DOC-FPA0000080",
+        "desc2":"Bauanschluss seitlich",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000080p.png?v=7815888aa5739d7c517c1890f70575ac200c4201",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000080.png?v=812b3c9d10a0df785e9c8fafe62b8bc5e4cecfe6",
+        "dwg":"../globalassets/media/sections/wicona/dwg/ws77fp_ei60_ba.dwg?v=f84abbf792bef68221e3054db5cf10a111f98bbc",
+        "tags":["1021365","3090198","4030232","4070448","4080202","4090038","4090059","4090084"]
+      },
+      {
+        "desc1":"DOC-FPA0000081",
+        "desc2":"Bauanschluss seitlich",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000081p.png?v=67375d7de3de68cd7b55bb312402e5290db69e81",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000081.png?v=c0afc214390d454e594ab3a4a51fe2121b0adb76",
+        "dwg":"../globalassets/media/sections/wicona/dwg/ws77fp_ei60_ba.dwg?v=f84abbf792bef68221e3054db5cf10a111f98bbc",
+        "tags":["1021361","4030232","4090038","4090059"]
+      },
+      {
+        "desc1":"DOC-FPA0000082",
+        "desc2":"Bauanschluss seitlich",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000082p.png?v=4c7afe81b14ac70587c4c0fa76946729f5094473",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000082.png?v=4996b574729f50a86d262f4302b22feeb726ffd6",
+        "dwg":"../globalassets/media/sections/wicona/dwg/ws77fp_ei60_ba.dwg?v=f84abbf792bef68221e3054db5cf10a111f98bbc",
+        "tags":["1021361","4030232","4070448","4080202","4090038","4090059"]
+      },
+      {
+        "desc1":"DOC-FPA0000083",
+        "desc2":"Bauanschluss seitlich",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000083p.png?v=f852b8193c42b238e903b6bcf8f78d4540382898",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000083.png?v=c3eb41f09fcfff5161611767edebabae7a84fa25",
+        "dwg":"../globalassets/media/sections/wicona/dwg/ws77fp_ei60_ba.dwg?v=f84abbf792bef68221e3054db5cf10a111f98bbc",
+        "tags":["1021361","4030232","4090038","4090059"]
+      },
+      {
+        "desc1":"DOC-FPA0000084",
+        "desc2":"Bauanschluss seitlich",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000084p.png?v=6d38ac00aeb5577c24901e7b2bb2e8b8bf61e142",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000084.png?v=95221017e13e199505798037ab5f3ce27ea7f9ae",
+        "dwg":"../globalassets/media/sections/wicona/dwg/ws77fp_ei60_ba.dwg?v=f84abbf792bef68221e3054db5cf10a111f98bbc",
+        "tags":["1021351","4070448","4080202","4090045","4090060"]
+      },
+      {
+        "desc1":"DOC-FPA0000085",
+        "desc2":"Bauanschluss seitlich",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000085p.png?v=8804128713539abdcae3f2a435a400e87b134d09",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000085.png?v=2ef0bc3aa11519f2cd47f40a10ae3e613dba5e31",
+        "dwg":"../globalassets/media/sections/wicona/dwg/ws77fp_ei60_ba.dwg?v=f84abbf792bef68221e3054db5cf10a111f98bbc",
+        "tags":["1021351","4070448","4080202","4090045","4090060"]
+      },
+      {
+        "desc1":"DOC-FPA0000086",
+        "desc2":"Bauanschluss seitlich",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000086p.png?v=6e5427fdd5c348c2ee00084334f9ad9e661fd7da",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000086.png?v=0fcdb08a24fe23c14f031fec607608648f1e4a6c",
+        "dwg":"../globalassets/media/sections/wicona/dwg/ws77fp_ei60_ba.dwg?v=f84abbf792bef68221e3054db5cf10a111f98bbc",
+        "tags":["1021351","4070448","4080202","4090045","4090060"]
+      },
+      {
+        "desc1":"DOC-FPA0000087",
+        "desc2":"Bauanschluss seitlich",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000087p.png?v=c24bbacac0efa13b85f27d150bd898e21a2a4153",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000087.png?v=f69a34d06a8f839658c1ce27e261521ea3df0305",
+        "dwg":"../globalassets/media/sections/wicona/dwg/ws77fp_ei60_ba.dwg?v=f84abbf792bef68221e3054db5cf10a111f98bbc",
+        "tags":["1021361","4030232","4070448","4080202","4090038","4090059"]
+      },
+      {
+        "desc1":"DOC-FPA0000088",
+        "desc2":"Bauanschluss seitlich",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000088p.png?v=866e5cd66933e42ee0f26179fbb137b11b87fa49",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000088.png?v=92b2f282767fe9b9a12e6ece59f607303c395210",
+        "dwg":"../globalassets/media/sections/wicona/dwg/ws77fp_ei60_ba.dwg?v=f84abbf792bef68221e3054db5cf10a111f98bbc",
+        "tags":["1021361","4030232","4090038","4090059"]
+      },
+      {
+        "desc1":"DOC-FPA0000089",
+        "desc2":"Bauanschluss seitlich",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000089p.png?v=2ff2a451954896ed1cb8c10c70c5f2c8369ab887",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000089.png?v=117624b96eb8d41a7055791d37fbb72a5532ee36",
+        "dwg":"../globalassets/media/sections/wicona/dwg/ws77fp_ei60_ba.dwg?v=f84abbf792bef68221e3054db5cf10a111f98bbc",
+        "tags":["1021361","4030232","4070448","4080202","4090038","4090059"]
+      },
+      {
+        "desc1":"DOC-FPA0000090",
+        "desc2":"Bauanschluss seitlich",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000090p.png?v=0db3556d4334de87cf641ed6763997259bbbd0b7",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000090.png?v=d08f5c655edb9c2c0eb5d6f9efca44c420a14f09",
+        "dwg":"../globalassets/media/sections/wicona/dwg/ws77fp_ei60_ba.dwg?v=f84abbf792bef68221e3054db5cf10a111f98bbc",
+        "tags":["1021361","4030232","4070448","4080202","4090038","4090059"]
+      },
+      {
+        "desc1":"DOC-FPA0000091",
+        "desc2":"Bauanschluss seitlich",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000091p.png?v=2f3dec09ad3ad9885b4bff8797ded1d62745880d",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000091.png?v=dd11d2647792529956961b800212b23921c87713",
+        "dwg":"../globalassets/media/sections/wicona/dwg/ws77fp_ei60_ba.dwg?v=f84abbf792bef68221e3054db5cf10a111f98bbc",
+        "tags":["1021361","4030232","4070448","4080202","4090038","4090059"]
+      },
+      {
+        "desc1":"DOC-FPA0000092",
+        "desc2":"Bauanschluss seitlich",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000092p.png?v=ce59be33bf7df0e8004b284da2241aa04741cc94",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000092.png?v=a0f8039777344a5f57b72229f6168b1da4a6699a",
+        "dwg":"../globalassets/media/sections/wicona/dwg/ws77fp_ei60_ba.dwg?v=f84abbf792bef68221e3054db5cf10a111f98bbc",
+        "tags":["1021361","4030232","4070448","4080202","4090038","4090059"]
+      },
+      {
+        "desc1":"DOC-FPA0000093",
+        "desc2":"Bauanschluss seitlich",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000093p.png?v=9d0728491d0af92b8a2b8ba9589a8710eb515f4c",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000093.png?v=93839383977e53e8d31035784437a438f13c75ab",
+        "dwg":"../globalassets/media/sections/wicona/dwg/ws77fp_ei60_ba.dwg?v=f84abbf792bef68221e3054db5cf10a111f98bbc",
+        "tags":["1021361","4030232","4070448","4080202","4090038","4090059"]
+      },
+      {
+        "desc1":"DOC-FPA0000094",
+        "desc2":"Anschlagtüren einwärts/auswärts mit Sockelprofil",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000094p.png?v=d9ac8031d0109f5cfe56190cac0363d098943d85",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000094.png?v=54a656cdae387d4094486e09055e6de0bc22b676",
+        "dwg":"../globalassets/media/sections/wicona/dwg/ws77fp_ei60_ba.dwg?v=f84abbf792bef68221e3054db5cf10a111f98bbc",
+        "tags":["1021353","3090077","4010016","4010065","4030183","4070448","4080201","4080205","4090042","4090068","4090084"]
+      },
+      {
+        "desc1":"DOC-FPA0000095",
+        "desc2":"Anschlagtüren einwärts mit Flügelprofil umlaufend",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000095p.png?v=e9e5863c8d88ef497f4f4c44d729d2ba9a81e2a8",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000095.png?v=bc0d0fe4832dcf815f819233bca06c6c48e00c47",
+        "dwg":"../globalassets/media/sections/wicona/dwg/ws77fp_ei60_ba.dwg?v=f84abbf792bef68221e3054db5cf10a111f98bbc",
+        "tags":["1021356","3021033","3021173","3090077","3090134","4010016","4010065","4010270","4030183","4030187","4070043","4070448","4080201","4080205","4090046","4090062","4090084"]
+      },
+      {
+        "desc1":"DOC-FPA0000096",
+        "desc2":"Anschlagtüren einwärts/auswärts mit Sockelprofil",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000096p.png?v=5449c8af64f7375414686f98d90414dc72a81400",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000096.png?v=09d32f87cd89add6db4a89671d6a43f80bd5835a",
+        "dwg":"../globalassets/media/sections/wicona/dwg/ws77fp_ei60_ba.dwg?v=f84abbf792bef68221e3054db5cf10a111f98bbc",
+        "tags":["1021353","3090077","4010016","4010065","4030183","4070448","4080201","4080205","4090042","4090068","4090084"]
+      },
+      {
+        "desc1":"DOC-FPA0000097",
+        "desc2":"Anschlagtüren einwärts mit Flügelprofil umlaufend",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000097p.png?v=414e491054a2c97eb9e8782372ac4184395a173e",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000097.png?v=15b6fc3863385f84114656549653ee2649234a75",
+        "dwg":"../globalassets/media/sections/wicona/dwg/ws77fp_ei60_ba.dwg?v=f84abbf792bef68221e3054db5cf10a111f98bbc",
+        "tags":["1021356","3090077","3090134","4010016","4010065","4030183","4030187","4070043","4070448","4080201","4080205","4090046","4090062","4090084"]
+      },
+      {
+        "desc1":"DOC-FPA0000098",
+        "desc2":"Anschlagtüren einwärts/auswärts mit Sockelprofil",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000098p.png?v=ffe1de296f90a6c3371c144e156487fb7e603e22",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000098.png?v=92127da8f7083f15d25df539d204c4a15848aff2",
+        "dwg":"../globalassets/media/sections/wicona/dwg/ws77fp_ei60_ba.dwg?v=f84abbf792bef68221e3054db5cf10a111f98bbc",
+        "tags":["1021353","3090077","4010016","4010065","4030183","4070448","4080201","4080205","4090042","4090068","4090084"]
+      },
+      {
+        "desc1":"DOC-FPA0000099",
+        "desc2":"Anschlagtüren einwärts mit Flügelprofil umlaufend",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000099p.png?v=4cd03f6967b267c224f9056418a23fa92db5c714",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000099.png?v=4a0090af66506bd39af8f47f45be9f22eb8562f4",
+        "dwg":"../globalassets/media/sections/wicona/dwg/ws77fp_ei60_ba.dwg?v=f84abbf792bef68221e3054db5cf10a111f98bbc",
+        "tags":["1021356","3090077","3090134","4010016","4010065","4030183","4030187","4070043","4070448","4080201","4080205","4090046","4090062","4090084"]
+      },
+      {
+        "desc1":"DOC-FPA0000100",
+        "desc2":"Anschlagtüren einwärts/auswärts mit Sockelprofil",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000100p.png?v=815916c0a108d2093b8b44dd5b1fb604dfc461d1",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000100.png?v=0c54d9c7e56a1c78bd6ea943a4160cb999289a82",
+        "dwg":"../globalassets/media/sections/wicona/dwg/ws77fp_ei60_ba.dwg?v=f84abbf792bef68221e3054db5cf10a111f98bbc",
+        "tags":["1021353","3090077","4010016","4010065","4030183","4070448","4080201","4080205","4090042","4090068","4090084"]
+      },
+      {
+        "desc1":"DOC-FPA0000101",
+        "desc2":"Anschlagtüren einwärts mit Flügelprofil umlaufend",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000101p.png?v=e652242b2ca4c362b98dd4adde42304a3f10395f",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000101.png?v=a71c757289223750193f86aa20e75f5f95615371",
+        "dwg":"../globalassets/media/sections/wicona/dwg/ws77fp_ei60_ba.dwg?v=f84abbf792bef68221e3054db5cf10a111f98bbc",
+        "tags":["1021356","3090077","3090134","4010016","4010065","4030183","4030187","4070043","4070448","4080201","4080205","4090046","4090062","4090084"]
+      },
+      {
+        "desc1":"DOC-FPA0000102",
+        "desc2":"Anschlagtüren einwärts/auswärts mit Sockelprofil",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000102p.png?v=a12d3634ea48f31b6f48287471b195219965cab3",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000102.png?v=df0305b0f2b4864e3145ad9cbf4ef72c1c8e2ad1",
+        "dwg":"../globalassets/media/sections/wicona/dwg/ws77fp_ei60_ba.dwg?v=f84abbf792bef68221e3054db5cf10a111f98bbc",
+        "tags":["1021353","3090077","4010016","4010065","4030183","4070448","4080201","4080205","4090042","4090068","4090084"]
+      },
+      {
+        "desc1":"DOC-FPA0000103",
+        "desc2":"Anschlagtüren einwärts mit Flügelprofil umlaufend",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000103p.png?v=e95b3e0833116c6954dceb16e5f453d24a7346ae",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000103.png?v=a8eea9d92a912e78bd3cba49323e35c7b4fccb39",
+        "dwg":"../globalassets/media/sections/wicona/dwg/ws77fp_ei60_ba.dwg?v=f84abbf792bef68221e3054db5cf10a111f98bbc",
+        "tags":["1021356","3090077","3090134","4010016","4010065","4030183","4030187","4070043","4070448","4080201","4080205","4090046","4090062","4090084"]
+      },
+      {
+        "desc1":"DOC-FPA0000104",
+        "desc2":"Anschlagtüren einwärts mit Sockelprofil",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000104p.png?v=70a6dc51f0387f5ba423f70b583f81cf795d62e1",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000104.png?v=972a9fdfef3d251917a5bfe3cb9f71fb04120f27",
+        "dwg":"../globalassets/media/sections/wicona/dwg/ws77fp_ei60_ba.dwg?v=f84abbf792bef68221e3054db5cf10a111f98bbc",
+        "tags":["199174","1021232","1021235","1021353","3090077","4010016","4010065","4010101","4010103","4030187","4070448","4080201","4080205","4090042","4090068","4090084","4910041"]
+      },
+      {
+        "desc1":"DOC-FPA0000105",
+        "desc2":"Anschlagtüren auswärts mit Sockelprofil",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000105p.png?v=2cba88cb74c743b286e7377b5909eb22d8704374",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000105.png?v=58234e0b35e15e6fa400d61421d35b608e4bd5fa",
+        "dwg":"../globalassets/media/sections/wicona/dwg/ws77fp_ei60_ba.dwg?v=f84abbf792bef68221e3054db5cf10a111f98bbc",
+        "tags":["199174","1021231","1021235","1021353","3090077","4010016","4010065","4010101","4010103","4030187","4070448","4080201","4080205","4090042","4090068","4090084","4910041"]
+      }
+    ]
+  },
+  "style":{"background":false}
+}

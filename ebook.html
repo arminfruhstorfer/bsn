@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#cd0019">
+	<link rel="stylesheet" href="./style/pdf.css">
+	<link rel="stylesheet" href="./style/fa.css">
+	<link id="pdf-ico" rel="shortcut icon" href="./img/favicon.ico" type="image/x-icon">
+	<script src="https://unpkg.com/pdf-lib"></script>
+	<script src="https://unpkg.com/downloadjs@1.4.7/download.js"></script>
+    <title>EBook</title>
+  </head>
+  <body>
+	<div class="pdf-navbar">
+		<button id="pdf-searchbar-toggle"><i class="fa fa-eye-slash"></i></button>
+		<div>
+			<button id="pdf-zoom-in" data-tooltip="Vergrößern"><i class="fa fa-search-plus"></i></button>
+			<button id="pdf-zoom-out" data-tooltip="Verkleinern"><i class="fa fa-search-minus"></i></button>
+			<button id="pdf-download-left" data-tooltip="Linke Seite herunterladen"><i class="fa fa-sign-out" style="transform: rotate(90deg)"></i></button>
+			<button id="pdf-turn-left-ccw" data-tooltip="Linke Seite gegen Uhrzeigersinn drehen"><i class="fa fa-rotate-left"></i></button>
+			<button id="pdf-turn-left-cw" data-tooltip="Linke Seite im Uhrzeigersinn drehen"><i class="fa fa-rotate-right"></i></button>
+			<button id="pdf-first-site" data-tooltip="Zum Anfang des Dokuments gehen"><i class="fa fa-angle-double-left"></i></button>
+			<button id="pdf-previous-site" data-tooltip="Vorige Seite"><i class="fa fa-angle-left"></i></button>
+			<input id="pdf-current-site">
+			<button id="pdf-next-site" data-tooltip="Nächste Seite"><i class="fa fa-angle-right"></i></button>
+			<button id="pdf-last-site" data-tooltip="Zum Ende des Dokuments gehen"><i class="fa fa-angle-double-right"></i></button>
+			<button id="pdf-turn-right-ccw" data-tooltip="Rechte Seite gegen Uhrzeigersinn drehen"><i class="fa fa-rotate-left"></i></button>
+			<button id="pdf-turn-right-cw" data-tooltip="Rechte Seite im Uhrzeigersinn drehen"><i class="fa fa-undo" style="transform: scale(-1, 1)"></i></button>
+			<button id="pdf-download-right" data-tooltip="Rechte Seite herunterladen"><i class="fa fa-sign-out" style="transform: rotate(90deg)"></i></button>
+			<a id="pdf-download" target="_blank" download data-tooltip="Dokument herunterladen"><i class="fa fa-download"></i></a>
+			<button id="pdf-zoom-fit" data-tooltip="Ursprüngliche Seitengröße"><i class="fa fa-arrows"></i></button>
+		</div>
+	</div>
+	<div id="pdf-searchbar">
+		<button id="pdf-hide-searchbar"><i class="fa fa-close"></i></button>
+		<div id="pdf-searchbar-title">Suche</div>
+		<input id="pdf-search" placeholder="Suchbegriff eingeben">
+		<div class="pdf-resultbox">
+			<div id="pdf-searchresults"></div>
+			<div id="pdf-toc"></div>
+		</div>
+	</div>
+	<div class="pdf-roller-container">
+		<div class="pdf-roller">
+			<div></div>
+			<div></div>
+			<div></div>
+			<div></div>
+			<div></div>
+			<div></div>
+			<div></div>
+			<div></div>
+		</div>
+	</div>
+    <div id="pdf-viewer">
+		<div id="pdf-page-container">
+			<canvas id="pdf-renderer1"></canvas>
+			<canvas id="pdf-renderer2"></canvas>
+		</div>
+	</div>
+	<script src="https://cdn.jsdelivr.net/npm/pdfjs-dist@3.11.174/build/pdf.min.js"></script>
+	<script>
+		window.onload = function() {
+			let sBaseURL = window.location.href.substring(0, window.location.href.indexOf("ebook.html"));
+			/*console.dir(sBaseURL);*/
+			let oStyle = document.createElement('link');
+			oStyle.href = sBaseURL + "style/pdf.css?v=" + Math.floor(Math.random() * 100000);
+			oStyle.type = "text/css";
+			oStyle.rel = "stylesheet";
+			oStyle.media = "screen,print";
+			document.getElementsByTagName("head")[0].appendChild(oStyle);
+			let oScript = document.createElement('script');
+			oScript.src = sBaseURL + "script/pdf_view.js?v=" + Math.floor(Math.random() * 100000);
+			document.getElementsByTagName("body")[0].appendChild(oScript);
+		};
+	</script>
+  </body>
+</html>

@@ -1,0 +1,682 @@
+﻿{
+  "subnavigation":[
+    {
+      "label":"Planung",
+      "icon":"fa fa-desktop",
+      "links":[
+        {"text":"Ausschreibungstexte","link":"ws77fp_ei30_at"},
+        {"text":"Füllungen & Größen CE","link":"ws77fp_ei30_fg_ce"},
+        {"text":"Füllungen & Größen ÜA","link":"ws77fp_ei30_fg_ua"},
+        {"text":"Systemdatenblatt","link":"ws77fp_ei30_sd"}
+      ]
+    },
+    {
+      "label":"CAD-Unterstützung",
+      "icon":"fa fa-usb",
+      "links":[
+        {"text":"Konstruktionsschnitte","link":"ws77fp_ei30_ks"},
+        {"text":"Profilkonturen (.dwg)","link":"ws77fp_ei30_pk", "active":true},
+        {"text":"Vorschläge Bauanschlüsse","link":"ws77fp_ei30_ba"}
+      ]
+    },
+    {
+      "label":"Dokumentation",
+      "icon":"fa fa-book",
+      "links":[
+        {"text":"Dokumentation CE","link":"ws77fp_ei30_do_ce"},
+        {"text":"Einbruchhemmung ","link":"ws77fp_ei30_rc"},
+        {"text":"Montageanleitung ÜA","link":"ws77fp_ei30_ma_ua"},
+        {"text":"Programmliste ÜA","link":"ws77fp_ei30_pl_ua"},
+        {"text":"Verarbeitung","link":"ws77fp_ei30_vr"},
+        {"text":"Vorlagen","link":"ws77fp_ei30_vo"}
+      ]
+    }
+  ],
+  "content":{
+    "list":[
+
+      {
+        "desc1":"1020455",
+        "desc2":"Blendrahmen FP Tür einw./ausw. 33,5/58,5/77 mm",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/wicona/png/1020455p.png?v=b766f6c4d5f0c96535e052f850685fb27286d1ab",
+        "img":"../globalassets/media/items/wicona/png/1020455.png?v=93d746b4e936e1dfae2c1fec30c9c26d25cbebee",
+        "dwg":"../globalassets/media/items/wicona/dwg/w1020455-idr.dwg?v=f04735c2651256bc77549b0ff22222938434d972"
+      },
+      {
+        "desc1":"1021351",
+        "desc2":"Blendrahmen FP Tür einwärts/auswärts 42/67/77 mm",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/wicona/png/1021351p.png?v=54c76d6b7f43d17b74e9ea07930fd4a7a225ae22",
+        "img":"../globalassets/media/items/wicona/png/1021351.png?v=a86566e0a4a7c40b20802178b47b060ebb085ce2",
+        "dwg":"../globalassets/media/items/wicona/dwg/w1021351-idr.dwg?v=b0d3268b8bb46aaab0e0980d1ee47d8026f2b350"
+      },
+      {
+        "desc1":"1020458",
+        "desc2":"Blendrahmen FP Tür einwärts/auswärts 73/98/77 mm",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/wicona/png/1020458p.png?v=2ce12ec781990e01ba4d4f2bb5bab5c76356e33f",
+        "img":"../globalassets/media/items/wicona/png/1020458.png?v=45647083eb3624692bf9f25ecaf1bab5516b3b79",
+        "dwg":"../globalassets/media/items/wicona/dwg/w1020458-idr.dwg?v=ecacf1d809b0900dfac8dcaf8bd5de938b5c2c30"
+      },
+      {
+        "desc1":"1020449",
+        "desc2":"Blendrahmen FP 42/67/77 mm",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/wicona/png/1020449p.png?v=63ad635d1633e43bae070fcf0066c22515dd6126",
+        "img":"../globalassets/media/items/wicona/png/1020449.png?v=8952572acc521615c99249f1416a0fb97644ebb3",
+        "dwg":"../globalassets/media/items/wicona/dwg/w1020449-idr.dwg?v=e4d0027cfbd6388c01231453466fbd22c177ec29"
+      },
+      {
+        "desc1":"1021361",
+        "desc2":"Blendrahmen FP 52/77/77 mm",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/wicona/png/1021361p.png?v=d0f572d5cf69550f1909b44927996537e9a56fbf",
+        "img":"../globalassets/media/items/wicona/png/1021361.png?v=7f06a0ed84939628d007dd2b6e1b55901a918e14",
+        "dwg":"../globalassets/media/items/wicona/dwg/w1021361-idr.dwg?v=82083e74d5272c1f58fc265fe0f238ae84e89ed2"
+      },
+      {
+        "desc1":"1021354",
+        "desc2":"Sockelprofil FP 92/117/77 mm",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/wicona/png/1021354p.png?v=d744304de9d52b545963703209984528fd9502b8",
+        "img":"../globalassets/media/items/wicona/png/1021354.png?v=9e062da771a5eca46cb68199ba43bfe77c44a2fe",
+        "dwg":"../globalassets/media/items/wicona/dwg/w1021354-idr.dwg?v=360b6af8231126f16dd211b3b583a8b17063967d"
+      },
+      {
+        "desc1":"1020450",
+        "desc2":"Kämpferprofil FP T-Bauteil auswärts 67/67/77 mm",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/wicona/png/1020450p.png?v=a2c3618a6ced278f453f93cfb10b3b914aed3f4f",
+        "img":"../globalassets/media/items/wicona/png/1020450.png?v=29efc78da3507296879f33a4e3b669ba243e3d9a",
+        "dwg":"../globalassets/media/items/wicona/dwg/w1020450-idr.dwg?v=53a67fa668a0143a474b01199356a48573021484"
+      },
+      {
+        "desc1":"1020451",
+        "desc2":"Kämpferprofil FP T-Bauteil einwärts 42/92/77 mm",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/wicona/png/1020451p.png?v=5853cf400ec2f72cb97bec4b47ca877d9ca2f683",
+        "img":"../globalassets/media/items/wicona/png/1020451.png?v=7f4328e18c73b54b79b51f3df600db101e8aed6f",
+        "dwg":"../globalassets/media/items/wicona/dwg/w1020451-idr.dwg?v=e6dee7c62a0cda316d7537cb3c0783649c87b3a9"
+      },
+      {
+        "desc1":"1021381",
+        "desc2":"Aufsatzprofil einwärts/auswärts FP 52/52/77 mm",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/wicona/png/1021381p.png?v=9b8beebb3eb9f45a30078a9e2518acdcefe132e0",
+        "img":"../globalassets/media/items/wicona/png/1021381.png?v=95484ed1b4a84c9861d156ff99b40876db2cb949",
+        "dwg":"../globalassets/media/items/wicona/dwg/w1021381-idr.dwg?v=ae8b009f2c013e0a55b1e770c1428e3633b95b81"
+      },
+      {
+        "desc1":"1021363",
+        "desc2":"Blendrahmen Dehnstoß FP 72/97/77 mm",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/wicona/png/1021363p.png?v=dfb65fa1b19f42942eafcc064bef6cf8f216280b",
+        "img":"../globalassets/media/items/wicona/png/1021363.png?v=6715fa758c37865bc95781a1d434243bbf31bc1e",
+        "dwg":"../globalassets/media/items/wicona/dwg/w1021363-idr.dwg?v=af466770d2a56d2c001a44e495bb5f93a72ab739"
+      },
+      {
+        "desc1":"1021353",
+        "desc2":"Sockelprofil FP 117/142/76,8 mm",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/wicona/png/1021353p.png?v=cc5fb25d1936428b62bb48a0fa8c77b35d24c21b",
+        "img":"../globalassets/media/items/wicona/png/1021353.png?v=32228e295dcb2deae9b4e3cbd14a77cdfb2e6750",
+        "dwg":"../globalassets/media/items/wicona/dwg/w1021353-idr.dwg?v=1bd9ae282f0e9742e372570650a8ea2599886ecb"
+      },
+      {
+        "desc1":"1020459",
+        "desc2":"Sockelprofil FP 73/98/77 mm",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/wicona/png/1020459p.png?v=362b35ae2fc6d75e913537cb98fef004df3fa958",
+        "img":"../globalassets/media/items/wicona/png/1020459.png?v=928b6e53270cca38f215f7abd8b5e3740495ef33",
+        "dwg":"../globalassets/media/items/wicona/dwg/w1020459-idr.dwg?v=63ff61709453e40cefed339535b637152abe0d3e"
+      },
+      {
+        "desc1":"1020463",
+        "desc2":"Sockelprofil FP 83/108/77 mm",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/wicona/png/1020463p.png?v=804e8f19cd8dce21edd132329a1f1dbff37587a9",
+        "img":"../globalassets/media/items/wicona/png/1020463.png?v=c31d4402bf0c00da93693d47553d6733a26ea9ab",
+        "dwg":"../globalassets/media/items/wicona/dwg/w1020463-idr.dwg?v=af2848d9bd8dd63c80a212e6e0027d422d3d752b"
+      },
+      {
+        "desc1":"1021356",
+        "desc2":"Türflügelprofil FP einwärts 73/73/77 mm",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/wicona/png/1021356p.png?v=9d18428ce74af2bcd5f8cdc61ee3cb3e28adb729",
+        "img":"../globalassets/media/items/wicona/png/1021356.png?v=611747b244d66f83c743fc704e665f895bf61919",
+        "dwg":"../globalassets/media/items/wicona/dwg/w1021356-idr.dwg?v=614701f7ce61f0a0806575a4a0b10ed11d192b88"
+      },
+      {
+        "desc1":"1021357",
+        "desc2":"Türflügelprofil FP einwärts 83/83/77 mm",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/wicona/png/1021357p.png?v=779dd2897ae5745586f6f115cda2ca557e14bc5c",
+        "img":"../globalassets/media/items/wicona/png/1021357.png?v=f4e806161d6a6b778d24009a97896a1a59014cf8",
+        "dwg":"../globalassets/media/items/wicona/dwg/w1021357-idr.dwg?v=d32fb81c635d0c457ed4eca4318323edcc22cca5"
+      },
+      {
+        "desc1":"1020444",
+        "desc2":"Türflügelprofil FP einwärts 98/98/77 mm",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/wicona/png/1020444p.png?v=3861dbb5ab88b34f60b0dc1cddfc3039fbea60cd",
+        "img":"../globalassets/media/items/wicona/png/1020444.png?v=75bf8da9fe6de42b42fc92f5763f7fe85c885641",
+        "dwg":"../globalassets/media/items/wicona/dwg/w1020444-idr.dwg?v=a49bc8b2a1e4629b10f1513e30eb84be01966ddc"
+      },
+      {
+        "desc1":"1021358",
+        "desc2":"Türflügelprofil FP auswärts 48/98/77 mm",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/wicona/png/1021358p.png?v=fad092560c382216b739216fb7bb0b91285e7ca6",
+        "img":"../globalassets/media/items/wicona/png/1021358.png?v=8f7e80ffab8673363bda67f342b61a446027a00f",
+        "dwg":"../globalassets/media/items/wicona/dwg/w1021358-idr.dwg?v=64698267efe1fb00afbc3433298b759c7470d548"
+      },
+      {
+        "desc1":"1021359",
+        "desc2":"Türflügelprofil FP auswärts 58/108/77 mm",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/wicona/png/1021359p.png?v=8e379d98243181dc3c8daa3e04fa1e4efc0f9911",
+        "img":"../globalassets/media/items/wicona/png/1021359.png?v=02540a92e984d39942728916f2ad6282602cd38c",
+        "dwg":"../globalassets/media/items/wicona/dwg/w1021359-idr.dwg?v=b46d06b19b8d8b266f03318ecba51aeada02ad9e"
+      },
+      {
+        "desc1":"1020445",
+        "desc2":"Türflügelprofil FP auswärts 73/123/77 mm",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/wicona/png/1020445p.png?v=18559265952ac760af2942f985d1cf9f769f787d",
+        "img":"../globalassets/media/items/wicona/png/1020445.png?v=6e98f5194070d2c43bd773606ea10c19065b2022",
+        "dwg":"../globalassets/media/items/wicona/dwg/w1020445-idr.dwg?v=807c599322e82dc1b0b819515834a1df3a424bd1"
+      },
+      {
+        "desc1":"1020456",
+        "desc2":"Türflügelprofil FP flügelüberd. einw. 73/48/77 mm",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/wicona/png/1020456p.png?v=951cb0edf702c3b4c0ced37733b8174287cecae1",
+        "img":"../globalassets/media/items/wicona/png/1020456.png?v=6a7a65089ae12a61643ba7cafb7278242fa6e815",
+        "dwg":"../globalassets/media/items/wicona/dwg/w1020456-idr.dwg?v=a71a8509bc56731159a8b83d7ab18e0d9f595261"
+      },
+      {
+        "desc1":"1021364",
+        "desc2":"Kämpfer/Sprosse FP 42/92/76,8 mm",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/wicona/png/1021364p.png?v=82eaa50cf42709753d866fd0ec3410687be044e5",
+        "img":"../globalassets/media/items/wicona/png/1021364.png?v=c919cb0e31d4d70d008d79811575e23e4302cc0a",
+        "dwg":"../globalassets/media/items/wicona/dwg/w1021364-idr.dwg?v=8cfd1b150f25fe016652b7d42aef17e1d8446e52"
+      },
+      {
+        "desc1":"1021365",
+        "desc2":"Kämpfer FP 52/102/76,8 mm",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/wicona/png/1021365p.png?v=fa83185d7386179a6de9c931e68e3eab7769621d",
+        "img":"../globalassets/media/items/wicona/png/1021365.png?v=ce1d8e415d29b666091160e54935d2f07b5af22a",
+        "dwg":"../globalassets/media/items/wicona/dwg/w1021365-idr.dwg?v=cbab55b0d5408b351d67a92a225bb6569a2fd349"
+      },
+      {
+        "desc1":"1021367",
+        "desc2":"Kämpfer/Sprosse FP 92/142/76,8 mm",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/wicona/png/1021367p.png?v=dabf5b9b674207f221d819f306bd49257063c2f0",
+        "img":"../globalassets/media/items/wicona/png/1021367.png?v=c403214d148c6e90c9be1d7a8dbdc83c10ca3a60",
+        "dwg":"../globalassets/media/items/wicona/dwg/w1021367-idr.dwg?v=cfb3ff60529ccb4367e02982c5550774db2b4120"
+      },
+      {
+        "desc1":"1021369",
+        "desc2":"Stütze na verstärkt FP 52/102/77/100 mm",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/wicona/png/1021369p.png?v=dce44725eb0ec185b920027b99ba07890e1b6fa8",
+        "img":"../globalassets/media/items/wicona/png/1021369.png?v=81fce38680da362382b6c4c70149d016b4db8904",
+        "dwg":"../globalassets/media/items/wicona/dwg/w1021369-idr.dwg?v=8decc0a49a7ac88a240b66d5e6a6a4df931875e1"
+      },
+      {
+        "desc1":"1021235",
+        "desc2":"Schwellenprofil wärmegedämmt 77/26 mm",
+        "tags":["article","threshold"],
+        "pimg":"../globalassets/media/items/wicona/png/1021235p.png?v=719e925808ed556fc1bda7ecf2be64e48948fd1f",
+        "img":"../globalassets/media/items/wicona/png/1021235.png?v=8cbc2cf3ed0162735d7c88a238920dcb6b475f98",
+        "dwg":"../globalassets/media/items/wicona/dwg/w1021235-idr.dwg?v=b6e29c443e61b1cfd20d73e3c2e0aa5b3fce9f35"
+      },
+      {
+        "desc1":"1021236",
+        "desc2":"Schwellenprofil wärmegedämmt 77/16 mm",
+        "tags":["article","threshold"],
+        "pimg":"../globalassets/media/items/wicona/png/1021236p.png?v=99d5d38f2588d350cd84ace77620bc2ba5ebf4aa",
+        "img":"../globalassets/media/items/wicona/png/1021236.png?v=88d1c73d8c6277f2f823e77b605382136be2d89a",
+        "dwg":"../globalassets/media/items/wicona/dwg/w1021236-idr.dwg?v=bb1a1043d843653e19e15f2894d47be33dc1d9e2"
+      },
+      {
+        "desc1":"3021033",
+        "desc2":"Schwellenprofil ungedämmt 36/4 mm",
+        "tags":["article","threshold"],
+        "pimg":"../globalassets/media/items/wicona/png/3021033p.png?v=857f1ef4b43c765e6a03551ac06b95249c19e152",
+        "img":"../globalassets/media/items/wicona/png/3021033.png?v=b007a1b21d65cebafd4b774665983f1297f10d23",
+        "dwg":"../globalassets/media/items/wicona/dwg/w3021033-idr.dwg?v=fbaef14119f3edd56d3f429129618bd9e43a96ec"
+      },
+      {
+        "desc1":"1021231",
+        "desc2":"Sockelaufsatz auswärts 13,5/26/76,6 mm",
+        "tags":["article","extensionprofile"],
+        "pimg":"../globalassets/media/items/wicona/png/1021231p.png?v=5c2ae2da13fd3e85ee76c7e51961b849c2cc54ac",
+        "img":"../globalassets/media/items/wicona/png/1021231.png?v=6d08592ff0f4cc10b04b73c43052e32ec290a448",
+        "dwg":"../globalassets/media/items/wicona/dwg/w1021231-idr.dwg?v=bb65c5119cca40ec497a45cb477a05e8e1b8cdfc"
+      },
+      {
+        "desc1":"1021232",
+        "desc2":"Sockelaufsatz einwärts 26/27,5/91,8 mm",
+        "tags":["article","extensionprofile"],
+        "pimg":"../globalassets/media/items/wicona/png/1021232p.png?v=c406259bb71970002570d77553cf7b507b4213a3",
+        "img":"../globalassets/media/items/wicona/png/1021232.png?v=74925d9c9e5ef1d300d4b5f0baed321bc756fa8a",
+        "dwg":"../globalassets/media/items/wicona/dwg/w1021232-idr.dwg?v=45ce8bd57b29f0bea09345a82de03a097cb04c1a"
+      },
+      {
+        "desc1":"1021233",
+        "desc2":"Sockelaufsatz einw./ausw. 13,5/27,5/91,8 mm",
+        "tags":["article","extensionprofile"],
+        "pimg":"../globalassets/media/items/wicona/png/1021233p.png?v=0951cc2a93c7bdbbfd8ab5643634d6e55d2ede93",
+        "img":"../globalassets/media/items/wicona/png/1021233.png?v=076b74c6ec94c31c8b375dd22601deeabcda1c7f",
+        "dwg":"../globalassets/media/items/wicona/dwg/w1021233-idr.dwg?v=8fb2f819a22dea6f7308c1292d3581044dc73014"
+      },
+      {
+        "desc1":"1021234",
+        "desc2":"Zusatzprofil Kämpfersockel 25/32,7/71,5 mm",
+        "tags":["article","extensionprofile"],
+        "pimg":"../globalassets/media/items/wicona/png/1021234p.png?v=4cf8edb14b2e08b46bbd309a005ec2eaa2c6e68d",
+        "img":"../globalassets/media/items/wicona/png/1021234.png?v=48744b517b14859083dbdfe73e3bdc1c1b5f66d1",
+        "dwg":"../globalassets/media/items/wicona/dwg/w1021234-idr.dwg?v=283203f1f91a2545644e3446f67efef8776f0d28"
+      },
+      {
+        "desc1":"1021375",
+        "desc2":"Aufsatzprofil FP einwärts 34,5/25/76,8 mm",
+        "tags":["article","extensionprofile"],
+        "pimg":"../globalassets/media/items/wicona/png/1021375p.png?v=049f35ff5bd8592c14a6be85f2b1b9cd1e878f75",
+        "img":"../globalassets/media/items/wicona/png/1021375.png?v=ba1ba66e8b6f1d42d5b4d7d83df1ea7327b65c63",
+        "dwg":"../globalassets/media/items/wicona/dwg/w1021375-idr.dwg?v=f21ac8c9ffd42504f489895e4d0d08f3bd47c234"
+      },
+      {
+        "desc1":"1021376",
+        "desc2":"Aufsatzprofil FP auswärts 50/28,4/75 mm",
+        "tags":["article","extensionprofile"],
+        "pimg":"../globalassets/media/items/wicona/png/1021376p.png?v=76554f4c9c48c6be416202e22aae603d2e5d326e",
+        "img":"../globalassets/media/items/wicona/png/1021376.png?v=d9b121ff80c5856eacba7e6a4c1e1c0fb0106f96",
+        "dwg":"../globalassets/media/items/wicona/dwg/w1021376-idr.dwg?v=051c0c5caf2b414d66786e1189206012adf3130b"
+      },
+      {
+        "desc1":"3020325",
+        "desc2":"Sockelaufsatzprofil einw./auswärts 9/9/76,4 mm",
+        "tags":["article","extensionprofile"],
+        "pimg":"../globalassets/media/items/wicona/png/3020325p.png?v=28cd00c7f7cb803dd31343fb3dc2e392be30a567",
+        "img":"../globalassets/media/items/wicona/png/3020325.png?v=9f760171625c6e3fd92f6d2cb0730d075a3f00bf",
+        "dwg":"../globalassets/media/items/wicona/dwg/w3020325-idr.dwg?v=94572ec79f189aff08659bb2ad0fe775b6f9ffe9"
+      },
+      {
+        "desc1":"3021230",
+        "desc2":"Aufsatzprofil FP 18/14 mm",
+        "tags":["article","extensionprofile"],
+        "pimg":"../globalassets/media/items/wicona/png/3021230p.png?v=74f27bf8703d3feff2d1d87fc5b8c08669fbfb21",
+        "img":"../globalassets/media/items/wicona/png/3021230.png?v=535a50582e1d11f8804b78f10c5cc825f8f1a10d",
+        "dwg":"../globalassets/media/items/wicona/dwg/w3021230-idr.dwg?v=b30468cc12f27a3b909a94ab6677f93f38bed0aa"
+      },
+      {
+        "desc1":"3021231",
+        "desc2":"Aufsatzprofil FP 14/13,8/51,8 mm",
+        "tags":["article","extensionprofile"],
+        "pimg":"../globalassets/media/items/wicona/png/3021231p.png?v=5640450d1b2c83d8b739336f7ae8bd1a70a89fc4",
+        "img":"../globalassets/media/items/wicona/png/3021231.png?v=351b7a3728df269bc209d05c81f3b7b74cbf51b3",
+        "dwg":"../globalassets/media/items/wicona/dwg/w3021231-idr.dwg?v=9d5b5a1009f34eea149b52d07faeced1d19d3ee9"
+      },
+      {
+        "desc1":"3090134",
+        "desc2":"Zusatzprofil für Türflügel als Sockel 17/25mm",
+        "tags":["article","extensionprofile"],
+        "pimg":"../globalassets/media/items/wicona/png/3090134p.png?v=f94c7a3e399f7eb3de88191d6b8c8c10a6cb20e4",
+        "img":"../globalassets/media/items/wicona/png/3090134.png?v=9f64b209a9f43e2731fec8a795c0cb802c9aae9d",
+        "dwg":"../globalassets/media/items/wicona/dwg/w3090134-idr.dwg?v=f1e7c2efc39a1bef14c66a683116eac1fd638979"
+      },
+      {
+        "desc1":"3021173",
+        "desc2":"Aufnahmeprofil für Sockeldichtung 13/23 mm",
+        "tags":["article","extensionprofile"],
+        "pimg":"../globalassets/media/items/wicona/png/3021173p.png?v=342d033ca03e87c656b919f6f6df0c96c31aa6f6",
+        "img":"../globalassets/media/items/wicona/png/3021173.png?v=068de00df597cd66da456f8b1a46770f03a94e2d",
+        "dwg":"../globalassets/media/items/wicona/dwg/w3021173-idr.dwg?v=39c845aebcbadf7f10822aff54c626518d0a0f3b"
+      },
+      {
+        "desc1":"1021383",
+        "desc2":"Falzverbreiterung FP 89/89/76,8 mm",
+        "tags":["article","extensionprofile"],
+        "pimg":"../globalassets/media/items/wicona/png/1021383p.png?v=2928da946e05ddc34fb3bbda1172eb33949bd41b",
+        "img":"../globalassets/media/items/wicona/png/1021383.png?v=a78a907c3b6dcf3f054e353a3cbadb4d832d15ee",
+        "dwg":"../globalassets/media/items/wicona/dwg/w1021383-idr.dwg?v=e06c038fd57fdfd3e4226250ced4f5bc909ed564"
+      },
+      {
+        "desc1":"3021170",
+        "desc2":"Schwellenprofil ungedämmt 33,3/34 mm",
+        "tags":["article","addprofile"],
+        "pimg":"../globalassets/media/items/wicona/png/3021170p.png?v=8919ac624906b751c8aed0965d051c1de92fa0d7",
+        "img":"../globalassets/media/items/wicona/png/3021170.png?v=e34ebc95722d4b65c8e7f4ef14439a3cf11fa2db",
+        "dwg":"../globalassets/media/items/wicona/dwg/w3021170-idr.dwg?v=e42df67ef0440c3d54cdc6fd2513ccfb8b690bea"
+      },
+      {
+        "desc1":"3021171",
+        "desc2":"Schwellenprofil ungedämmt 33,3/17,5 mm",
+        "tags":["article","addprofile"],
+        "pimg":"../globalassets/media/items/wicona/png/3021171p.png?v=c25348bd7d75a4430e4a89a055c2d87b10334edd",
+        "img":"../globalassets/media/items/wicona/png/3021171.png?v=dab51e07b860b8bb7c717d925225626dadabb75d",
+        "dwg":"../globalassets/media/items/wicona/dwg/w3021171-idr.dwg?v=e420682cd66592167ee4651f1c8c0783074df66a"
+      },
+      {
+        "desc1":"3011020",
+        "desc2":"Adapter Falzverbreiterung 5/25 mm",
+        "tags":["article","addprofile"],
+        "pimg":"../globalassets/media/items/wicona/png/3011020p.png?v=18c52ecb49c2818a116da59dee42abf65d657e5a",
+        "img":"../globalassets/media/items/wicona/png/3011020.png?v=e3b28b4a63770d537e45521eed641effff0a7d93",
+        "dwg":"../globalassets/media/items/wicona/dwg/w3011020-idr.dwg?v=35e05506c64e20a6d76a640e9917304397c65900"
+      },
+      {
+        "desc1":"3991213",
+        "desc2":"Adapter Falzverbreiterung 4,5/25 mm",
+        "tags":["article","addprofile"],
+        "pimg":"../globalassets/media/items/wicona/png/3991213p.png?v=ffc0857ee4dd46fbeeb712f4c7c5d8e5cd9a9cf9",
+        "img":"../globalassets/media/items/wicona/png/3991213.png?v=b860dbb026f01b01c84b0b7664631bc35c93a532",
+        "dwg":"../globalassets/media/items/wicona/dwg/w3991213-idr.dwg?v=729031f5ee84bed430f6a6d4a3c26dc890e98d63"
+      },
+      {
+        "desc1":"3091052",
+        "desc2":"Ziersprosse 28/8 mm",
+        "tags":["article","addprofile"],
+        "pimg":"../globalassets/media/items/wicona/png/3091052p.png?v=1f2b8237fa77068bfe2233e9d82f30ffd8b41dec",
+        "img":"../globalassets/media/items/wicona/png/3091052.png?v=8813e69de30f1e1ca9cedc802b0e3b71dd6275f1",
+        "dwg":"../globalassets/media/items/wicona/dwg/w3091052-idr.dwg?v=d910329c087fcb448aabb14e6f78718c5338dfd5"
+      },
+      {
+        "desc1":"3091053",
+        "desc2":"Ziersprosse 28/13,5 mm",
+        "tags":["article","addprofile"],
+        "pimg":"../globalassets/media/items/wicona/png/3091053p.png?v=da0f61e7a7d2e51f5c9499f337ea20fcb53d530a",
+        "img":"../globalassets/media/items/wicona/png/3091053.png?v=1d63ed3c416aac7b0cca8539e21202dc70b7dedf",
+        "dwg":"../globalassets/media/items/wicona/dwg/w3091053-idr.dwg?v=59f6a3946a77f446bb1cafd054d4e40908593524"
+      },
+      {
+        "desc1":"3091036",
+        "desc2":"Bauanschlussprofil 60/12,5 mm",
+        "tags":["article","addprofile"],
+        "pimg":"../globalassets/media/items/wicona/png/3091036p.png?v=33e3633ff006255e0bdeed085ff9719ae090ab0c",
+        "img":"../globalassets/media/items/wicona/png/3091036.png?v=2d1a98e2eaa6ba3867b2753ccadfc718cb5dce5d",
+        "dwg":"../globalassets/media/items/wicona/dwg/w3091036-idr.dwg?v=19b67f46a8ce6ef25ec21524b3479148b1cbea69"
+      },
+      {
+        "desc1":"3091057",
+        "desc2":"Anschlussprofil 12,1/6,1/34,6 mm",
+        "tags":["article","addprofile"],
+        "pimg":"../globalassets/media/items/wicona/png/3091057p.png?v=f5fbc7bb4041fa0c54b1c0c4d1744d68e3609ec3",
+        "img":"../globalassets/media/items/wicona/png/3091057.png?v=137531b96f83c7eea7567db23b5a1929ec6aed3c",
+        "dwg":"../globalassets/media/items/wicona/dwg/w3091057-idr.dwg?v=e30ca78071e0422319c11f5430ed4922554995a4"
+      },
+      {
+        "desc1":"3091031",
+        "desc2":"Bauanschlussprofil 16,5/30,4 mm",
+        "tags":["article","addprofile"],
+        "pimg":"../globalassets/media/items/wicona/png/3091031p.png?v=4040eb9273d693ceee24bc465e6103652a077c9e",
+        "img":"../globalassets/media/items/wicona/png/3091031.png?v=93c34f6331f394e49f43aebfa30466a6b5412d4b",
+        "dwg":"../globalassets/media/items/wicona/dwg/w3091031-idr.dwg?v=20bd9a9bbd5da158467a0eefdcf6b86da3c56244"
+      },
+      {
+        "desc1":"3091041",
+        "desc2":"Verstärkungsprofil 25/70 mm",
+        "tags":["article","addprofile"],
+        "pimg":"../globalassets/media/items/wicona/png/3091041p.png?v=70493504c77836e507a549191fa8d6597a40df32",
+        "img":"../globalassets/media/items/wicona/png/3091041.png?v=b2069febb1659b3823d9f2da7d84468f93160754",
+        "dwg":"../globalassets/media/items/wicona/dwg/w3091041-idr.dwg?v=6c202312ad6f965c1115d103014a2989391da0fe"
+      },
+      {
+        "desc1":"3091042",
+        "desc2":"Abdeckprofil für Verstärkung 19/20,5 mm",
+        "tags":["article","addprofile"],
+        "pimg":"../globalassets/media/items/wicona/png/3091042p.png?v=aa3389b8e0b2d4732cc29453988826d6331cb905",
+        "img":"../globalassets/media/items/wicona/png/3091042.png?v=0a2d95862234d8bd9c5ec88bdba0dd7c64113a53",
+        "dwg":"../globalassets/media/items/wicona/dwg/w3091042-idr.dwg?v=31b1e0df39d28eae027b42251555cf89b6983022"
+      },
+      {
+        "desc1":"3091058",
+        "desc2":"Verstärkungsprofil 36/70 mm",
+        "tags":["article","addprofile"],
+        "pimg":"../globalassets/media/items/wicona/png/3091058p.png?v=b7e7f8a48d05fe83693be53c33bb1726cb389eed",
+        "img":"../globalassets/media/items/wicona/png/3091058.png?v=4c70e87db4d86db99f1989ab6d08c44436263e5f",
+        "dwg":"../globalassets/media/items/wicona/dwg/w3091058-idr.dwg?v=27a4fe8206a3ff708e24ef2b9cc066249ccb53a4"
+      },
+      {
+        "desc1":"3091059",
+        "desc2":"Abdeckprofil für Verstärkung 30/20,5 mm",
+        "tags":["article","addprofile"],
+        "pimg":"../globalassets/media/items/wicona/png/3091059p.png?v=47b0d2cb96eaa32589b112538c2595e4843f1d93",
+        "img":"../globalassets/media/items/wicona/png/3091059.png?v=828561342c183d6afdac49fc494195e6a0bf5783",
+        "dwg":"../globalassets/media/items/wicona/dwg/w3091059-idr.dwg?v=cf25b73651bdb74219476c46ac6a40fb8b7ea476"
+      },
+      {
+        "desc1":"3090194",
+        "desc2":"Verstärkungsprofil 45/80 mm",
+        "tags":["article","addprofile"],
+        "pimg":"../globalassets/media/items/wicona/png/3090194p.png?v=9dd9921f20f91c9a9505cb63636f771197188130",
+        "img":"../globalassets/media/items/wicona/png/3090194.png?v=c2bfb372592373577eaeb0597b15794f5f321261",
+        "dwg":"../globalassets/media/items/wicona/dwg/w3090194-idr.dwg?v=c1ed6a1ae48fefe9ec072d98a9f254d5c0e31199"
+      },
+      {
+        "desc1":"3090193",
+        "desc2":"Abdeckprofil 45/11,4 mm",
+        "tags":["article","addprofile"],
+        "pimg":"../globalassets/media/items/wicona/png/3090193p.png?v=1aa24a61e7dd5c6234d86e8c5418cd3ab8534f9e",
+        "img":"../globalassets/media/items/wicona/png/3090193.png?v=ab577ff3ff9d4f43223bdc6a1b28a2c32ab74cbe",
+        "dwg":"../globalassets/media/items/wicona/dwg/w3090193-idr.dwg?v=d4ef4fba6e03fcbdf00c701d5cbb6a9146789f29"
+      },
+      {
+        "desc1":"3090243",
+        "desc2":"Glasleiste 9/22 mm",
+        "desc3":"Beschichtet",
+        "tags":["article","glazingbead"],
+        "pimg":"../globalassets/media/items/wicona/png/3090243p.png?v=2941bf5feff6fd4264f3ece74f652b72177300f9",
+        "img":"../globalassets/media/items/wicona/png/3090243.png?v=21c682d8aeafb09497ad8a012736b98a5cd9a857",
+        "dwg":"../globalassets/media/items/wicona/dwg/w3090243-idr.dwg?v=09efd8fc78e24ad2a2679d8529b26ec99dac2f66"
+      },
+      {
+        "desc1":"3090242",
+        "desc2":"Glasleiste 12/22 mm",
+        "desc3":"Beschichtet",
+        "tags":["article","glazingbead"],
+        "pimg":"../globalassets/media/items/wicona/png/3090242p.png?v=11dd5dfcfb563ab17142d6c26246e5b900044a4f",
+        "img":"../globalassets/media/items/wicona/png/3090242.png?v=08c5d52810cb8ccea12d79218d118c061996962d",
+        "dwg":"../globalassets/media/items/wicona/dwg/w3090242-idr.dwg?v=8fc518971294d99bcbd747d72756df23a8b561e2"
+      },
+      {
+        "desc1":"3090196",
+        "desc2":"Glasleiste 16/22 mm",
+        "desc3":"Beschichtet",
+        "tags":["article","glazingbead"],
+        "pimg":"../globalassets/media/items/wicona/png/3090196p.png?v=5bff16b2109ebd0b961b44fda4999230b944a63f",
+        "img":"../globalassets/media/items/wicona/png/3090196.png?v=17ff5dc356c072a0ad693abfc3776d5232b40079",
+        "dwg":"../globalassets/media/items/wicona/dwg/w3090196-idr.dwg?v=0df0cc602fefd3d22687321dc97c99e7673d9d46"
+      },
+      {
+        "desc1":"3090197",
+        "desc2":"Glasleiste 20/22 mm",
+        "desc3":"Beschichtet",
+        "tags":["article","glazingbead"],
+        "pimg":"../globalassets/media/items/wicona/png/3090197p.png?v=6e279717bec4155a217ec8660b2acf6e473cb4a7",
+        "img":"../globalassets/media/items/wicona/png/3090197.png?v=bad7948aead8e51fb3ca135103a651d55a453fe6",
+        "dwg":"../globalassets/media/items/wicona/dwg/w3090197-idr.dwg?v=4d29304e535c6e13f4cfdd42369365936610f2d3"
+      },
+      {
+        "desc1":"3090198",
+        "desc2":"Glasleiste 24/22 mm",
+        "desc3":"Beschichtet",
+        "tags":["article","glazingbead"],
+        "pimg":"../globalassets/media/items/wicona/png/3090198p.png?v=49badbadd3df6e9e3e77c6e8592d0198a34a9ccf",
+        "img":"../globalassets/media/items/wicona/png/3090198.png?v=5da7b1ab23fe82bdc61814fbf690c889172e4cfd",
+        "dwg":"../globalassets/media/items/wicona/dwg/w3090198-idr.dwg?v=c528998d1ffd1cf1e65ca57b4b7133cde66fd429"
+      },
+      {
+        "desc1":"3090199",
+        "desc2":"Glasleiste 26/22 mm",
+        "desc3":"Beschichtet",
+        "tags":["article","glazingbead"],
+        "pimg":"../globalassets/media/items/wicona/png/3090199p.png?v=774d7e3538ff2fb9024915b80e299193617c19b7",
+        "img":"../globalassets/media/items/wicona/png/3090199.png?v=3a37850ce8a4dd8e5672c72d7fc8db7cbb30c6a1",
+        "dwg":"../globalassets/media/items/wicona/dwg/w3090199-idr.dwg?v=b337ee5bc21e796f0eaa9a9e180b87a5ec2354c5"
+      },
+      {
+        "desc1":"3090200",
+        "desc2":"Glasleiste 30/22 mm",
+        "desc3":"Beschichtet",
+        "tags":["article","glazingbead"],
+        "pimg":"../globalassets/media/items/wicona/png/3090200p.png?v=af6bd8a3f5efeec39f9bc25c22909b9041f608fa",
+        "img":"../globalassets/media/items/wicona/png/3090200.png?v=a9388ea75721c2595c1d33d71b72a011e664e780",
+        "dwg":"../globalassets/media/items/wicona/dwg/w3090200-idr.dwg?v=a6bd191c1ef30763fb3667c959b26093ca61cf37"
+      },
+      {
+        "desc1":"3090201",
+        "desc2":"Glasleiste 34/22 mm",
+        "desc3":"Beschichtet",
+        "tags":["article","glazingbead"],
+        "pimg":"../globalassets/media/items/wicona/png/3090201p.png?v=3a2ff2d0f41445a0680c6cb99ded87ffbb7c3de5",
+        "img":"../globalassets/media/items/wicona/png/3090201.png?v=d24ad2b7d6015361cea9d25cd994c8a96a45c094",
+        "dwg":"../globalassets/media/items/wicona/dwg/w3090201-idr.dwg?v=bbf97f96bee553114c2dfffd75baca2c00b17d62"
+      },
+      {
+        "desc1":"3090202",
+        "desc2":"Glasleiste 38/22 mm",
+        "desc3":"Beschichtet",
+        "tags":["article","glazingbead"],
+        "pimg":"../globalassets/media/items/wicona/png/3090202p.png?v=c20a82e1aa7c0e32395d5054ea896d3fe9c6e645",
+        "img":"../globalassets/media/items/wicona/png/3090202.png?v=acb1c03b0e874aab3bc663ed15bebf1d1b6841a0",
+        "dwg":"../globalassets/media/items/wicona/dwg/w3090202-idr.dwg?v=a2c70dd334cf3df2de32565f0b1d6c9208bf967d"
+      },
+      {
+        "desc1":"3090203",
+        "desc2":"Glasleiste 41/22 mm",
+        "desc3":"Beschichtet",
+        "tags":["article","glazingbead"],
+        "pimg":"../globalassets/media/items/wicona/png/3090203p.png?v=91e56efbd173d3a1d85ea1df14ba9eb1f69e8e3d",
+        "img":"../globalassets/media/items/wicona/png/3090203.png?v=cf4e09803224575a849d55615273c792a1fd3300",
+        "dwg":"../globalassets/media/items/wicona/dwg/w3090203-idr.dwg?v=5bb7dd1b36c0d363b08568c62ca7cf3136c1c69a"
+      },
+      {
+        "desc1":"3090204",
+        "desc2":"Glasleiste 45/22 mm",
+        "desc3":"Beschichtet",
+        "tags":["article","glazingbead"],
+        "pimg":"../globalassets/media/items/wicona/png/3090204p.png?v=763e1e3aa0acf87ff0c1c38f7e59658531af85d6",
+        "img":"../globalassets/media/items/wicona/png/3090204.png?v=bed16d2d770590601fbd4219904da4fcb45928d4",
+        "dwg":"../globalassets/media/items/wicona/dwg/w3090204-idr.dwg?v=924f608bb40249867841f9316d5a07a0d49d88e3"
+      },
+      {
+        "desc1":"3391253",
+        "desc2":"Glasleiste 9/22 mm",
+        "desc3":"Eloxiert",
+        "tags":["article","glazingbead"],
+        "pimg":"../globalassets/media/items/wicona/png/3391253p.png?v=a86603b8041e02867eb3cb65dc52671625b6bc85",
+        "img":"../globalassets/media/items/wicona/png/3391253.png?v=19064ad11cb4c9359ac1c5eb455e1de1ce21026e",
+        "dwg":"../globalassets/media/items/wicona/dwg/w3391253-idr.dwg?v=5f41280888139ac677123a4f1a6ee7fb40a07231"
+      },
+      {
+        "desc1":"3090240",
+        "desc2":"Glasleiste 12/22 mm",
+        "desc3":"Eloxiert",
+        "tags":["article","glazingbead"],
+        "pimg":"../globalassets/media/items/wicona/png/3090240p.png?v=1c98df9bbb1e68192051a412f984ac53ca89d23c",
+        "img":"../globalassets/media/items/wicona/png/3090240.png?v=4acb372dc4848dc79422a9b332581777b99c70be",
+        "dwg":"../globalassets/media/items/wicona/dwg/w3090240-idr.dwg?v=15a9f4f820f88c9900597c99c833314a939455fc"
+      },
+      {
+        "desc1":"3090082",
+        "desc2":"Glasleiste 16/22 mm",
+        "desc3":"Eloxiert",
+        "tags":["article","glazingbead"],
+        "pimg":"../globalassets/media/items/wicona/png/3090082p.png?v=3ef0952c688d73f5903572084c10ee9dc744cf1b",
+        "img":"../globalassets/media/items/wicona/png/3090082.png?v=36db484ab95a2236fbd5d7354eaf561bea10b850",
+        "dwg":"https://www.wictip.com/globalassets/media/items/wicona/dwg/W3090082-IDR.dwg?trackId=3090082_item_DWG"
+      },
+      {
+        "desc1":"3090081",
+        "desc2":"Glasleiste 20/22 mm",
+        "desc3":"Eloxiert",
+        "tags":["article","glazingbead"],
+        "pimg":"../globalassets/media/items/wicona/png/3090081p.png?v=b492aa5114ee672e1e8b878fe25feab69beb670a",
+        "img":"../globalassets/media/items/wicona/png/3090081.png?v=b5c6e810cb045f3b8e76bcb4d3d66029533c4c08",
+        "dwg":"https://www.wictip.com/globalassets/media/items/wicona/dwg/W3090081-IDR.dwg?trackId=3090081_item_DWG"
+      },
+      {
+        "desc1":"3090080",
+        "desc2":"Glasleiste 24/22 mm",
+        "desc3":"Eloxiert",
+        "tags":["article","glazingbead"],
+        "pimg":"../globalassets/media/items/wicona/png/3090080p.png?v=f06956f8e6443f2860e8676aa553950f8971a72b",
+        "img":"../globalassets/media/items/wicona/png/3090080.png?v=ca61a868f582072faa48be521065bf6eeee2335e",
+        "dwg":"https://www.wictip.com/globalassets/media/items/wicona/dwg/W3090080-IDR.dwg?trackId=3090080_item_DWG"
+      },
+      {
+        "desc1":"3090079",
+        "desc2":"Glasleiste 26/22 mm",
+        "desc3":"Eloxiert",
+        "tags":["article","glazingbead"],
+        "pimg":"../globalassets/media/items/wicona/png/3090079p.png?v=3e05d4848ebd5fcdd6cee0c54bb4c8998f401f94",
+        "img":"../globalassets/media/items/wicona/png/3090079.png?v=640d3cf616c023afc5529d68973f4ee7ce595646",
+        "dwg":"https://www.wictip.com/globalassets/media/items/wicona/dwg/W3090079-IDR.dwg?trackId=3090079_item_DWG"
+      },
+      {
+        "desc1":"3090078",
+        "desc2":"Glasleiste 30/22 mm",
+        "desc3":"Eloxiert",
+        "tags":["article","glazingbead"],
+        "pimg":"../globalassets/media/items/wicona/png/3090078p.png?v=887284dd97ac7993f0f317db7147c6551632a24a",
+        "img":"../globalassets/media/items/wicona/png/3090078.png?v=653c718499beeb1e928730a80be72eebff066e36",
+        "dwg":"https://www.wictip.com/globalassets/media/items/wicona/dwg/W3090078-IDR.dwg?trackId=3090078_item_DWG"
+      },
+      {
+        "desc1":"3090077",
+        "desc2":"Glasleiste 34/22 mm",
+        "desc3":"Eloxiert",
+        "tags":["article","glazingbead"],
+        "pimg":"../globalassets/media/items/wicona/png/3090077p.png?v=c041d2ec60aba26ac0998049405c6fbf9324ecb8",
+        "img":"../globalassets/media/items/wicona/png/3090077.png?v=51a25dbdb4e3d77f7817d4499d0af13f24723fb4",
+        "dwg":"https://www.wictip.com/globalassets/media/items/wicona/dwg/W3090077-IDR.dwg?trackId=3090077_item_DWG"
+      },
+      {
+        "desc1":"3090076",
+        "desc2":"Glasleiste 38/22 mm",
+        "desc3":"Eloxiert",
+        "tags":["article","glazingbead"],
+        "pimg":"../globalassets/media/items/wicona/png/3090076p.png?v=0e02da24f5b3efd8cb197f6fa784a5fd146a44ee",
+        "img":"../globalassets/media/items/wicona/png/3090076.png?v=55583a9d076f31d8af041955be18d3bd3a340923",
+        "dwg":"https://www.wictip.com/globalassets/media/items/wicona/dwg/W3090076-IDR.dwg?trackId=3090076_item_DWG"
+      },
+      {
+        "desc1":"3090075",
+        "desc2":"Glasleiste 41/22 mm",
+        "desc3":"Eloxiert",
+        "tags":["article","glazingbead"],
+        "pimg":"../globalassets/media/items/wicona/png/3090075p.png?v=0888597b2ceca834b22b2f8bd5443833d01b6118",
+        "img":"../globalassets/media/items/wicona/png/3090075.png?v=c7ce6c62a6cef92165238b5a9192d62950a4abed",
+        "dwg":"https://www.wictip.com/globalassets/media/items/wicona/dwg/W3090075-IDR.dwg?trackId=3090075_item_DWG"
+      },
+      {
+        "desc1":"3090074",
+        "desc2":"Glasleiste 45/22 mm",
+        "desc3":"Eloxiert",
+        "tags":["article","glazingbead"],
+        "pimg":"../globalassets/media/items/wicona/png/3090074p.png?v=323d350a2102ebf6a3bf7b3a84fdc4bc5722f997",
+        "img":"../globalassets/media/items/wicona/png/3090074.png?v=19c6ddca2cde32974a4c7f1633bdec091dd870ac",
+        "dwg":"../globalassets/media/items/wicona/dwg/w3090074-idr.dwg?v=3b8509afad9350645b6cb1f01727ce74c7fd9c41"
+      }
+    ]
+  },
+  "filter":{
+    "type":"OR",
+    "data":[
+      {"label":"Alle","filteroption":[""]},
+      {"label":"Standardprofile","filteroption":["profile"]},
+      {"label":"Schwellenprofile","filteroption":["threshold"]},
+      {"label":"Aufsatzprofil","filteroption":["extensionprofile"]},
+      {"label":"Zusatzprofile","filteroption":["addprofile"]},
+      {"label":"Glasleisten","filteroption":["glazingbead"]}
+    ]
+  },
+  "style":{"background":false}
+}

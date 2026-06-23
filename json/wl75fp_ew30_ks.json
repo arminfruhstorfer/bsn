@@ -1,0 +1,107 @@
+﻿{
+  "subnavigation":[
+    {
+      "label":"Planung",
+      "icon":"fa fa-desktop",
+      "links":[
+        {"text":"Ausschreibungstexte","link":"wl75fp_ew30_at"},
+        {"text":"Füllungen & Größen","link":"wl75fp_ew30_fg"},
+        {"text":"Systemdatenblatt","link":"wl75fp_ew30_sd"}
+      ]
+    },
+    {
+      "label":"CAD-Unterstützung",
+      "icon":"fa fa-usb",
+      "links":[
+        {"text":"Konstruktionsschnitte","link":"wl75fp_ew30_ks", "active":true},
+        {"text":"Profilkonturen (.dwg)","link":"wl75fp_ew30_pk"},
+        {"text":"Vorschläge Bauanschlüsse","link":"wl75fp_ew30_ba"}
+      ]
+    },
+    {
+      "label":"Dokumentation",
+      "icon":"fa fa-book",
+      "links":[
+        {"text":"Montageanleitung","link":"wl75fp_ew30_ma"},
+        {"text":"Programm & Verarbeitung","link":"wl75fp_ew30_pv"}
+      ]
+    }
+  ],
+  "content":{
+    "list":[
+      {
+        "desc1":"DOC-0000869403",
+        "desc2":"Festverglasung mit Rahmenprofil - Typ\u00a0B",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/doc-0000869403p.png?v=e57bd5ee24a9fdf4ebdcc72e36ada0a436f4b2f9",
+        "img":"../globalassets/media/sections/wicona/png/doc-0000869403.png?v=10d1aee16535d30d7344649d863e4b361ddf5f18",
+        "dwg":"../globalassets/media/sections/wicona/dwg/wdoc-0000869403.dwg?v=123efa7eb36bcfe12a0d724f0673378d58d76238",
+        "tags":["199174","1311073","3090079","4010016","4070448","4080260","4080436","4090112","4090115","4910022"]
+      },
+      {
+        "desc1":"DOC-0000869549",
+        "desc2":"Festverglasung mit Kämpferprofil - Typ\u00a0B",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/doc-0000869549p.png?v=3a033650840bdc0013bee52717795c67426b3289",
+        "img":"../globalassets/media/sections/wicona/png/doc-0000869549.png?v=80accaa1f27e513845c3c37d4a7c885a96685352",
+        "dwg":"../globalassets/media/sections/wicona/dwg/wdoc-0000869549.dwg?v=9629a59df2b4cb0084d2c12fd10033f4da2902ba",
+        "tags":["199174","1910175","3090079","3090081","4010016","4010017","4080258","4080260","4080436","4090112","4090115","4910022"]
+      },
+      {
+        "desc1":"DOC-0000870859",
+        "desc2":"Bauanschluss seitlich - Typ\u00a0B",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/doc-0000870859p.png?v=eb3354965f6730157b1e193b9dc27eca9eedce96",
+        "img":"../globalassets/media/sections/wicona/png/doc-0000870859.png?v=976e554cc6b8412515d9a0855d4fdf8e09b3300f",
+        "dwg":"../globalassets/media/sections/wicona/dwg/wdoc-0000870859.dwg?v=bf2760238453d6287a502658b312b13de5922758",
+        "tags":["199174","1311076","3090079","4010016","4080006","4080260","4080436","4090112","4090115","4910022"]
+      },
+      {
+        "desc1":"DOC-0000870931",
+        "desc2":"Bauanschluss unten - Typ\u00a0B",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/doc-0000870931p.png?v=a3814ae7e1cfdd6b9df28935153e7468e77e1690",
+        "img":"../globalassets/media/sections/wicona/png/doc-0000870931.png?v=e050ade4884cb2ccdd3dc9665e4544d7201a63d2",
+        "dwg":"../globalassets/media/sections/wicona/dwg/wdoc-0000870931.dwg?v=6993021b4e38688945c6d944dd8fc35478e09f1c",
+        "tags":["126762","199174","1910149","3090079","4010016","4080260","4080436","4090113","4090116","4910022"]
+      },
+      {
+        "desc1":"DOC-0000871086",
+        "desc2":"Bauanschluss seitlich - Typ\u00a0B",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/doc-0000871086p.png?v=d8e7932d93813839a5ff81128705eed4603c4d46",
+        "img":"../globalassets/media/sections/wicona/png/doc-0000871086.png?v=e48e3a5f6401db0afbe07b934dd4806791990bc6",
+        "dwg":"../globalassets/media/sections/wicona/dwg/wdoc-0000871086.dwg?v=4da945d642fe9e9f97fcaee6361ca0f21b7d3a62",
+        "tags":["199174","1311073","3090079","4010016","4080260","4080436","4090112","4090115","4910022"]
+      },
+      {
+        "desc1":"DOC-0000871141",
+        "desc2":"Bauanschluss seitlich - Typ\u00a0B",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/doc-0000871141p.png?v=4d385474959af8714800548a75f6ccd654b4a006",
+        "img":"../globalassets/media/sections/wicona/png/doc-0000871141.png?v=28592e25e1669bbb9148f32d2c6f4763296e89b4",
+        "dwg":"../globalassets/media/sections/wicona/dwg/wdoc-0000871141.dwg?v=b943689271c0232e14ce957446c6f4dba4e2fc50",
+        "tags":["199174","1311073","3090079","4010016","4080260","4080436","4090112","4090115","4910022"]
+      },
+      {
+        "desc1":"DOC-0000871222",
+        "desc2":"Bauanschluss seitlich - Typ\u00a0B",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/doc-0000871222p.png?v=bec561b229faafbfc946324bc4747c493c35b50d",
+        "img":"../globalassets/media/sections/wicona/png/doc-0000871222.png?v=41d610f965f53aae183520e692c1bcb6da5bf02a",
+        "dwg":"../globalassets/media/sections/wicona/dwg/wdoc-0000871222.dwg?v=990e5d06e7621cfc25e43f6eadcc6a26f3874568",
+        "tags":["199174","1910148","3090079","4010016","4080260","4080436","4090113","4090116","4910022"]
+      },
+      {
+        "desc1":"DOC-0001034704",
+        "desc2":"Bauanschluss unten - Typ\u00a0B",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/doc-0001034704p.png?v=6d42ffa782816d4967e40d4182ea3e85cffd7c3f",
+        "img":"../globalassets/media/sections/wicona/png/doc-0001034704.png?v=c5b9f4eeeff92fd5e2e80617947fb8d7c1abfc39",
+        "dwg":"../globalassets/media/sections/wicona/dwg/wdoc-0001034704.dwg?v=cd8347df0e9d87bb0e32b959f45860a9894c94b5",
+        "tags":["1010557","1910148","3991216","4010047","4030035","4030187","4070448","4080202","4090113","4090115","4090116","4090121"]
+      }
+    ]
+  },
+  "style":{"background":false}
+}

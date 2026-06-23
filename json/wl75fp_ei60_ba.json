@@ -1,0 +1,53 @@
+﻿{
+  "subnavigation":[
+    {
+      "label":"Planung",
+      "icon":"fa fa-desktop",
+      "links":[
+        {"text":"Ausschreibungstexte","link":"wl75fp_ei60_at"},
+        {"text":"Füllungen & Größen","link":"wl75fp_ei60_fg"},
+        {"text":"Systemdatenblatt","link":"wl75fp_ei60_sd"}
+      ]
+    },
+    {
+      "label":"CAD-Unterstützung",
+      "icon":"fa fa-usb",
+      "links":[
+        {"text":"Konstruktionsschnitte","link":"wl75fp_ei60_ks"},
+        {"text":"Profilkonturen (.dwg)","link":"wl75fp_ei60_pk"},
+        {"text":"Vorschläge Bauanschlüsse","link":"wl75fp_ei60_ba", "active":true}
+      ]
+    },
+    {
+      "label":"Dokumentation",
+      "icon":"fa fa-book",
+      "links":[
+        {"text":"Montageanleitung","link":"wl75fp_ei60_ma"},
+        {"text":"Programm & Verarbeitung","link":"wl75fp_ei60_pv"}
+      ]
+    }
+  ],
+  "content":{
+    "list":[
+      {
+        "desc1":"DOC-FPA0000059",
+        "desc2":"Bauanschluss unten",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000059p.png?v=c1298b17a0e47faa71af0f42a8fcaf97ce3dcd31",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000059.png?v=9a82dcbeda234e9ff58fbf5263f41730eddd6974",
+        "dwg":"../globalassets/media/sections/wicona/dwg/wl75fp_ei60_ks.dwg?v=51c842d3b9da6a86e62a171941c8e50fc18c1ca2",
+        "tags":["1010557","1311073","3090242","3991216","4070448","4010017","4010047","4030035","4080131","4080436","4090013","4090115","4090121","4090122","4090137","4910022"]
+      },
+      {
+        "desc1":"DOC-FPA0000060",
+        "desc2":"Bauanschluss seitlich",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000060p.png?v=fc75f7698b7bbefca447b112af31e3d796590062",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000060.png?v=7f31cd9ce09327b19875908bffa89603dc110ba9",
+        "dwg":"../globalassets/media/sections/wicona/dwg/wl75fp_ei60_ks.dwg?v=51c842d3b9da6a86e62a171941c8e50fc18c1ca2",
+        "tags":["1311073","3090242","4070448","4010017","4080131","4080436","4090013","4090115","4090137","4910022"]
+      }
+    ]
+  },
+  "style":{"background":false}
+}

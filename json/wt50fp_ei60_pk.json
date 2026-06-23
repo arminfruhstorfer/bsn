@@ -1,0 +1,547 @@
+﻿{
+  "subnavigation":[
+    {
+      "label":"Planung",
+      "icon":"fa fa-desktop",
+      "links":[
+        {"text":"Ausschreibungstexte","link":"wt50fp_ei60_at"},
+        {"text":"Füllungen & Größen","link":"wt50fp_ei60_fg"},
+        {"text":"Systemdatenblatt","link":"wt50fp_ei60_sd"}
+      ]
+    },
+    {
+      "label":"CAD-Unterstützung",
+      "icon":"fa fa-usb",
+      "links":[
+        {"text":"Konstruktionsschnitte","link":"wt50fp_ei60_ks"},
+        {"text":"Profilkonturen (.dwg)","link":"wt50fp_ei60_pk", "active":true}
+      ]
+    },
+    {
+      "label":"Dokumentation",
+      "icon":"fa fa-book",
+      "links":[
+        {"text":"Programm & Verarbeitung","link":"wt50fp_ei60_pv"}
+      ]
+    }
+  ],
+  "content":{
+    "list":[
+
+      {
+        "desc1":"135309",
+        "desc2":"Verstärkungsprofil 44,4/167,5 mm",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/wicona/png/135309p.png?v=d13de2e40814418cfdc1133080a947b1ed1be7e4",
+        "img":"../globalassets/media/items/wicona/png/135309.png?v=a9cb7564f629cea3b405af38208e4279a808b51f",
+        "dwg":"../globalassets/media/items/wicona/dwg/wi135309.dwg?v=e3548111e27429c36b677d44c1987af8bfe09051"
+      },
+      {
+        "desc1":"181495",
+        "desc2":"Federprofil, Silikon schwarz",
+        "tags":["article","accessories"],
+        "pimg":"../globalassets/media/items/wicona/png/181495p.png?v=fd98422ef1bd21bad09878dee79477a82e857e15",
+        "img":"../globalassets/media/items/wicona/png/181495.png?v=491a18014321c012f540b104d799c962c1e85574",
+        "dwg":"../globalassets/media/items/wicona/dwg/wi181495.dwg?v=5b8a1343bf2da91dd9bcf0656c86458e0a1f4452"
+      },
+      {
+        "desc1":"188414",
+        "desc2":"Dichtband, Butylkautschuk, 10 x 1 mm (id. 4020118)",
+        "tags":["article","accessories"],
+        "pimg":"../globalassets/media/items/wicona/png/188414p.png?v=905bae2a66bbcb880728e145a2cfcf26828a3354",
+        "img":"../globalassets/media/items/wicona/png/188414.png?v=b9383067b30245af1057e8a9465a189b88a4c2b6",
+        "dwg":"../globalassets/media/items/wicona/dwg/wi188414.dwg?v=0ec2a683a22e354297de790720ab3dbd8c72cd9a"
+      },
+      {
+        "desc1":"4010006",
+        "desc2":"Verglasungsd., zu Rahmen 4020008, EPDM schwarz",
+        "tags":["article","accessories"],
+        "pimg":"../globalassets/media/items/wicona/png/4010006p.png?v=48c4d01a978d2a5978fc68334a94fc794c8e1f9b",
+        "img":"../globalassets/media/items/wicona/png/4010006.png?v=02ffaae3aa65a5ee15219dce9a198be5fb4e3a07",
+        "dwg":"../globalassets/media/items/wicona/dwg/wi4010006.dwg?v=61025c96d0ab3b39c06170458741039bb40c31d1"
+      },
+      {
+        "desc1":"4010007",
+        "desc2":"Verglasungsd., zu Rahmen 4020009, EPDM schwarz",
+        "tags":["article","accessories"],
+        "pimg":"../globalassets/media/items/wicona/png/4010007p.png?v=d454bef2c49dba424569907fa3f25cf2eca65025",
+        "img":"../globalassets/media/items/wicona/png/4010007.png?v=1d20ac7ec9a729caf43d58abb59894028bceee05",
+        "dwg":"../globalassets/media/items/wicona/dwg/wi4010007.dwg?v=6bb554ad5a33386c0ea51cca974b39302eed344b"
+      },
+      {
+        "desc1":"4010008",
+        "desc2":"Verglasungsd., zu Rahmen 4020010, EPDM schwarz",
+        "tags":["article","accessories"],
+        "pimg":"../globalassets/media/items/wicona/png/4010008p.png?v=c4bb4b914c55904c9bc187a37223336ee9079be4",
+        "img":"../globalassets/media/items/wicona/png/4010008.png?v=b68a74aea7611bb36251adb81368b80bd1b621d1",
+        "dwg":"../globalassets/media/items/wicona/dwg/wi4010008.dwg?v=7238f471e41940d44f753946710b705c58a7b677"
+      },
+      {
+        "desc1":"4010009",
+        "desc2":"Verglasungsd., zu Rahmen 4020011, EPDM schwarz",
+        "tags":["article","accessories"],
+        "pimg":"../globalassets/media/items/wicona/png/4010009p.png?v=c76db58b85968e561a7ca6b19b97e05be2fb6bf0",
+        "img":"../globalassets/media/items/wicona/png/4010009.png?v=a7581004f5517d9b24bd8165f6e8c09c47973390",
+        "dwg":"../globalassets/media/items/wicona/dwg/wi4010009.dwg?v=c473a08078614c76612d86716c61dc84b13fd19a"
+      },
+      {
+        "desc1":"4010083",
+        "desc2":"Verglasungsdichtung innen, EPDM schw., Spalt 14 mm",
+        "tags":["article","accessories"],
+        "pimg":"../globalassets/media/items/wicona/png/4010083p.png?v=f46d189cfa5fd5ad723173a59129852c0980247e",
+        "img":"../globalassets/media/items/wicona/png/4010083.png?v=03821de759fbd780410048dcf9f9021db47323ac",
+        "dwg":"../globalassets/media/items/wicona/dwg/wi4010083.dwg?v=4a7fa238005a80a42d72291b81a96243f83ccdfe"
+      },
+      {
+        "desc1":"4010084",
+        "desc2":"Verglasungsdichtung innen, EPDM schw., Spalt 16 mm",
+        "tags":["article","accessories"],
+        "pimg":"../globalassets/media/items/wicona/png/4010084p.png?v=332abbab46a5cca0bdc5e2ffafb2b0785d62bdda",
+        "img":"../globalassets/media/items/wicona/png/4010084.png?v=7f0224d522e46a7b32fad2ddd85e04e8010efe3e",
+        "dwg":"../globalassets/media/items/wicona/dwg/wi4010084.dwg?v=e95634b1980ce0ddd45b704871100627c994e688"
+      },
+      {
+        "desc1":"4010085",
+        "desc2":"Verglasungsdichtung innen, EPDM schw., Spalt 18 mm",
+        "tags":["article","accessories"],
+        "pimg":"../globalassets/media/items/wicona/png/4010085p.png?v=9f955b37a134514277de0acbee21d40555f2a17a",
+        "img":"../globalassets/media/items/wicona/png/4010085.png?v=b471d94146123164f29b7b841dca7ede26b24420",
+        "dwg":"../globalassets/media/items/wicona/dwg/wi4010085.dwg?v=d78b1ff7b619a4cdd6dca4215335fcbf5d2b0828"
+      },
+      {
+        "desc1":"190107",
+        "desc2":"Dichtbahn, EPDM schwarz, 200 mm breit",
+        "tags":["article","accessories"],
+        "pimg":"../globalassets/media/items/wicona/png/190107p.png?v=a15906c8236b2c5a8dc68ff493c17fcc96af5c18",
+        "img":"../globalassets/media/items/wicona/png/190107.png?v=4b8c6331a49e03e40426c872ab6d1d2c473bbd0c",
+        "dwg":"../globalassets/media/items/wicona/dwg/wi190107.dwg?v=937330885376502f4fa4273fa2132a4970da1c13"
+      },
+      {
+        "desc1":"190108",
+        "desc2":"Dichtbahn, EPDM schwarz, 300 mm breit",
+        "tags":["article","accessories"],
+        "pimg":"../globalassets/media/items/wicona/png/190108p.png?v=d9210eaab8054587d9c774cf3c39d9ecd5315a56",
+        "img":"../globalassets/media/items/wicona/png/190108.png?v=73e74ad5e1a0243e5727abe526b7d74133cdabbe",
+        "dwg":"../globalassets/media/items/wicona/dwg/wi190108.dwg?v=b92aa15a51d354b6f11d823d08d3073a5bd20852"
+      },
+      {
+        "desc1":"190109",
+        "desc2":"Dichtbahn, EPDM schwarz, 150 mm breit",
+        "tags":["article","accessories"],
+        "pimg":"../globalassets/media/items/wicona/png/190109p.png?v=55e2731d32178f0a99e4ab2a86421898e40591de",
+        "img":"../globalassets/media/items/wicona/png/190109.png?v=47376b0c03dd6c63f3e34430baa07436c4ab713e",
+        "dwg":"../globalassets/media/items/wicona/dwg/wi190109.dwg?v=ea3773c68321bc80de951d00ec83e9cb43d33305"
+      },
+      {
+        "desc1":"190280",
+        "desc2":"Dichtung, EPDM schwarz, Spalt 10 mm",
+        "tags":["article","accessories"],
+        "pimg":"../globalassets/media/items/wicona/png/190280p.png?v=eaa7f9eb7f4f9747c55f8e19013ee51df6da37ff",
+        "img":"../globalassets/media/items/wicona/png/190280.png?v=29f652d8563e8a44cbe43d4c02e25d7e2de77aab",
+        "dwg":"../globalassets/media/items/wicona/dwg/wi190280.dwg?v=b9954f933a25fafabd6ed42ca7a1736556d81f2f"
+      },
+      {
+        "desc1":"190281",
+        "desc2":"Dichtung, EPDM schwarz, Spalt 12 mm",
+        "tags":["article","accessories"],
+        "pimg":"../globalassets/media/items/wicona/png/190281p.png?v=9740106129d3937f999b3a01e9dfe8080520842b",
+        "img":"../globalassets/media/items/wicona/png/190281.png?v=0cd527f2a1f516873ee3ed482fc85b05310407cd",
+        "dwg":"../globalassets/media/items/wicona/dwg/wi190281.dwg?v=63f1e0aedc8109da43d9355511ca5f26987a5b62"
+      },
+      {
+        "desc1":"190282",
+        "desc2":"Dichtung, EPDM schwarz, Spalt 14 mm",
+        "tags":["article","accessories"],
+        "pimg":"../globalassets/media/items/wicona/png/190282p.png?v=6070a8468f0ec1298fa59479c0dfd64ca395e4ca",
+        "img":"../globalassets/media/items/wicona/png/190282.png?v=6ae2dd49fcb487578cbf2297cbf1970af64c7e99",
+        "dwg":"../globalassets/media/items/wicona/dwg/wi190282.dwg?v=65a5bd148c41667496f303b769b43882c929cfe2"
+      },
+      {
+        "desc1":"190283",
+        "desc2":"Dichtung, EPDM schw. mit Querlippe, Spalt 10 mm",
+        "tags":["article","accessories"],
+        "pimg":"../globalassets/media/items/wicona/png/190283p.png?v=938565c1462b776c29354b94ac34b7388d4c3d72",
+        "img":"../globalassets/media/items/wicona/png/190283.png?v=ea8174062f492af3baa594d03d707fafca2fd5de",
+        "dwg":"../globalassets/media/items/wicona/dwg/wi190283.dwg?v=388a64ce500084c8de48c028c923244ab14ebed6"
+      },
+      {
+        "desc1":"190284",
+        "desc2":"Dichtung, EPDM schw. mit Querlippe, Spalt 12 mm",
+        "tags":["article","accessories"],
+        "pimg":"../globalassets/media/items/wicona/png/190284p.png?v=07497df2f1d901ee23cbfc900a68e7a0cba41e34",
+        "img":"../globalassets/media/items/wicona/png/190284.png?v=a94cc3fcb80ac15e84701484c7988f058fcfe969",
+        "dwg":"../globalassets/media/items/wicona/dwg/wi190284.dwg?v=d37d0a87eb00941b0a53fe2b3a3ee714b2e9334a"
+      },
+      {
+        "desc1":"190285",
+        "desc2":"Dichtung, EPDM schw. mit Querlippe, Spalt 14 mm",
+        "tags":["article","accessories"],
+        "pimg":"../globalassets/media/items/wicona/png/190285p.png?v=ad2d2970977979c44b3b1b49878c10bb5a95ec54",
+        "img":"../globalassets/media/items/wicona/png/190285.png?v=f32f2a730846ff2581a59aa75271b2032c013da0",
+        "dwg":"../globalassets/media/items/wicona/dwg/wi190285.dwg?v=c679894fe0d7282e09e883e6aaaeac0dbd56bd3b"
+      },
+      {
+        "desc1":"190286",
+        "desc2":"Dichtung, EPDM schwarz, Spalt 4 mm",
+        "tags":["article","accessories"],
+        "pimg":"../globalassets/media/items/wicona/png/190286p.png?v=c484952e8779225e08c4dd0e52099b4c6781d10e",
+        "img":"../globalassets/media/items/wicona/png/190286.png?v=8172d72acfbb5287cb0bce6247c042447d2a1a88",
+        "dwg":"../globalassets/media/items/wicona/dwg/wi190286.dwg?v=f942b138d842f536be8a59d5783c60ba3d110903"
+      },
+      {
+        "desc1":"190287",
+        "desc2":"Dichtung, EPDM schwarz, Spalt 6 mm",
+        "tags":["article","accessories"],
+        "pimg":"../globalassets/media/items/wicona/png/190287p.png?v=e22aa50d287b50cdd5b8f9808f01562d906e812a",
+        "img":"../globalassets/media/items/wicona/png/190287.png?v=a47d7c098284d7217d8cc94166baec0f810dfd47",
+        "dwg":"../globalassets/media/items/wicona/dwg/wi190287.dwg?v=2afbb31c5ca9ba77d7f56fe8f180a905353b9fea"
+      },
+      {
+        "desc1":"190288",
+        "desc2":"Dichtung, EPDM schwarz, Spalt 8 mm",
+        "tags":["article","accessories"],
+        "pimg":"../globalassets/media/items/wicona/png/190288p.png?v=32a5cfc999b2b46c821743872ab87dafe3ba9a82",
+        "img":"../globalassets/media/items/wicona/png/190288.png?v=286f1010cade978b0db12121477b7efc9003b66a",
+        "dwg":"../globalassets/media/items/wicona/dwg/wi190288.dwg?v=0014087150b556838ed559001645a22631ce008b"
+      },
+      {
+        "desc1":"190289",
+        "desc2":"Dichtung, EPDM schw. mit Querlippe, Spalt 4 mm",
+        "tags":["article","accessories"],
+        "pimg":"../globalassets/media/items/wicona/png/190289p.png?v=c55a6c7afc9becec525c31f9bcbda28995d9f78b",
+        "img":"../globalassets/media/items/wicona/png/190289.png?v=7a6fd6f6883f7abd6f4c8ac536e7a7105ed4eb41",
+        "dwg":"../globalassets/media/items/wicona/dwg/wi190289.dwg?v=71a540bf39a7d83730ae3c078f21a4f2fc05fe60"
+      },
+      {
+        "desc1":"190290",
+        "desc2":"Dichtung, EPDM schw. mit Querlippe, Spalt 6 mm",
+        "tags":["article","accessories"],
+        "pimg":"../globalassets/media/items/wicona/png/190290p.png?v=ad7de28b58d41eca95689976842528468867d955",
+        "img":"../globalassets/media/items/wicona/png/190290.png?v=455b5115b98e854297ba725c356a5d61d05b1088",
+        "dwg":"../globalassets/media/items/wicona/dwg/wi190290.dwg?v=9e1d579af789831e29400cb510b6e2a8bccf2f29"
+      },
+      {
+        "desc1":"190291",
+        "desc2":"Dichtung, EPDM schw. mit Querlippe, Spalt 8 mm",
+        "tags":["article","accessories"],
+        "pimg":"../globalassets/media/items/wicona/png/190291p.png?v=bf26d1b274550a1deca81dd48ca0e6338d568ff4",
+        "img":"../globalassets/media/items/wicona/png/190291.png?v=3441ef1c1512ac3f27b19d1c86dad82266905a05",
+        "dwg":"../globalassets/media/items/wicona/dwg/wi190291.dwg?v=bf5e3d68f1b484b0162c703703b37cc0867c73b7"
+      },
+      {
+        "desc1":"190292",
+        "desc2":"Verglasungsdichtung, EPDM schw., 10 mm",
+        "tags":["article","accessories"],
+        "pimg":"../globalassets/media/items/wicona/png/190292p.png?v=0878ba4e4c351df8b21ea1657ec0ad0a8e494c8d",
+        "img":"../globalassets/media/items/wicona/png/190292.png?v=9a43cb8669ce6cae479dfb5270b9281ed4f6dcfe",
+        "dwg":"../globalassets/media/items/wicona/dwg/wi190292.dwg?v=4a5f2cb6a6aad323e4247eafba5c9cdc2ef757b1"
+      },
+      {
+        "desc1":"190293",
+        "desc2":"Verglasungsdichtung, EPDM schw., 12 mm",
+        "tags":["article","accessories"],
+        "pimg":"../globalassets/media/items/wicona/png/190293p.png?v=a45f04cc97f360a373e7d3dae3c6eb99f0a88d5a",
+        "img":"../globalassets/media/items/wicona/png/190293.png?v=a2eddb1e7fd7d05362845363dab687cbe3a725bc",
+        "dwg":"../globalassets/media/items/wicona/dwg/wi190293.dwg?v=3f272b3888b32944d9e8e27057a0f5dc21938198"
+      },
+      {
+        "desc1":"190294",
+        "desc2":"Verglasungsdichtung, EPDM schw., 14 mm",
+        "tags":["article","accessories"],
+        "pimg":"../globalassets/media/items/wicona/png/190294p.png?v=4df7529479c0211dab9bd4f143954cb2846e5be9",
+        "img":"../globalassets/media/items/wicona/png/190294.png?v=36ad7628fec155ea1084649c1bc9f181d1e44a01",
+        "dwg":"../globalassets/media/items/wicona/dwg/wi190294.dwg?v=17241acdb07332f2cb9a5752780e5e6b86f4241c"
+      },
+      {
+        "desc1":"190299",
+        "desc2":"Verglasungsdichtung außen, EPDM schw., 4 mm",
+        "tags":["article","accessories"],
+        "pimg":"../globalassets/media/items/wicona/png/190299p.png?v=5d4a27d030e3d98c74fd80603415daeb6ffd5c98",
+        "img":"../globalassets/media/items/wicona/png/190299.png?v=668f7c4d7ba46f9bc82cd8606d7b3ec2617d55cf",
+        "dwg":"../globalassets/media/items/wicona/dwg/wi190299.dwg?v=bc3a8a4c9b94e0b54dcddae4ba5525456ea0f02b"
+      },
+      {
+        "desc1":"190301",
+        "desc2":"Dichtung, EPDM schwarz",
+        "tags":["article","accessories"],
+        "pimg":"../globalassets/media/items/wicona/png/190301p.png?v=42c79c31519cae529f91e048f88d6dd690e781a2",
+        "img":"../globalassets/media/items/wicona/png/190301.png?v=c7c406e8038b7f2c91a20e3cee7b12efddb0f50b",
+        "dwg":"../globalassets/media/items/wicona/dwg/wi190301.dwg?v=46552ecc5c0707b84d5d7acbcefada8bf4294cd5"
+      },
+      {
+        "desc1":"190303",
+        "desc2":"Verglasungsdichtung außen, EPDM schw., 8 mm",
+        "tags":["article","accessories"],
+        "pimg":"../globalassets/media/items/wicona/png/190303p.png?v=0d53ce86878572d43a70618cdc2ed5883a8936f6",
+        "img":"../globalassets/media/items/wicona/png/190303.png?v=03e3e932e32b23f80c50817e96c0d5d5bf8659ee",
+        "dwg":"../globalassets/media/items/wicona/dwg/wi190303.dwg?v=0bc701dc18fb7305acc4e6eaa16a19159a5db110"
+      },
+      {
+        "desc1":"190304",
+        "desc2":"Verglasungsdichtung außen, EPDM schw., 4 mm",
+        "tags":["article","accessories"],
+        "pimg":"../globalassets/media/items/wicona/png/190304p.png?v=cd179fdb2aac4b019a59ffb21634004005589fc5",
+        "img":"../globalassets/media/items/wicona/png/190304.png?v=67a3c577ceff0f154057a3e9b326176bb2b83501",
+        "dwg":"../globalassets/media/items/wicona/dwg/wi190304.dwg?v=530f17186b575dfbdfbd4a6b26c8ec2b351efb14"
+      },
+      {
+        "desc1":"190307",
+        "desc2":"Dichtung, EPDM schwarz",
+        "tags":["article","accessories"],
+        "pimg":"../globalassets/media/items/wicona/png/190307p.png?v=4dcd072276c673e35722e555343d4228c1f76b2c",
+        "img":"../globalassets/media/items/wicona/png/190307.png?v=4215a993a5f00ddeb4561d3f53fb239f5338ce8d",
+        "dwg":"../globalassets/media/items/wicona/dwg/wi190307.dwg?v=fcd5d5ee64fdc06e80d04c74ac5922738f71b0b8"
+      },
+      {
+        "desc1":"190308",
+        "desc2":"Dichtung, EPDM schwarz",
+        "tags":["article","accessories"],
+        "pimg":"../globalassets/media/items/wicona/png/190308p.png?v=a85042f48f7c9382e3a90d9f4c9d8f076f3ea3bc",
+        "img":"../globalassets/media/items/wicona/png/190308.png?v=a43a11e858e2dbb6dc65a91ef36b4c51f9594f63",
+        "dwg":"../globalassets/media/items/wicona/dwg/wi190308.dwg?v=4734beca8a6d9a9811fc670499966a37abf66d03"
+      },
+      {
+        "desc1":"190309",
+        "desc2":"Dichtung, EPDM schwarz",
+        "tags":["article","accessories"],
+        "pimg":"../globalassets/media/items/wicona/png/190309p.png?v=9de3c626f781eedd34e9e5ee7fa55deded34c7e7",
+        "img":"../globalassets/media/items/wicona/png/190309.png?v=18590c6d18117c9e8bd8a66fa83cc541aa6f5be8",
+        "dwg":"../globalassets/media/items/wicona/dwg/wi190309.dwg?v=0fa49c6547ab0ea7700cfacb9532b9d3f9ed71b3"
+      },
+      {
+        "desc1":"190311",
+        "desc2":"Verglasungsdichtung außen, EPDM schw., 4 mm",
+        "tags":["article","accessories"],
+        "pimg":"../globalassets/media/items/wicona/png/190311p.png?v=2e9cf64c866ebe7f1ea9e7c931aea83adcafe39e",
+        "img":"../globalassets/media/items/wicona/png/190311.png?v=a9e323307553401b018cd4408b5cc2e4f734c1d7",
+        "dwg":"../globalassets/media/items/wicona/dwg/wi190311.dwg?v=ebdf06776afcc946a3f121dc47eb693e5e813a82"
+      },
+      {
+        "desc1":"190312",
+        "desc2":"Verglasungsdichtung außen, EPDM schw., 4 mm",
+        "tags":["article","accessories"],
+        "pimg":"../globalassets/media/items/wicona/png/190312p.png?v=da6738de82261932a40f1d833dbaf909374bb903",
+        "img":"../globalassets/media/items/wicona/png/190312.png?v=55a07a645cd5862481c71be3e4c7390f78d798de",
+        "dwg":"../globalassets/media/items/wicona/dwg/wi190312.dwg?v=a0f1d2996383d84dcbae4c678d46966d52cd5083"
+      },
+      {
+        "desc1":"190753",
+        "desc2":"Verglasungsdichtung außen, EPDM schw., 6 mm",
+        "tags":["article","accessories"],
+        "pimg":"../globalassets/media/items/wicona/png/190753p.png?v=a656456d3ccbf770fc5956729c627210b723d532",
+        "img":"../globalassets/media/items/wicona/png/190753.png?v=e00a97d7e3d45c35937729925cab150e1bf007c4",
+        "dwg":"../globalassets/media/items/wicona/dwg/wi190753.dwg?v=2f4bc16b077dfb8c12a4f087fed1b015c6bbd7a0"
+      },
+      {
+        "desc1":"196058",
+        "desc2":"Dämmprofil, ABS, 12 mm",
+        "tags":["article","accessories"],
+        "pimg":"../globalassets/media/items/wicona/png/196058p.png?v=9efef2ab63ef497454c793c9c89c2fb11bcb95b6",
+        "img":"../globalassets/media/items/wicona/png/196058.png?v=464be111d47d729cfaa3bd69932808023e1d00df",
+        "dwg":"../globalassets/media/items/wicona/dwg/wi196058.dwg?v=f3f0a3257e80a8567589893c8afc735b264f1f10"
+      },
+      {
+        "desc1":"196059",
+        "desc2":"Dämmprofil, ABS, 18 mm",
+        "tags":["article","accessories"],
+        "pimg":"../globalassets/media/items/wicona/png/196059p.png?v=0bf92e38e545c0cdc091d04837a8f2cb1901d1df",
+        "img":"../globalassets/media/items/wicona/png/196059.png?v=c540856e31020daa6c8178ddb924ee1e03b5469a",
+        "dwg":"../globalassets/media/items/wicona/dwg/wi196059.dwg?v=fd76c18dcc16a9d5fb647b20f5758a74f5c0d5b7"
+      },
+      {
+        "desc1":"196060",
+        "desc2":"Dämmprofil, ABS, 24 mm",
+        "tags":["article","accessories"],
+        "pimg":"../globalassets/media/items/wicona/png/196060p.png?v=3912338b58971439070395eaa634dc6a3beb3dc7",
+        "img":"../globalassets/media/items/wicona/png/196060.png?v=57b9accbfb4a1a228fb5367b0f4a8e1cb4ec331d",
+        "dwg":"../globalassets/media/items/wicona/dwg/wi196060.dwg?v=d6e804295c1aaab3d95b62e7da6a5e675d2deff7"
+      },
+      {
+        "desc1":"196061",
+        "desc2":"Dämmprofil, ABS, 30 mm",
+        "tags":["article","accessories"],
+        "pimg":"../globalassets/media/items/wicona/png/196061p.png?v=58c7aabc3de85e343415e73eb9a78f72836b8be0",
+        "img":"../globalassets/media/items/wicona/png/196061.png?v=c4532bb467acc6a3ae487086eccd513b264ca4c7",
+        "dwg":"../globalassets/media/items/wicona/dwg/wi196061.dwg?v=72e37b4a58d9f4274a1f111b9276cefa2e8da039"
+      },
+      {
+        "desc1":"196062",
+        "desc2":"Dämmprofil, ABS, 36 mm",
+        "tags":["article","accessories"],
+        "pimg":"../globalassets/media/items/wicona/png/196062p.png?v=3718aa1577dd2a70b188b6d29c6970736601346f",
+        "img":"../globalassets/media/items/wicona/png/196062.png?v=988b05510aa60806043f8fde7064a9e6f21fa5bc",
+        "dwg":"../globalassets/media/items/wicona/dwg/wi196062.dwg?v=0a3d061e32bd298557e7ebff01cfabdb5df59e45"
+      },
+      {
+        "desc1":"196063",
+        "desc2":"Dämmprofil, ABS, 42 mm",
+        "tags":["article","accessories"],
+        "pimg":"../globalassets/media/items/wicona/png/196063p.png?v=536b8c7a9f2d4262764ff3ea4c1b594431a353d0",
+        "img":"../globalassets/media/items/wicona/png/196063.png?v=fd9f8d39050f9f879bd9b65df2007b30bad401ac",
+        "dwg":"../globalassets/media/items/wicona/dwg/wi196063.dwg?v=c3725f82fcf8243589dd59da857dca4c96a42d73"
+      },
+      {
+        "desc1":"196064",
+        "desc2":"Dämmprofil, ABS, 48 mm",
+        "tags":["article","accessories"],
+        "pimg":"../globalassets/media/items/wicona/png/196064p.png?v=6450465ccf21f23cf51039382c1567584f8da9e0",
+        "img":"../globalassets/media/items/wicona/png/196064.png?v=d03aafcad67a82459d8c7c8a254f605fff4f9b76",
+        "dwg":"../globalassets/media/items/wicona/dwg/wi196064.dwg?v=3708c91c5be84838f1a3b3a37b14320dc03201f9"
+      },
+      {
+        "desc1":"196065",
+        "desc2":"Ausgleich-Dämmprofil, ABS, 1 mm",
+        "tags":["article","accessories"],
+        "pimg":"../globalassets/media/items/wicona/png/196065p.png?v=9e7a640e15c789657dd737b343ec61de060cf6bf",
+        "img":"../globalassets/media/items/wicona/png/196065.png?v=1773d4bac87a172221bf854b011d332817edd971",
+        "dwg":"../globalassets/media/items/wicona/dwg/wi196065.dwg?v=005c7f023c7af8b7518a621c7a3f3d88bec03f16"
+      },
+      {
+        "desc1":"196066",
+        "desc2":"Ausgleich-Dämmprofil, ABS, 2 mm",
+        "tags":["article","accessories"],
+        "pimg":"../globalassets/media/items/wicona/png/196066p.png?v=e429d9b092f6734945a07d576289903c7006171f",
+        "img":"../globalassets/media/items/wicona/png/196066.png?v=bc0d8dc988690dbaa71d7427f3b192ffd4796665",
+        "dwg":"../globalassets/media/items/wicona/dwg/wi196066.dwg?v=4ad0eba5ef4c496427bbf7d1f99260fa4017a484"
+      },
+      {
+        "desc1":"196067",
+        "desc2":"Ausgleich-Dämmprofil, ABS, 3 mm",
+        "tags":["article","accessories"],
+        "pimg":"../globalassets/media/items/wicona/png/196067p.png?v=7efa61762498cd5ead543ab720badc450a805f86",
+        "img":"../globalassets/media/items/wicona/png/196067.png?v=72aa1c3be07ac15e65a4de3244b67a5ef7639402",
+        "dwg":"../globalassets/media/items/wicona/dwg/wi196067.dwg?v=a38441dfde0bba7c472f346980cffd238af70c1c"
+      },
+      {
+        "desc1":"196068",
+        "desc2":"Ausgleich-Dämmprofil, ABS, 4 mm",
+        "tags":["article","accessories"],
+        "pimg":"../globalassets/media/items/wicona/png/196068p.png?v=dc0f962389241d12c0dce1c7341a64ce8a106f17",
+        "img":"../globalassets/media/items/wicona/png/196068.png?v=f0e7b703c33e60fc082ced4c60c71f22fad0ab36",
+        "dwg":"../globalassets/media/items/wicona/dwg/wi196068.dwg?v=3be5aa5e6a966f9ad4dc6cf9010af189f002170e"
+      },
+      {
+        "desc1":"196069",
+        "desc2":"Ausgleich-Dämmprofil, ABS, 5 mm",
+        "tags":["article","accessories"],
+        "pimg":"../globalassets/media/items/wicona/png/196069p.png?v=71bffba2266854d037efa2014ee7efface4ad614",
+        "img":"../globalassets/media/items/wicona/png/196069.png?v=4d174e94c5f5062aa53be7644869f6907bc97bb4",
+        "dwg":"../globalassets/media/items/wicona/dwg/wi196069.dwg?v=b20e9d2017d8297bf790332e3b86adb2c71d5485"
+      },
+      {
+        "desc1":"196088",
+        "desc2":"Dämmprofil, ABS, 6 mm",
+        "tags":["article","accessories"],
+        "pimg":"../globalassets/media/items/wicona/png/196088p.png?v=bc0bd722cb91a0af0e6408740a4dcbf13c24a013",
+        "img":"../globalassets/media/items/wicona/png/196088.png?v=6ba18306cd56641295b11c8c365013a84d876afe",
+        "dwg":"../globalassets/media/items/wicona/dwg/wi196088.dwg?v=8e9425e3cb31a677bb48fd20864ef656c3a1237c"
+      },
+      {
+        "desc1":"4010122",
+        "desc2":"Dichtungsadapter, EPDM schwarz, Dicke 2 mm",
+        "tags":["article","accessories"],
+        "pimg":"../globalassets/media/items/wicona/png/4010122p.png?v=6c73730315842b3ba90d830ec808bab3de387cbc",
+        "img":"../globalassets/media/items/wicona/png/4010122.png?v=de241e57e89783b2e4426432ffdd582c1bcda023",
+        "dwg":"../globalassets/media/items/wicona/dwg/wi4010122.dwg?v=6de11ce405ed59cc49780b46e01a1f99323a9b0a"
+      },
+      {
+        "desc1":"4010123",
+        "desc2":"Dichtungsadapter, EPDM schwarz, Dicke 4 mm",
+        "tags":["article","accessories"],
+        "pimg":"../globalassets/media/items/wicona/png/4010123p.png?v=3a880c29080b75ee3faaf64dd400a8327eb3051d",
+        "img":"../globalassets/media/items/wicona/png/4010123.png?v=95d68f0b0af97c5068d09b8d81222682ae378378",
+        "dwg":"../globalassets/media/items/wicona/dwg/wi4010123.dwg?v=15276709f1e4c447351ae8d4baf7b2a6a941fa1f"
+      },
+      {
+        "desc1":"4010124",
+        "desc2":"Dichtungsadapter, EPDM schwarz, Dicke 6 mm",
+        "tags":["article","accessories"],
+        "pimg":"../globalassets/media/items/wicona/png/4010124p.png?v=98e8b81b9eb8724d6a72fbd810e2de27427d37cb",
+        "img":"../globalassets/media/items/wicona/png/4010124.png?v=05f27af7f7a34d04919e432db46c7a297cd58497",
+        "dwg":"../globalassets/media/items/wicona/dwg/wi4010124.dwg?v=d06d3b01eb7aa8fab02a088f38fbe63aa43d38e4"
+      },
+      {
+        "desc1":"199174",
+        "desc2":"Brandschutz-Dichtstreifen 40/1 mm",
+        "tags":["article","fparticle"],
+        "pimg":"../globalassets/media/items/wicona/png/199174p.png?v=58eda592c4448ea8bb942ce28ab6622eb9ad97e3",
+        "img":"../globalassets/media/items/wicona/png/199174.png?v=756eb66d5b8a288374ff9cfc682cde0b464dae59",
+        "dwg":"https://www.wictip.com/globalassets/media/items/wicona/dwg/W0199174-IDC-001.dwg?trackId=199174_item_DWG"
+      },
+      {
+        "desc1":"199175",
+        "desc2":"Brandschutz-Dichtstreifen 35/1 mm",
+        "tags":["article","fparticle"],
+        "pimg":"../globalassets/media/items/wicona/png/199175p.png?v=af27260b2b0648d250188c8841fc24c8ec96cf9a",
+        "img":"../globalassets/media/items/wicona/png/199175.png?v=324cfe82c81dd74cfe45c1706c7e15b9c231aa77",
+        "dwg":"../globalassets/media/items/wicona/dwg/wi199175.dwg?v=8aa4d6ff32a6d26f00d28849b1bf3e6dbd9b5493"
+      },
+      {
+        "desc1":"199176",
+        "desc2":"Brandschutz-Dichtstreifen 30/1 mm",
+        "tags":["article","fparticle"],
+        "pimg":"../globalassets/media/items/wicona/png/199176p.png?v=b45260c1290d961e614e9638c9a51c03f44392cb",
+        "img":"../globalassets/media/items/wicona/png/199176.png?v=4ef43dcaa21ef517eeb8d352783818198a227965",
+        "dwg":"../globalassets/media/items/wicona/dwg/wi199176.dwg?v=f578bf15321ef4956a2fcf7d9059970560db21b3"
+      },
+      {
+        "desc1":"199177",
+        "desc2":"Brandschutz-Dichtstreifen 25/1 mm",
+        "tags":["article","fparticle"],
+        "pimg":"../globalassets/media/items/wicona/png/199177p.png?v=af27260b2b0648d250188c8841fc24c8ec96cf9a",
+        "img":"../globalassets/media/items/wicona/png/199177.png?v=f83eca3cef268389dec5eb2a302bf13b110a3ec5",
+        "dwg":"../globalassets/media/items/wicona/dwg/wi199177.dwg?v=3d4e5f30079783b8cb1beb19c2ef4937ce1f82c0"
+      },
+      {
+        "desc1":"199178",
+        "desc2":"Brandschutz-Dichtstreifen 20/1 mm",
+        "tags":["article","fparticle"],
+        "pimg":"../globalassets/media/items/wicona/png/199178p.png?v=af27260b2b0648d250188c8841fc24c8ec96cf9a",
+        "img":"../globalassets/media/items/wicona/png/199178.png?v=3fc57936b24cb835769a22113878e91bf1807d2f",
+        "dwg":"../globalassets/media/items/wicona/dwg/wi199178.dwg?v=5ed94afed9de683af8b9e46b790dc94d237b5bda"
+      },
+      {
+        "desc1":"199305",
+        "desc2":"Brandschutzstreifen 51/25, Länge = 1245 mm",
+        "tags":["article","fparticle"],
+        "pimg":"../globalassets/media/items/wicona/png/199305p.png?v=c599bc9333cc12f5bcd96891bbcc296345b47206",
+        "img":"../globalassets/media/items/wicona/png/199305.png?v=5af7e8e57303365cc7eb11aec1a2c244719e8d36",
+        "dwg":"../globalassets/media/items/wicona/dwg/wi199305.dwg?v=989c867f7685194eb0fda25e4b2d97daa0b46d25"
+      },
+      {
+        "desc1":"199306",
+        "desc2":"Brandschutzstreifen 70/25, Länge = 1245 mm",
+        "tags":["article","fparticle"],
+        "pimg":"../globalassets/media/items/wicona/png/199306p.png?v=2f12d743911fa6cc99c1277ef6a7e39b2406fa20",
+        "img":"../globalassets/media/items/wicona/png/199306.png?v=0ee5deb4a5032b2c72ea213ec071566c5c556967",
+        "dwg":"../globalassets/media/items/wicona/dwg/wi199306.dwg?v=e9f86e6b96afadafa9202b6a22cdacb9e72df675"
+      },
+      {
+        "desc1":"199307",
+        "desc2":"Brandschutzstreifen 88/24, Länge = 1245 mm",
+        "tags":["article","fparticle"],
+        "pimg":"../globalassets/media/items/wicona/png/199307p.png?v=274043e89f1f0ae1c0f3c4d5f145986fe2e5d924",
+        "img":"../globalassets/media/items/wicona/png/199307.png?v=16ffb0d1609e8ce526bb345b69a3e1eec23e9dcb",
+        "dwg":"../globalassets/media/items/wicona/dwg/wi199307.dwg?v=793aee16a937f71f555416808ece6b27f6313e15"
+      },
+      {
+        "desc1":"199308",
+        "desc2":"Brandschutzstreifen 108/24, Länge = 1245 mm",
+        "tags":["article","fparticle"],
+        "pimg":"../globalassets/media/items/wicona/png/199308p.png?v=177a86e86144a90d569bbcb2cad1dde5b03716b1",
+        "img":"../globalassets/media/items/wicona/png/199308.png?v=20db16964290d14e8a2fd718f66d1866708846a8",
+        "dwg":"../globalassets/media/items/wicona/dwg/wi199308.dwg?v=1637e473e2d00c07c3fbc298f7943fb07442d2b3"
+      }
+    ]
+  },
+  "filter":{
+    "type":"OR",
+    "data":[
+      {"label":"Alle","filteroption":[""]},
+      {"label":"Standardprofile","filteroption":["profile"]},
+      {"label":"Einschübe & Dichtstreifen","filteroption":["fparticle"]},
+      {"label":"Zubehör","filteroption":["accessories"]}
+    ]
+  },
+  "style":{"background":false}
+}

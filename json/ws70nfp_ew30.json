@@ -1,0 +1,32 @@
+﻿{
+  "content":{
+    "overview":[
+      {
+        "label":"Planung",
+      "icon":"fa fa-desktop",
+        "links":[
+          {"text":"Ausschreibungstexte","link":"ws70nfp_ew30_at"},
+          {"text":"Füllungen & Größen","link":"ws70nfp_ew30_fg"}
+        ]
+      },
+      {
+        "label":"CAD-Unterstützung",
+        "icon":"fa fa-usb",
+        "links":[
+          {"text":"Konstruktionsschnitte","link":"ws70nfp_ew30_ks"},
+          {"text":"Profilkonturen (.dwg)","link":"ws70nfp_ew30_pk"},
+          {"text":"Vorschläge Bauanschlüsse","link":"ws70nfp_ew30_ba"}
+        ]
+      },
+      {
+        "label":"Dokumentation",
+        "icon":"fa fa-book",
+        "links":[
+          {"text":"Montageanleitung ÜA","link":"ws70nfp_ew30_ma"},
+          {"text":"Programmliste & Verarbeitung","link":"ws70nfp_ew30_pv"}
+        ]
+      }
+    ]
+  },
+  "style":{"background":false}
+}

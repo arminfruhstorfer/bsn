@@ -1,0 +1,229 @@
+﻿{
+  "subnavigation":[
+    {
+      "label":"Planung",
+      "icon":"fa fa-desktop",
+      "links":[
+        {"text":"Ausschreibungstexte","link":"ws70nfp_ew30_at"},
+        {"text":"Füllungen & Größen","link":"ws70nfp_ew30_fg"}
+      ]
+    },
+    {
+      "label":"CAD-Unterstützung",
+      "icon":"fa fa-usb",
+      "links":[
+        {"text":"Konstruktionsschnitte","link":"ws70nfp_ew30_ks"},
+        {"text":"Profilkonturen (.dwg)","link":"ws70nfp_ew30_pk", "active":true},
+        {"text":"Vorschläge Bauanschlüsse","link":"ws70nfp_ew30_ba"}
+      ]
+    },
+    {
+      "label":"Dokumentation",
+      "icon":"fa fa-book",
+      "links":[
+        {"text":"Montageanleitung ÜA","link":"ws70nfp_ew30_ma"},
+        {"text":"Programmliste & Verarbeitung","link":"ws70nfp_ew30_pv"}
+      ]
+    }
+  ],
+  "content":{
+    "list":[
+
+      {
+        "desc1":"132341",
+        "desc2":"Blendrahmen Tür auswärts 67/42/70 mm",
+        "tags":["article","profile"],
+        "pimg":"https://www.wictip.com/globalassets/media/items/wicona/PNG/132341.png/Preview",
+        "img":"https://www.wictip.com/globalassets/media/items/wicona/PNG/132341.png",
+        "dwg":"https://www.wictip.com/globalassets/media/items/wicona/dwg/W132341-IDR.dwg?trackId=132341_item_DWG"
+      },
+      {
+        "desc1":"132342",
+        "desc2":"Blendrahmen Tür einwärts 42/67/70 mm",
+        "tags":["article","profile"],
+        "pimg":"https://www.wictip.com/globalassets/media/items/wicona/PNG/132342.png/Preview",
+        "img":"https://www.wictip.com/globalassets/media/items/wicona/PNG/132342.png",
+        "dwg":"https://www.wictip.com/globalassets/media/items/wicona/dwg/W132342-IDR.dwg?trackId=132342_item_DWG"
+      },
+      {
+        "desc1":"132343",
+        "desc2":"Türflügelprofil auswärts 45/95/70 mm",
+        "tags":["article","profile"],
+        "pimg":"https://www.wictip.com/globalassets/media/items/wicona/PNG/132343.png/Preview",
+        "img":"https://www.wictip.com/globalassets/media/items/wicona/PNG/132343.png",
+        "dwg":"https://www.wictip.com/globalassets/media/items/wicona/dwg/W132343-IDR.dwg?trackId=132343_item_DWG"
+      },
+      {
+        "desc1":"132344",
+        "desc2":"Türflügelprofil einwärts 70/70/70 mm",
+        "tags":["article","profile"],
+        "pimg":"https://www.wictip.com/globalassets/media/items/wicona/PNG/132344.png/Preview",
+        "img":"https://www.wictip.com/globalassets/media/items/wicona/PNG/132344.png",
+        "dwg":"https://www.wictip.com/globalassets/media/items/wicona/dwg/W132344-IDR.dwg?trackId=132344_item_DWG"
+      },
+      {
+        "desc1":"132345",
+        "desc2":"Blendrahmen Dehnstoß Tür einwärts 64/89/70 mm",
+        "tags":["article","profile"],
+        "pimg":"https://www.wictip.com/globalassets/media/items/wicona/PNG/132345.png/Preview",
+        "img":"https://www.wictip.com/globalassets/media/items/wicona/PNG/132345.png",
+        "dwg":"https://www.wictip.com/globalassets/media/items/wicona/dwg/W132345-IDR.dwg?trackId=132345_item_DWG"
+      },
+      {
+        "desc1":"132346",
+        "desc2":"Kämpfer/Sprosse 42/92/70 mm",
+        "tags":["article","profile"],
+        "pimg":"https://www.wictip.com/globalassets/media/items/wicona/PNG/132346.png/Preview",
+        "img":"https://www.wictip.com/globalassets/media/items/wicona/PNG/132346.png",
+        "dwg":"https://www.wictip.com/globalassets/media/items/wicona/dwg/W132346-IDR.dwg?trackId=132346_item_DWG"
+      },
+      {
+        "desc1":"132348",
+        "desc2":"Neutralblendrahmen 42/42/70 mm",
+        "tags":["article","profile"],
+        "pimg":"https://www.wictip.com/globalassets/media/items/wicona/PNG/132348.png/Preview",
+        "img":"https://www.wictip.com/globalassets/media/items/wicona/PNG/132348.png",
+        "dwg":"https://www.wictip.com/globalassets/media/items/wicona/dwg/W132348-IDR.dwg?trackId=132348_item_DWG"
+      },
+      {
+        "desc1":"132349",
+        "desc2":"Aufsatzprofil Tür auswärts 50/15/55,2 mm",
+        "tags":["article","extensionprofile"],
+        "pimg":"https://www.wictip.com/globalassets/media/items/wicona/PNG/132349.png/Preview",
+        "img":"https://www.wictip.com/globalassets/media/items/wicona/PNG/132349.png",
+        "dwg":"https://www.wictip.com/globalassets/media/items/wicona/dwg/W132349-IDR.dwg?trackId=132349_item_DWG"
+      },
+      {
+        "desc1":"132350",
+        "desc2":"Anschlagprofil einwärts 17/17/50,8 mm",
+        "tags":["article","extensionprofile"],
+        "pimg":"https://www.wictip.com/globalassets/media/items/wicona/PNG/132350.png/Preview",
+        "img":"https://www.wictip.com/globalassets/media/items/wicona/PNG/132350.png",
+        "dwg":"https://www.wictip.com/globalassets/media/items/wicona/dwg/W132350-IDR.dwg?trackId=132350_item_DWG"
+      },
+      {
+        "desc1":"132351",
+        "desc2":"Sockelprofil 110/135/70 mm",
+        "tags":["article","profile"],
+        "pimg":"https://www.wictip.com/globalassets/media/items/wicona/PNG/132351.png/Preview",
+        "img":"https://www.wictip.com/globalassets/media/items/wicona/PNG/132351.png",
+        "dwg":"https://www.wictip.com/globalassets/media/items/wicona/dwg/W132351-IDR.dwg?trackId=132351_item_DWG"
+      },
+      {
+        "desc1":"132352",
+        "desc2":"Sockelprofil 118/143/70 mm",
+        "tags":["article","profile"],
+        "pimg":"https://www.wictip.com/globalassets/media/items/wicona/PNG/132352.png/Preview",
+        "img":"https://www.wictip.com/globalassets/media/items/wicona/PNG/132352.png",
+        "dwg":"https://www.wictip.com/globalassets/media/items/wicona/dwg/W132352-IDR.dwg?trackId=132352_item_DWG"
+      },
+      {
+        "desc1":"132353",
+        "desc2":"Stütze na verstärkt 42/92/120 mm",
+        "tags":["article","profile"],
+        "pimg":"https://www.wictip.com/globalassets/media/items/wicona/PNG/132353.png/Preview",
+        "img":"https://www.wictip.com/globalassets/media/items/wicona/PNG/132353.png",
+        "dwg":"https://www.wictip.com/globalassets/media/items/wicona/dwg/W132353-IDR.dwg?trackId=132353_item_DWG"
+      },
+      {
+        "desc1":"131273",
+        "desc2":"Glasleiste 16/18 mm",
+        "tags":["article","glazingbead"],
+        "pimg":"../globalassets/media/items/wicona/png/WI131273.png?v=3669f399835fed24229c02a74b01eda5f4db70ca",
+        "dwg":"../globalassets/media/items/wicona/dwg/WI131273.DWG?v=a2e3abe7dd4910fab4bbd6c49b3dc3250a3b7ada"
+      },
+      {
+        "desc1":"131274",
+        "desc2":"Glasleiste 18/18 mm",
+        "tags":["article","glazingbead"],
+        "pimg":"../globalassets/media/items/wicona/png/WI131274.png?v=3fd34bf11fe3f98d71d96cbb16bdce944dc309c8",
+        "dwg":"../globalassets/media/items/wicona/dwg/WI131274.DWG?v=5c3a08b732c01836d4b1e651a4b727bb1d8611b4"
+      },
+      {
+        "desc1":"131275",
+        "desc2":"Glasleiste 20/18 mm",
+        "tags":["article","glazingbead"],
+        "pimg":"../globalassets/media/items/wicona/png/WI131275.png?v=6fe09ed66f956292b5874594a8dd4c1dbb74787b",
+        "dwg":"../globalassets/media/items/wicona/dwg/WI131275.DWG?v=305f3a644126d1ba5582a101fc4aeffa9a9f7f4e"
+      },
+      {
+        "desc1":"131276",
+        "desc2":"Glasleiste 22/18 mm",
+        "tags":["article","glazingbead"],
+        "pimg":"../globalassets/media/items/wicona/png/missing.png?v=002855abbfb898ec018263f3604ed211e01a34b6",
+        "dwg":"../globalassets/media/items/wicona/dwg/WI131276.DWG?v=36cb6d2961d944dd0514d9ab4c95dd9a001d8b93"
+      },
+      {
+        "desc1":"131277",
+        "desc2":"Glasleiste 24/18 mm",
+        "tags":["article","glazingbead"],
+        "pimg":"../globalassets/media/items/wicona/png/missing.png?v=002855abbfb898ec018263f3604ed211e01a34b6",
+        "dwg":"../globalassets/media/items/wicona/dwg/WI131277.DWG?v=3054a004734bb724205bc91e278fb299547c1264"
+      },
+      {
+        "desc1":"131278",
+        "desc2":"Glasleiste 26/18 mm",
+        "tags":["article","glazingbead"],
+        "pimg":"../globalassets/media/items/wicona/png/WI131278.png?v=c09e6daa9f396460c4ef2b9f3f0fe59b0ea0cf2b",
+        "dwg":"../globalassets/media/items/wicona/dwg/WI131278.DWG?v=c69ce5cfe2cbcc1ec266c683d57c7c982e7e4e99"
+      },
+      {
+        "desc1":"131279",
+        "desc2":"Glasleiste 28/18 mm",
+        "tags":["article","glazingbead"],
+        "pimg":"../globalassets/media/items/wicona/png/WI131279.png?v=5185506c0a1a7a88ac83c93207326ba0fdf42641",
+        "dwg":"../globalassets/media/items/wicona/dwg/WI131279.DWG?v=7848a551bfed6e62bb1acbdfb5a7df2dc41924a2"
+      },
+      {
+        "desc1":"131280",
+        "desc2":"Glasleiste 32/18 mm",
+        "tags":["article","glazingbead"],
+        "pimg":"../globalassets/media/items/wicona/png/WI131280.png?v=3d6f19ca2a56635cec082aa7ee0e7ac8cfd5f70a",
+        "dwg":"../globalassets/media/items/wicona/dwg/WI131280.DWG?v=05dd71a3385e4bbc372f637b2dda62336c4683ff"
+      },
+      {
+        "desc1":"131281",
+        "desc2":"Glasleiste 34/18 mm",
+        "tags":["article","glazingbead"],
+        "pimg":"../globalassets/media/items/wicona/png/missing.png?v=002855abbfb898ec018263f3604ed211e01a34b6",
+        "dwg":"../globalassets/media/items/wicona/dwg/WI131281.DWG?v=5b4497ec073a563f886705c2b3f37ed53b5ed8f5"
+      },
+      {
+        "desc1":"131282",
+        "desc2":"Glasleiste 36/18 mm",
+        "tags":["article","glazingbead"],
+        "pimg":"../globalassets/media/items/wicona/png/WI131282.png?v=ef6dbdbaac6ab67aea0436ed6ed81902b290d297",
+        "dwg":"../globalassets/media/items/wicona/dwg/WI131282.DWG?v=14cf9cc82107b665b9db9f30e902a5ee8ec736bf"
+      },
+      {
+        "desc1":"131284",
+        "desc2":"Glasleiste 42/18 mm",
+        "tags":["article","glazingbead"],
+        "pimg":"../globalassets/media/items/wicona/png/WI131284.png?v=6ab634f49b61eb3683e73ff6215489afa099636c",
+        "dwg":"../globalassets/media/items/wicona/dwg/WI131284.DWG?v=092139e8d8702135029e216c3994c2c7f72ad0f2"
+      },
+      {
+        "desc1":"131673",
+        "desc2":"Glasleiste 29/18 mm",
+        "tags":["article","glazingbead"],
+        "pimg":"../globalassets/media/items/wicona/png/missing.png?v=002855abbfb898ec018263f3604ed211e01a34b6"
+      },
+      {
+        "desc1":"131676",
+        "desc2":"Glasleiste 39/18 mm",
+        "tags":["article","glazingbead"],
+        "pimg":"../globalassets/media/items/wicona/png/missing.png?v=002855abbfb898ec018263f3604ed211e01a34b6"
+      }
+    ]
+  },
+  "filter":{
+    "type":"OR",
+    "data":[
+      {"label":"Alle","filteroption":[""]},
+      {"label":"Standardprofile","filteroption":["profile"]},
+      {"label":"Aufsatzprofile","filteroption":["extensionprofile"]},
+      {"label":"Glasleisten","filteroption":["glazingbead"]}
+    ]
+  },
+  "style":{"background":false}
+}

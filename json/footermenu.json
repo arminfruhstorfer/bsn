@@ -1,0 +1,25 @@
+﻿{
+  "footer":[
+    {
+      "label":"Datenschutz",
+      "links":[
+        {"text":"Impressum","link":"imp"}
+      ]
+    },
+    {
+      "label":"Links",
+      "links":[
+        {"text":"Wicona","link":"https://www.wicona.com/de/"},
+        {"text":"Wictip","link":"https://wictip.wicona.com/de/at/"}
+      ]
+    },
+    {
+      "label":"Social Media",
+      "links":[
+        {"text":"Facebook","link":"https://www.facebook.com/wicona.world/"},
+        {"text":"LinkedIn","link":"https://www.linkedin.com/company/3179940/"},
+        {"text":"Youtube","link":"https://www.youtube.com/channel/UCmD9KIFbsauLhvjGbOUIZEg"}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+﻿{
+  "content":{
+    "overview":[
+      {
+        "label":"Planung",
+      "icon":"fa fa-desktop",
+        "links":[
+          {"text":"Ausschreibungstexte","link":"wl75fp_ei30_at"},
+          {"text":"Füllungen & Größen CE","link":"wl75fp_ei30_fg_ce"},
+          {"text":"Füllungen & Größen ÜA","link":"wl75fp_ei30_fg_ua"},
+          {"text":"Systemdatenblatt","link":"wl75fp_ei30_sd"}
+        ]
+      },
+      {
+        "label":"CAD-Unterstützung",
+        "icon":"fa fa-usb",
+        "links":[
+          {"text":"Konstruktionsschnitte","link":"wl75fp_ei30_ks"},
+          {"text":"Profilkonturen (.dwg)","link":"wl75fp_ei30_pk"},
+          {"text":"Vorschläge Bauanschlüsse","link":"wl75fp_ei30_ba"}
+        ]
+      },
+      {
+        "label":"Dokumentation",
+        "icon":"fa fa-book",
+        "links":[
+          {"text":"Dokumentation CE","link":"wl75fp_ei30_do_ce"},
+          {"text":"Montageanleitung ÜA","link":"wl75fp_ei30_ma_ua"},
+          {"text":"Programm ÜA","link":"wl75fp_ei30_pl_ua"},
+          {"text":"Verarbeitung","link":"wl75fp_ei30_vr"},
+          {"text":"Vorlagen","link":"wl75fp_ei30_vo"}
+        ]
+      }
+    ]
+  },
+  "style":{"background":false}
+}

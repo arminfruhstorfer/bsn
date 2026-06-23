@@ -1,0 +1,30 @@
+﻿{
+  "content":{
+    "overview":[
+      {
+        "label":"Planung",
+      "icon":"fa fa-desktop",
+        "links":[
+          {"text":"Füllungen & Größen","link":"el52fr_ew30_fg"}
+        ]
+      },
+      {
+        "label":"CAD-Unterstützung",
+        "icon":"fa fa-usb",
+        "links":[
+          {"text":"Konstruktionsschnitte","link":"el52fr_ew30_ks"},
+          {"text":"Profilkonturen (.dwg)","link":"el52fr_ew30_pk"},
+          {"text":"Vorschläge Bauanschlüsse","link":"el52fr_ew30_ba"}
+        ]
+      },
+      {
+        "label":"Dokumentation",
+        "icon":"fa fa-book",
+        "links":[
+          {"text":"Programm & Verarbeitung","link":"el52fr_ew30_pv"}
+        ]
+      }
+    ]
+  },
+  "style":{"background":false}
+}

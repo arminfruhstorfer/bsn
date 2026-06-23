@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#cd20019">
+	<link rel="stylesheet" href="./style/fa.css">
+	<link rel="stylesheet" href="./style/shape.css">
+	<link rel="shortcut icon" href="./img/wicona.ico" type="image/x-icon">
+    <title>Brandschutznavigator &Ouml;sterreich</title>
+  </head>
+  <body>
+    <header>
+	</header>
+	<main>
+	</main>
+	<footer>
+	</footer>
+	<script>
+		window.onload = function() {
+			let oStyle = document.createElement('link');
+			oStyle.href = window.location.href.substring(0, window.location.href.indexOf("index.html")) + "style/style.css?v=" + Math.floor(Math.random() * 100000);
+			oStyle.type = "text/css";
+			oStyle.rel = "stylesheet";
+			oStyle.media = "screen,print";
+			document.getElementsByTagName("head")[0].appendChild(oStyle);
+			let oScript = document.createElement('script');
+			oScript.src = "./script/builder.js?v=" + Math.floor(Math.random() * 100000);
+			document.getElementsByTagName("body")[0].appendChild(oScript);
+			let oScript1 = document.createElement('script');
+			oScript1.src = "./script/qr_code_gen.js?v=" + Math.floor(Math.random() * 100000);
+			document.getElementsByTagName("body")[0].appendChild(oScript1);
+		};
+	</script>
+  </body>
+</html>

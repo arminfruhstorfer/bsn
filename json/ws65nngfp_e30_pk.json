@@ -1,0 +1,130 @@
+﻿{
+  "subnavigation":[
+    {
+      "label":"Planung",
+      "icon":"fa fa-desktop",
+      "links":[
+        {"text":"Füllungen & Größen","link":"ws65nngfp_e30_fg"},
+        {"text":"Systemdatenblatt","link":"ws65nngfp_e30_sd"}
+      ]
+    },
+    {
+      "label":"CAD-Unterstützung",
+      "icon":"fa fa-usb",
+      "links":[
+        {"text":"Konstruktionsschnitte","link":"ws65nngfp_e30_ks"},
+        {"text":"Profilkonturen (.dwg)","link":"ws65nngfp_e30_pk", "active":true},
+        {"text":"Bauanschlüsse","link":"ws65nngfp_e30_ba"}
+      ]
+    },
+    {
+      "label":"Dokumentation",
+      "icon":"fa fa-book",
+      "links":[
+        {"text":"Montageanleitung","link":"ws65nngfp_e30_ma"},
+        {"text":"Programm & Verarbeitung","link":"ws65nngfp_e30_pv"}
+      ]
+    }
+  ],
+  "content":{
+    "list":[
+
+      {
+        "desc1":"3010118",
+        "desc2":"Neutral-Blendrahmen, verstärkt",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/wicona/png/3010118p.png?v=5aef579632b11974b2deeffb1e5ddcdc274f7860",
+        "img":"../globalassets/media/items/wicona/png/3010118.png?v=9d98f0da3e6e7388e1f2042c8bca459109d6167b",
+        "dwg":"../globalassets/media/items/wicona/dwg/w3010118-idr.dwg?v=55d6ec45c6eea74572bb980395461ed2d7b49f67"
+      },
+      {
+        "desc1":"3010125",
+        "desc2":"Neutral-Blendrahmen, verstärkt",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/wicona/png/3010125p.png?v=686145d50726e9831a9fe89807516200d37e1c5b",
+        "img":"../globalassets/media/items/wicona/png/3010125.png?v=613c1153a70e212ff7a67e60a831cf616fa2203b",
+        "dwg":"../globalassets/media/items/wicona/dwg/w3010125-idr.dwg?v=a0efb32f873081676bdf671695e72375e2f363ae"
+      },
+      {
+        "desc1":"3091041",
+        "desc2":"Verstärkungsprofil 25/70 mm",
+        "tags":["article","addprofile"],
+        "pimg":"../globalassets/media/items/wicona/png/3091041p.png?v=70493504c77836e507a549191fa8d6597a40df32",
+        "img":"../globalassets/media/items/wicona/png/3091041.png?v=b2069febb1659b3823d9f2da7d84468f93160754",
+        "dwg":"../globalassets/media/items/wicona/dwg/w3091041-idr.dwg?v=6c202312ad6f965c1115d103014a2989391da0fe"
+      },
+      {
+        "desc1":"3091042",
+        "desc2":"Abdeckprofil für Verstärkung 19/20,5 mm",
+        "tags":["article","addprofile"],
+        "pimg":"../globalassets/media/items/wicona/png/3091042p.png?v=aa3389b8e0b2d4732cc29453988826d6331cb905",
+        "img":"../globalassets/media/items/wicona/png/3091042.png?v=0a2d95862234d8bd9c5ec88bdba0dd7c64113a53",
+        "dwg":"../globalassets/media/items/wicona/dwg/w3091042-idr.dwg?v=31b1e0df39d28eae027b42251555cf89b6983022"
+      },
+      {
+        "desc1":"3991008",
+        "desc2":"Glasleiste 24/22 mm",
+        "tags":["article","glazingbead"],
+        "pimg":"../globalassets/media/items/wicona/png/3991008p.png?v=f308c90e977ab6970555a34026fccf4ce7a58c99",
+        "img":"../globalassets/media/items/wicona/png/3991008.png?v=09eec039e91f006fd5c0303851bf260143075e64",
+        "dwg":"../globalassets/media/items/wicona/dwg/w3991008-idr.dwg?v=b8f37424f00e286e8f57f791a6c56be2d3cebc1b"
+      },
+      {
+        "desc1":"4010135",
+        "desc2":"Verglasungsdichtung innen, Chloroprene, Spalt 5 mm",
+        "tags":["article","accessories"],
+        "pimg":"../globalassets/media/items/wicona/png/4010135p.png?v=c87f4b5a82f07f56078bd290b76d911f5496a60d",
+        "img":"../globalassets/media/items/wicona/png/4010135.png?v=4ed470b71a3e7fe62f2955abbeefb8c07bf86a13"
+      },
+      {
+        "desc1":"4020006",
+        "desc2":"Federstück, EPDM schwarz",
+        "tags":["article","accessories"],
+        "pimg":"../globalassets/media/items/wicona/png/4020006p.png?v=586c1106d365365ed796dbbb29f4c1eadd442972",
+        "img":"../globalassets/media/items/wicona/png/4020006.png?v=ed33a5d1c31b054132a2386de6b2ec67bf7748ee",
+        "dwg":"../globalassets/media/items/wicona/dwg/w4020006-idc-001.dwg?v=f97bcdf7eca6c8dbfc0566cc425fc5a6b659c3bd"
+      },
+      {
+        "desc1":"4070050",
+        "desc2":"Linsenblechschraube DIN ISO 7049 ST4.8 x 32 T25",
+        "tags":["article","accessories"],
+        "pimg":"../globalassets/media/items/wicona/png/4070050p.png?v=37ded1b0f0892c35ec339d9b117ca0e41e4f25b5",
+        "img":"../globalassets/media/items/wicona/png/4070050.png?v=74a8d5375fe92a370696df59628703afd8e2974a"
+      },
+      {
+        "desc1":"4080323",
+        "desc2":"Schalensicherung, Stahl rostfrei",
+        "tags":["article","fparticle"],
+        "pimg":"../globalassets/media/items/wicona/png/4080323p.png?v=34c865260366a4f7408a69135c2da88ff5607935",
+        "img":"../globalassets/media/items/wicona/png/4080323.png?v=5d4ed4ce52413fe40285b355f420652bb32ce798"
+      },
+      {
+        "desc1":"4080330",
+        "desc2":"Glassicherung FP, Bandstahl Niro, FD = 6 - 30 mm",
+        "tags":["article","fparticle"],
+        "pimg":"../globalassets/media/items/wicona/png/4080330p.png?v=047b0037afa0583286adb5ac447b3a171acd6efe",
+        "img":"../globalassets/media/items/wicona/png/4080330.png?v=7ec2debde73d0e0b4a2f6ac44ff565178ed36655"
+      },
+      {
+        "desc1":"4090216",
+        "desc2":"Brandschutz-Dichtstreifen 10/2 mm",
+        "tags":["article","fparticle"],
+        "pimg":"../globalassets/media/items/wicona/png/4090216p.png?v=7476847212deafd2928d9efd6b55dad94c05bece",
+        "img":"../globalassets/media/items/wicona/png/4090216.png?v=7b3f4d27f16dbbc1b60b841a1cf8265f8188110a",
+        "dwg":"https://www.wictip.com/globalassets/media/items/wicona/dwg/W4090216-IDC-001.dwg?trackId=4090216_item_DWG"
+      }
+    ]
+  },
+  "filter":{
+    "type":"OR",
+    "data":[
+      {"label":"Alle","filteroption":[""]},
+      {"label":"Standardprofile","filteroption":["profile"]},
+      {"label":"Zusatzprofile","filteroption":["addprofile"]},
+      {"label":"Glasleisten","filteroption":["glazingbead"]},
+      {"label":"Zubehör","filteroption":["accessories"]},
+      {"label":"Brandschutzartikel","filteroption":["fparticle"]}
+    ]
+  },
+  "style":{"background":false}
+}

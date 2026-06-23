@@ -1,0 +1,294 @@
+﻿{
+  "subnavigation":[
+    {
+      "label":"Planung",
+      "icon":"fa fa-desktop",
+      "links":[
+        {"text":"Füllungen & Größen","link":"el52fr_ei30_fg"}
+      ]
+    },
+    {
+      "label":"CAD-Unterstützung",
+      "icon":"fa fa-usb",
+      "links":[
+        {"text":"Konstruktionsschnitte","link":"el52fr_ei30_ks"},
+        {"text":"Profilkonturen (.dwg)","link":"el52fr_ei30_pk", "active":true},
+        {"text":"Vorschläge Bauanschlüsse","link":"el52fr_ei30_ba"}
+      ]
+    },
+    {
+      "label":"Dokumentation",
+      "icon":"fa fa-book",
+      "links":[
+        {"text":"Programm & Verarbeitung","link":"el52fr_ei30_pv"}
+      ]
+    }
+  ],
+  "content":{
+    "list":[
+
+      {
+        "desc1":"S52M80",
+        "desc2":"Pfostenprofil E1 62/125 mm",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/sapa/png/S52M80p.png?v=3047e9284889953ff0cfea0b3d8f8fa37582a992",
+        "img":"../globalassets/media/items/sapa/png/S52M80.png?v=7584c2306f54aef644eaf3a1003c990fdf38c17f"
+      },
+      {
+        "desc1":"S52T62",
+        "desc2":"Riegelprofil E2 52/90.5 mm",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/sapa/png/S52T62p.png?v=80992a16717324e2e912ae08c40a595231793114",
+        "img":"../globalassets/media/items/sapa/png/S52T62.png?v=e70037c3812aa65b0728e47dc3185bae5a2e5495"
+      },
+      {
+        "desc1":"S52A12",
+        "desc2":"Abdeckprofil für Andruckprofil 52/20 mm",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/sapa/png/S52A12p.png?v=0bed5ef306c7740892ef90f3bc4126240c28a34f",
+        "img":"../globalassets/media/items/sapa/png/S52A12.png?v=e07d816c2cc9a17ad6742d8833aa640df39351af"
+      },
+      {
+        "desc1":"S52A17",
+        "desc2":"Abdeckprofil für Andruckprofil 52/16 mm",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/sapa/png/S52A17p.png?v=f2c1a2de979cee791c746fdfdef1dc555e2aedd0",
+        "img":"../globalassets/media/items/sapa/png/S52A17.png?v=74d359e53ad72fc878b7786ca4c67c75aff239e8"
+      },
+      {
+        "desc1":"S52P03",
+        "desc2":"Andruckprofil 49/17.5 mm",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/sapa/png/S52P03p.png?v=bd52b83855a2a618cf077f2b36c5ba78b40c30cb",
+        "img":"../globalassets/media/items/sapa/png/S52P03.png?v=934716131e03cfcf9c772f42a69a24b2b17773b7"
+      },
+      {
+        "desc1":"S52P08",
+        "desc2":"Andruckprofil 49/12 mm",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/sapa/png/S52P08p.png?v=d0babe82cc0aec2e4eda325f5a0844b942d20803",
+        "img":"../globalassets/media/items/sapa/png/S52P08.png?v=f3cbf3774f63cb1b51b7eab77373452999e5c7ef"
+      },
+      {
+        "desc1":"S52P10",
+        "desc2":"Andruckprofil 53/12 mm",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/sapa/png/S52P10p.png?v=943b249eaa8568898a34fb7ec3327745c9009bff",
+        "img":"../globalassets/media/items/sapa/png/S52P10.png?v=91e943842ee9d9771ed25ceae44a8a13c1b0af47"
+      },
+      {
+        "desc1":"SCO5007",
+        "desc2":"Stutzklotz",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/sapa/png/SCO5007p.png?v=c25ae54e59027fb401d80567e78da468fdf7d72a",
+        "img":"../globalassets/media/items/sapa/png/SCO5007.png?v=862b1ec79d73e236586cf177c20551795841140e"
+      },
+      {
+        "desc1":"SCO5008",
+        "desc2":"Einschubprofil FP-Fassade",
+        "tags":["article","fparticle"],
+        "pimg":"../globalassets/media/items/sapa/png/SCO5008p.png?v=4408da5b6955077e33b49bac978d6493d37d0a61",
+        "img":"../globalassets/media/items/sapa/png/SCO5008.png?v=47099f15da361ca8440826a42f3b7ab6c678966b"
+      },
+      {
+        "desc1":"SBT0006",
+        "desc2":"Brandschutz-Dichtstreifen 30/2 mm",
+        "tags":["article","fparticle"],
+        "pimg":"../globalassets/media/items/sapa/png/SBT0006p.png?v=72f9d12f6f1a2c515ffad99339de4488fd47ff15",
+        "img":"../globalassets/media/items/sapa/png/SBT0006.png?v=c418460fcf83952b74353e8605e765db76480e9e"
+      },
+      {
+        "desc1":"S52R031",
+        "desc2":"Dämmprofil",
+        "tags":["article","accessories"],
+        "pimg":"../globalassets/media/items/sapa/png/S52R031p.png?v=95c2fd17d5303a5df7b4fc2498660f055580c8fc",
+        "img":"../globalassets/media/items/sapa/png/S52R031.png?v=150647320bf15b3f62a73e7bb8d4a02e4a884e1a"
+      },
+      {
+        "desc1":"SPV001",
+        "desc2":"Dämmprofil 16 mm",
+        "tags":["article","accessories"],
+        "pimg":"../globalassets/media/items/sapa/png/SPV001p.png?v=0c8eed09d914f8cee092df052e93ff9eb456a2fd",
+        "img":"../globalassets/media/items/sapa/png/SPV001.png?v=611180e7fa8067750751258fb39f1c8d1bf87c7c"
+      },
+      {
+        "desc1":"SPV002",
+        "desc2":"Dämmprofil 24 mm",
+        "tags":["article","accessories"],
+        "pimg":"../globalassets/media/items/sapa/png/SPV002p.png?v=f106cc4847ba010b3a7e7ce57823abebf754f88e",
+        "img":"../globalassets/media/items/sapa/png/SPV002.png?v=650772ad1b9a4be939058bf6c4c8cd1154601e48"
+      },
+      {
+        "desc1":"SPV004",
+        "desc2":"Dämmprofil 30 mm",
+        "tags":["article","accessories"],
+        "pimg":"../globalassets/media/items/sapa/png/SPV004p.png?v=88b3f207a409d3997958a56750ab6b98b2739d0f",
+        "img":"../globalassets/media/items/sapa/png/SPV004.png?v=18baca64d7b60f65aab45e53a90ea9a5641d63ff"
+      },
+      {
+        "desc1":"SPV003",
+        "desc2":"Dämmprofil 36 mm",
+        "tags":["article","accessories"],
+        "pimg":"../globalassets/media/items/sapa/png/SPV003p.png?v=b14abdb5e12fb3e8db6ece43b905dde745df3710",
+        "img":"../globalassets/media/items/sapa/png/SPV003.png?v=2a335d7ef0fb0e7b8f1b834e078d63491b39a6db"
+      },
+      {
+        "desc1":"SRU1600",
+        "desc2":"Dichtung",
+        "tags":["article","accessories"],
+        "pimg":"../globalassets/media/items/sapa/png/SRU1600p.png?v=441bf6b38f18b71585efcfaece335ee00b00a1f9",
+        "img":"../globalassets/media/items/sapa/png/SRU1600.png?v=484382a4275cd22641d0f1e5f3df3fe6108bea84"
+      },
+      {
+        "desc1":"S52R021",
+        "desc2":"Dichtung, Spalt 9 mm",
+        "tags":["article","accessories"],
+        "pimg":"../globalassets/media/items/sapa/png/S52R021p.png?v=4c42d43a7ee993b00ddac5dac0ed6f5c308e5a88",
+        "img":"../globalassets/media/items/sapa/png/S52R021.png?v=7accddb414b5c60a00e738f4225d0ed09ae6f711"
+      },
+      {
+        "desc1":"S52R022",
+        "desc2":"Dichtung, Spalt 11 mm",
+        "tags":["article","accessories"],
+        "pimg":"../globalassets/media/items/sapa/png/S52R022p.png?v=ec57ea0864b4a0ed4fc23558f70f73750d45a66c",
+        "img":"../globalassets/media/items/sapa/png/S52R022.png?v=d4ed70db8c20a2ec9d5551b6e40b0651a65d84d5"
+      },
+      {
+        "desc1":"S52R023",
+        "desc2":"Dichtung, Spalt 13 mm",
+        "tags":["article","accessories"],
+        "pimg":"../globalassets/media/items/sapa/png/S52R023p.png?v=896d02d09c02c79d965d0d2fe1dcac573f3d8971",
+        "img":"../globalassets/media/items/sapa/png/S52R023.png?v=734b077d9db8c69e2291a1bc9f8fee0254281be6"
+      },
+      {
+        "desc1":"S52R024",
+        "desc2":"Dichtung, Spalt 15 mm",
+        "tags":["article","accessories"],
+        "pimg":"../globalassets/media/items/sapa/png/S52R024p.png?v=fac081cfb1c3a853a8033da9667b4395fdc4b2e6",
+        "img":"../globalassets/media/items/sapa/png/S52R024.png?v=051521cc71a854740002810de5756b40484a74b5"
+      },
+      {
+        "desc1":"S52R025",
+        "desc2":"Dichtung, Spalt 2.5 mm",
+        "tags":["article","accessories"],
+        "pimg":"../globalassets/media/items/sapa/png/S52R025p.png?v=fac4e8b1b1aeb34afc5dc0c4e6a1d764802d966e",
+        "img":"../globalassets/media/items/sapa/png/S52R025.png?v=32c46783050a6d1c278510cc717c9d230afa50ab"
+      },
+      {
+        "desc1":"S52R026",
+        "desc2":"Dichtung, Spalt 6.5 mm",
+        "tags":["article","accessories"],
+        "pimg":"../globalassets/media/items/sapa/png/S52R026p.png?v=d3efe1a6242b192a04c50d844420527dcbf2c643",
+        "img":"../globalassets/media/items/sapa/png/S52R026.png?v=9a1dabe3c19d8b34399a5566950e15e5a599927d"
+      },
+      {
+        "desc1":"S52R027",
+        "desc2":"Dichtung, Spalt 4.5 mm",
+        "tags":["article","accessories"],
+        "pimg":"../globalassets/media/items/sapa/png/S52R027p.png?v=c59d14e5e29f1de39aec54b3b37bb936bd4a5243",
+        "img":"../globalassets/media/items/sapa/png/S52R027.png?v=d29f008dbff728dc7d369f2eb393b089d92709a9"
+      },
+      {
+        "desc1":"S52R029",
+        "desc2":"Dichtung, Spalt 4.5 mm",
+        "tags":["article","accessories"],
+        "pimg":"../globalassets/media/items/sapa/png/S52R029p.png?v=3406a9db16dfe29a8ee71254c330f0b8b90d1d38",
+        "img":"../globalassets/media/items/sapa/png/S52R029.png?v=ca82bc2cf1b9e7ec0bca20825d17c28b5e1b39a8"
+      },
+      {
+        "desc1":"SRU9030",
+        "desc2":"Dichtung",
+        "tags":["article","accessories"],
+        "pimg":"../globalassets/media/items/sapa/png/SRU9030p.png?v=f0e82bc1fcd657821e4dd97824441b22cc58d080",
+        "img":"../globalassets/media/items/sapa/png/SRU9030.png?v=327be71efcebc6d70884b5098ea5fb1f6f2164ae"
+      },
+      {
+        "desc1":"S52R220",
+        "desc2":"Verglasungsdichtung innen, Spalt 4.5 mm",
+        "tags":["article","accessories"],
+        "pimg":"../globalassets/media/items/sapa/png/S52R220p.png?v=22e79cb68727dfc22fe612eecee5366de30f86a2",
+        "img":"../globalassets/media/items/sapa/png/S52R220.png?v=c783789ed3510f75c0a8f91082ae4e0447731614"
+      },
+      {
+        "desc1":"S52R221",
+        "desc2":"Verglasungsdichtung innen, Spalt 9 mm",
+        "tags":["article","accessories"],
+        "pimg":"../globalassets/media/items/sapa/png/S52R221p.png?v=7ed1900df4a8265b3af2a668894593dff1552d11",
+        "img":"../globalassets/media/items/sapa/png/S52R221.png?v=50b143c08b04a0abbffe2c56e4e24baba99373d7"
+      },
+      {
+        "desc1":"S52R222",
+        "desc2":"Verglasungsdichtung innen, Spalt 11 mm",
+        "tags":["article","accessories"],
+        "pimg":"../globalassets/media/items/sapa/png/S52R222p.png?v=584c533bdbb7d4b6d9c6e3b2b6183511670ac8ab",
+        "img":"../globalassets/media/items/sapa/png/S52R222.png?v=7c7cdb683ce1479e05d3fc33aa39fbb29252b3b9"
+      },
+      {
+        "desc1":"S52R223",
+        "desc2":"Verglasungsdichtung innen, Spalt 13 mm",
+        "tags":["article","accessories"],
+        "pimg":"../globalassets/media/items/sapa/png/S52R223p.png?v=71b16c13f64dc2dc760d28f5e65facd954ec408c",
+        "img":"../globalassets/media/items/sapa/png/S52R223.png?v=b081d45a4bfa412c616aefa385de39dd9f8dd25c"
+      },
+      {
+        "desc1":"S52R224",
+        "desc2":"Verglasungsdichtung innen, Spalt 15 mm",
+        "tags":["article","accessories"],
+        "pimg":"../globalassets/media/items/sapa/png/S52R224p.png?v=f5695cab5542a54442c7ab69021054b416acce11",
+        "img":"../globalassets/media/items/sapa/png/S52R224.png?v=291e5378cdbc0517c507f08c69768489893238ef"
+      },
+      {
+        "desc1":"S52R227",
+        "desc2":"Verglasungsdichtung innen, Spalt 17 mm",
+        "tags":["article","accessories"],
+        "pimg":"../globalassets/media/items/sapa/png/S52R227p.png?v=75155d0d229a91f5f1b75e97b7f649b3ceb43b87",
+        "img":"../globalassets/media/items/sapa/png/S52R227.png?v=4a849803df1ecc436be9e52fad7306c3cc580dfc"
+      },
+      {
+        "desc1":"SSCM642",
+        "desc2":"Schraube 5.5 x 53.8 mm",
+        "tags":["article","accessories"],
+        "pimg":"../globalassets/media/items/sapa/png/SSCM642p.png?v=2930834ac45439ffa61fecc1d724767133c792fd",
+        "img":"../globalassets/media/items/sapa/png/SSCM642.png?v=28c6f2ebda2f9e5a5754a2a4787367a8e6c662cb"
+      },
+      {
+        "desc1":"SSCM643",
+        "desc2":"Schraube 5.5 x 39.8 mm",
+        "tags":["article","accessories"],
+        "pimg":"../globalassets/media/items/sapa/png/SSCM643p.png?v=985c465f9c28d50c3a7c9927efdfa902093e105c",
+        "img":"../globalassets/media/items/sapa/png/SSCM643.png?v=fa003cc61af7daca5e91aec3886fe69e6aa26174"
+      },
+      {
+        "desc1":"SSCM645",
+        "desc2":"Schraube 5.5 x 47.8 mm",
+        "tags":["article","accessories"],
+        "pimg":"../globalassets/media/items/sapa/png/SSCM645p.png?v=c840add4226b3fa317f286442c49de9d581338c2",
+        "img":"../globalassets/media/items/sapa/png/SSCM645.png?v=5e75eadb2e78e19980cbc85f3de719c666cff887"
+      },
+      {
+        "desc1":"SSCM647",
+        "desc2":"Schraube 5.5 x 59.8 mm",
+        "tags":["article","accessories"],
+        "pimg":"../globalassets/media/items/sapa/png/SSCM647p.png?v=6c2cec63ebd608352a784e5c2e4a6798701a0a2f",
+        "img":"../globalassets/media/items/sapa/png/SSCM647.png?v=54e2491679e40f13fa71af2de92bbddaf2e55eb8"
+      },
+      {
+        "desc1":"SSCM649",
+        "desc2":"Schraube 5.5 x 65.8 mm",
+        "tags":["article","accessories"],
+        "pimg":"../globalassets/media/items/sapa/png/SSCM649p.png?v=24ac538c1c245981939860615560b935da7df686",
+        "img":"../globalassets/media/items/sapa/png/SSCM649.png?v=ec885dd7f66fd7f1f8d2bdb295091d71a7e6ea40"
+      }
+    ]
+  },
+  "filter":{
+    "type":"OR",
+    "data":[
+      {"label":"Alle","filteroption":[""]},
+      {"label":"Standardprofile","filteroption":["profile"]},
+      {"label":"Einschübe & Dichtstreifen","filteroption":["fparticle"]},
+      {"label":"Zubehör","filteroption":["accessories"]}
+    ]
+  },
+  "style":{"background":false}
+}

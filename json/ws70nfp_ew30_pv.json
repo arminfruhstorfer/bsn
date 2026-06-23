@@ -1,0 +1,89 @@
+﻿{
+  "subnavigation":[
+    {
+      "label":"Planung",
+      "icon":"fa fa-desktop",
+      "links":[
+        {"text":"Ausschreibungstexte","link":"ws70nfp_ew30_at"},
+        {"text":"Füllungen & Größen","link":"ws70nfp_ew30_fg"}
+      ]
+    },
+    {
+      "label":"CAD-Unterstützung",
+      "icon":"fa fa-usb",
+      "links":[
+        {"text":"Konstruktionsschnitte","link":"ws70nfp_ew30_ks"},
+        {"text":"Profilkonturen (.dwg)","link":"ws70nfp_ew30_pk"},
+        {"text":"Vorschläge Bauanschlüsse","link":"ws70nfp_ew30_ba"}
+      ]
+    },
+    {
+      "label":"Dokumentation",
+      "icon":"fa fa-book",
+      "links":[
+        {"text":"Montageanleitung ÜA","link":"ws70nfp_ew30_ma"},
+        {"text":"Programmliste & Verarbeitung","link":"ws70nfp_ew30_pv", "active":true}
+      ]
+    }
+  ],
+  "content":{
+    "list":[
+
+      {
+        "desc1":"Inhaltsverzeichnis",
+        "pimg":"../globalassets/media/items/wicona/png/ws70nfp_ew30_iv.png?v=e5bee4b449f622a67c5988df1d80d026c38b2bd2",
+        "pdf":"../globalassets/media/items/wicona/pdf/ws70nfp_ew30_iv.pdf?v=a6c75eb5491577eb4c713ed346a9d7a3eea5af22",
+        "ebook":"../ebook.html?d=279342"
+      },
+      {
+        "desc1":"Nummernverzeichnis",
+        "pimg":"../globalassets/media/items/wicona/png/ws70nfp_ew30_ah1.png?v=15d794cca90ae897ec4c435258e7103d76525c5e",
+        "pdf":"../globalassets/media/items/wicona/pdf/ws70nfp_ew30_ah1.pdf?v=bfa843175256fedc31b3aa68fe8fcf25dba3e187",
+        "ebook":"../ebook.html?d=829801"
+      },
+      {
+        "desc1":"Allgemeine Hinweise",
+        "pimg":"../globalassets/media/items/wicona/png/ws70nfp_ew30_ah2.png?v=8a0e8e1d9c4a016bbd9e6f58810404af9534c319",
+        "pdf":"../globalassets/media/items/wicona/pdf/ws70nfp_ew30_ah2.pdf?v=d3018df8a9df5ee19031d04acb2299b2dbbb1844",
+        "ebook":"../ebook.html?d=824602"
+      },
+      {
+        "desc1":"Programmliste",
+        "pimg":"../globalassets/media/items/wicona/png/ws70nfp_ew30_pl.png?v=6f94326b7dfae1e4ed3cdc63a9bc5d7085852ef8",
+        "pdf":"../globalassets/media/items/wicona/pdf/ws70nfp_ew30_pl.pdf?v=7f4ed43ac022f08847e0f91d1d2445c8d2cce862",
+        "ebook":"../ebook.html?d=589163"
+      },
+      {
+        "desc1":"Glasleisten",
+        "pimg":"../globalassets/media/items/wicona/png/ws70nfp_ew30_gl1.png?v=4b8323ca8d652d5b6591ee575e37cf25573991f1",
+        "pdf":"../globalassets/media/items/wicona/pdf/ws70nfp_ew30_gl1.pdf?v=c0194546075ed4ac1498a6522f0e868049bd1760",
+        "ebook":"../ebook.html?d=986093"
+      },
+      {
+        "desc1":"Zubehör",
+        "pimg":"../globalassets/media/items/wicona/png/ws70nfp_ew30_zb.png?v=6fd56f760de76a5037b7b490121f171a502c0403",
+        "pdf":"../globalassets/media/items/wicona/pdf/ws70nfp_ew30_zb.pdf?v=086d024a8c29c704f307234e613e6ef301c3c5fc",
+        "ebook":"../ebook.html?d=910964"
+      },
+      {
+        "desc1":"Beschläge",
+        "pimg":"../globalassets/media/items/wicona/png/ws70nfp_ew30_be.png?v=963b443bbfad4004c2c88a9182449bf3d796a882",
+        "pdf":"../globalassets/media/items/wicona/pdf/ws70nfp_ew30_be.pdf?v=9a01ed5c0ec55461bbe2796091b4e6b28426336f",
+        "ebook":"../ebook.html?d=226866"
+      },
+      {
+        "desc1":"Werkzeuge",
+        "pimg":"../globalassets/media/items/wicona/png/ws70nfp_ew30_wz.png?v=5d27f604d993912c8729dc3e39f1a0fcee72f7ed",
+        "pdf":"../globalassets/media/items/wicona/pdf/ws70nfp_ew30_wz.pdf?v=89223e4d72d18294bd92b5c509bf8466890906d8",
+        "ebook":"../ebook.html?d=695115"
+      },
+      {
+        "desc1":"Verarbeitungsrichtlinien",
+        "pimg":"../globalassets/media/items/wicona/png/ws70nfp_ew30_va.png?v=2a4db2b4ef37ff208a927b27b3ac27b9839d6906",
+        "pdf":"../globalassets/media/items/wicona/pdf/ws70nfp_ew30_va.pdf?v=651cdaafde4d70b6454c18fa914aee510014ef7f",
+        "ebook":"../ebook.html?d=980003"
+      }
+    ]
+  },
+  "style":{"background":false}
+}

@@ -1,0 +1,98 @@
+﻿{
+  "subnavigation":[
+    {
+      "label":"Planung",
+      "icon":"fa fa-desktop",
+      "links":[
+        {"text":"Ausschreibungstexte","link":"wl75fp_ei60_at"},
+        {"text":"Füllungen & Größen","link":"wl75fp_ei60_fg"},
+        {"text":"Systemdatenblatt","link":"wl75fp_ei60_sd"}
+      ]
+    },
+    {
+      "label":"CAD-Unterstützung",
+      "icon":"fa fa-usb",
+      "links":[
+        {"text":"Konstruktionsschnitte","link":"wl75fp_ei60_ks", "active":true},
+        {"text":"Profilkonturen (.dwg)","link":"wl75fp_ei60_pk"},
+        {"text":"Vorschläge Bauanschlüsse","link":"wl75fp_ei60_ba"}
+      ]
+    },
+    {
+      "label":"Dokumentation",
+      "icon":"fa fa-book",
+      "links":[
+        {"text":"Montageanleitung","link":"wl75fp_ei60_ma"},
+        {"text":"Programm & Verarbeitung","link":"wl75fp_ei60_pv"}
+      ]
+    }
+  ],
+  "content":{
+    "list":[
+      {
+        "desc1":"DOC-FPA0000052",
+        "desc2":"Blendrahmen",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000052p.png?v=c3afbb3bb7924ba44c545e429f1cef5b531a9365",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000052.png?v=c7cc434e2189f600bf1f39a4a67512244f8b9131",
+        "dwg":"../globalassets/media/sections/wicona/dwg/wl75fp_ei60_ks.dwg?v=51c842d3b9da6a86e62a171941c8e50fc18c1ca2",
+        "tags":["1311073","3090242","4070448","4010017","4080131","4080436","4090013","4090115","4090137","4910022"]
+      },
+      {
+        "desc1":"DOC-FPA0000053",
+        "desc2":"Kämpfer",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000053p.png?v=8148464fc73685d5d05618feb9f0fe0cdd1c3c95",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000053.png?v=b6766b69e92231aa796704205aa742b0674b01f4",
+        "dwg":"../globalassets/media/sections/wicona/dwg/wl75fp_ei60_ks.dwg?v=51c842d3b9da6a86e62a171941c8e50fc18c1ca2",
+        "tags":["1910175","3090242","4070448","4010017","4080131","4080436","4090013","4090115","4090137","4910022"]
+      },
+      {
+        "desc1":"DOC-FPA0000054",
+        "desc2":"Kämpfer",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000054p.png?v=ce99910ad2389250e168ea0ba74491fe4136daaf",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000054.png?v=2828ebfe153bb8e516891ac11e2ae573a7fc7c47",
+        "dwg":"../globalassets/media/sections/wicona/dwg/wl75fp_ei60_ks.dwg?v=51c842d3b9da6a86e62a171941c8e50fc18c1ca2",
+        "tags":["1917206","3090242","4070448","4010017","4080131","4080436","4090013","4090117","4090137","4910022"]
+      },
+      {
+        "desc1":"DOC-FPA0000055",
+        "desc2":"Kämpfer",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000055p.png?v=fdf954477b41864575fddfc2f79a3e105f9989b1",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000055.png?v=7266183775faaf2835a5810f66b529da5e216232",
+        "dwg":"../globalassets/media/sections/wicona/dwg/wl75fp_ei60_ks.dwg?v=51c842d3b9da6a86e62a171941c8e50fc18c1ca2",
+        "tags":["1910175","3090242","4070448","4010017","4080131","4080436","4090013","4090115","4090137","4910022"]
+      },
+      {
+        "desc1":"DOC-FPA0000056",
+        "desc2":"Kämpfer",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000056p.png?v=4a694fdab2a819596fa244b624de3feb201d8058",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000056.png?v=88ab742e4cf842d1ef522bdf7303076c56947099",
+        "dwg":"../globalassets/media/sections/wicona/dwg/wl75fp_ei60_ks.dwg?v=51c842d3b9da6a86e62a171941c8e50fc18c1ca2",
+        "tags":["1010592","3090242","4070448","4010017","4080131","4080436","4090013","4090116","4090138","4910022"]
+      },
+      {
+        "desc1":"DOC-FPA0000057",
+        "desc2":"Blendrahmen mit Aufdoppelung",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000057p.png?v=5f002a4d59c258dd8e384a42b8f5fc33f9c30b5d",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000057.png?v=3990666674b7caade69045325854a249ed39e075",
+        "dwg":"../globalassets/media/sections/wicona/dwg/wl75fp_ei60_ks.dwg?v=51c842d3b9da6a86e62a171941c8e50fc18c1ca2",
+        "tags":["1311073","1917060","3090242","4070448","4010017","4010047","4080131","4080202","4080436","4090012","4090015","4090122","4090137","4090137","4090190","4910022"]
+      },
+      {
+        "desc1":"DOC-FPA0000058",
+        "desc2":"Kämpfer mit öffenbarem EI30-Flügel",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000058p.png?v=d35dd37c4ac48c873e29ac35f4e01a9f75ce0124",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000058.png?v=8c3e9d43ee6bab50753ffba828e22535eaa97794",
+        "dwg":"../globalassets/media/sections/wicona/dwg/wl75fp_ei60_ks.dwg?v=51c842d3b9da6a86e62a171941c8e50fc18c1ca2",
+        "tags":["1910146","1910175","3090242","3991007","4020006","4070448","4010017","4010045","4080131","4080403","4080436","4090112","4090013","4090115","4090121","4090137","4910016","4910022"]
+      }
+    ]
+  },
+  "style":{"background":false}
+}

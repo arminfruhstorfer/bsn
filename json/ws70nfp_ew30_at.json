@@ -1,0 +1,116 @@
+﻿{
+  "subnavigation":[
+    {
+      "label":"Planung",
+      "icon":"fa fa-desktop",
+      "links":[
+        {"text":"Ausschreibungstexte","link":"ws70nfp_ew30_at", "active":true},
+        {"text":"Füllungen & Größen","link":"ws70nfp_ew30_fg"}
+      ]
+    },
+    {
+      "label":"CAD-Unterstützung",
+      "icon":"fa fa-usb",
+      "links":[
+        {"text":"Konstruktionsschnitte","link":"ws70nfp_ew30_ks"},
+        {"text":"Profilkonturen (.dwg)","link":"ws70nfp_ew30_pk"},
+        {"text":"Vorschläge Bauanschlüsse","link":"ws70nfp_ew30_ba"}
+      ]
+    },
+    {
+      "label":"Dokumentation",
+      "icon":"fa fa-book",
+      "links":[
+        {"text":"Montageanleitung ÜA","link":"ws70nfp_ew30_ma"},
+        {"text":"Programmliste & Verarbeitung","link":"ws70nfp_ew30_pv"}
+      ]
+    }
+  ],
+  "content":{
+    "text":[
+      {
+        "tagtype":"h3",
+        "text":[
+          {"line":"WICSTYLE 70NFP EW30-C Alu-Feuerschutztüre ungedämmt BT 70 mm"},
+          {"line":"(Technische Spezifikation)"}
+        ]
+      },
+      {
+        "tagtype":"p",
+        "text":[
+          {"line":"Gegenstand der Ausschreibung sind Herstellung, Lieferung und Einbau von ungedämmten Aluminiumtüren als Feuerschutzabschlüsse EW30-C ÖNORM EN 1634 Teil 1, ein- und zweiflügelige Drehtüren sowie Kombinationen mit Festverglasungen EW30."}
+        ]
+      },
+      {
+        "tagtype":"h3",
+        "text":[
+          {"line":"Bindend zu erfüllen sind folgende technische Anforderungen:"},
+          {"line":"Profiltechnik"}
+        ]
+      },
+      {
+        "tagtype":"p",
+        "text":[
+          {"line":"Einkammerhohlprofile ohne Wärmedämmung Grundbautiefe 70 mm"},
+          {"line":"Äußere Anschlagstege 25 mm hoch"},
+          {"line":"Schattennuten zwischen Rahmen- und Flügelprofilen in der Ansicht 6 mm breit"},
+          {"line":"Profilquerschnitte sind nach günstigstem Verhältnis von Profilgewicht zu statischer Tragfähigkeit und Formstabilität bemessen."},
+          {"line":"Hauptansichtsbreiten außen:"},
+          {"line":"Rahmenprofile: 67 und 89 mm"},
+          {"line":"Kämpferprofile: 92 mm"},
+          {"line":"Flügelprofile 70 bzw. 95 mm"},
+          {"line":"Zusätzliche, in das System integrierte Profile:"},
+          {"line":"Aufsatzprofile entsprechend den Öffnungsarten"},
+          {"line":"Stützen nach außen verstärkt"},
+          {"line":"Geteilte Profile zur Aufnahme von Konstruktionsdehnfugen"}
+        ]
+      },
+      {
+        "tagtype":"h3",
+        "text":[
+          {"line":"Füllungen"}
+        ]
+      },
+      {
+        "tagtype":"p",
+        "text":[
+          {"line":"von 2 bis 34 mm Füllungsdicke"},
+          {"line":"Standardglasleisten 13-45 mm breit, ab 19 mm als Hohlprofile, 18 mm hoch, schraubenlos in Nuten der Rahmen- und Flügelprofile einhakend"}
+        ]
+      },
+      {
+        "tagtype":"h3",
+        "text":[
+          {"line":"Dichtungssysteme"}
+        ]
+      },
+      {
+        "tagtype":"p",
+        "text":[
+          {"line":"umlaufende innere und äußere Verglasungsdichtungen aus Neoprene, oben in Feldmitte gestoßen, Türanschlagdichtung umlaufend, aus Neoprene; innere Verglasungsdichtungen 5-7 mm, äußere Verglasungsdichtung 4 mm"}
+        ]
+      },
+      {
+        "tagtype":"h3",
+        "text":[
+          {"line":"Beschlag"}
+        ]
+      },
+      {
+        "tagtype":"p",
+        "text":[
+          {"line":"Es werden grundsätzlich nur die zum angebotenen Profilsystem gehörigen Systembeschläge verwendet."},
+          {"line":"Grundbeschläge werden entsprechend Flügelgröße durch Zusatzteile komplettiert."},
+          {"line":"Bodendichtung, automatischem Höhenausgleich und gesichertem Andruck eines Silikonprofils gegen den Boden."},
+          {"line":"Öffnungsarten Türen:"},
+          {"line":"Anschlagtüren ein- und zweiflügelig, nach innen und außen öffnend"},
+          {"line":"Paniktüren nach EN 179 und EN 1125"},
+          {"line":"Kombinierbarkeit:"},
+          {"line":"Einbau in Aluminium-Pfosten/Riegel-Fassaden WICTEC 50FP und WICTEC 60FP wie im Leistungsbeschrieb festgehalten."},
+          {"line":"Über die Bauart der angebotenen Türen wird ein gültiges Prüfzeugnis einer staatlich autorisierten Prüfanstalt vorgelegt."}
+        ]
+      }
+    ]
+  },
+  "style":{"background":false}
+}

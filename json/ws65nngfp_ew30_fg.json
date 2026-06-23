@@ -1,0 +1,41 @@
+﻿{
+  "subnavigation":[
+    {
+      "label":"Planung",
+      "icon":"fa fa-desktop",
+      "links":[
+        {"text":"Füllungen & Größen","link":"ws65nngfp_ew30_fg", "active":true},
+        {"text":"Systemdatenblatt","link":"ws65nngfp_ew30_sd"}
+      ]
+    },
+    {
+      "label":"CAD-Unterstützung",
+      "icon":"fa fa-usb",
+      "links":[
+        {"text":"Konstruktionsschnitte","link":"ws65nngfp_ew30_ks"},
+        {"text":"Profilkonturen (.dwg)","link":"ws65nngfp_ew30_pk"},
+        {"text":"Vorschläge Bauanschlüsse","link":"ws65nngfp_ew30_ba"}
+      ]
+    },
+    {
+      "label":"Dokumentation",
+      "icon":"fa fa-book",
+      "links":[
+        {"text":"Montageanleitung","link":"ws65nngfp_ew30_ma"},
+        {"text":"Programm & Verarbeitung","link":"ws65nngfp_ew30_pv"}
+      ]
+    }
+  ],
+  "content":{
+    "list":[
+
+      {
+        "desc1":"Füllungen & Größen",
+        "pimg":"../globalassets/media/items/wicona/png/ws65nngfp_ew30_fg.png?v=227cd7c9c69c72c7614e58849852e5300a11e3af",
+        "pdf":"../globalassets/media/items/wicona/pdf/ws65nngfp_ew30_fg.pdf?v=30b303ca372c1c497c145661091dc82e7363a921",
+        "ebook":"../ebook.html?d=097973"
+      }
+    ]
+  },
+  "style":{"background":false}
+}

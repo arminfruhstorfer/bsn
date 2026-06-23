@@ -1,0 +1,48 @@
+﻿{
+  "subnavigation":[
+    {
+      "label":"Planung",
+      "icon":"fa fa-desktop",
+      "links":[
+        {"text":"Ausschreibungstexte","link":"wl75fp_ew30_at"},
+        {"text":"Füllungen & Größen","link":"wl75fp_ew30_fg"},
+        {"text":"Systemdatenblatt","link":"wl75fp_ew30_sd"}
+      ]
+    },
+    {
+      "label":"CAD-Unterstützung",
+      "icon":"fa fa-usb",
+      "links":[
+        {"text":"Konstruktionsschnitte","link":"wl75fp_ew30_ks"},
+        {"text":"Profilkonturen (.dwg)","link":"wl75fp_ew30_pk"},
+        {"text":"Vorschläge Bauanschlüsse","link":"wl75fp_ew30_ba"}
+      ]
+    },
+    {
+      "label":"Dokumentation",
+      "icon":"fa fa-book",
+      "links":[
+        {"text":"Montageanleitung","link":"wl75fp_ew30_ma"},
+        {"text":"Programm & Verarbeitung","link":"wl75fp_ew30_pv", "active":true}
+      ]
+    }
+  ],
+  "content":{
+    "list":[
+
+      {
+        "desc1":"Programmliste",
+        "pimg":"../globalassets/media/items/wicona/png/wl75fp_ei30_pl.png?v=71e20a2530ad53927b5d760edb6aa6385b33a848",
+        "pdf":"../globalassets/media/items/wicona/pdf/wl75fp_ew30_pl.pdf?v=3b023f427907519938ba4c569855c86c74eb7d80",
+        "ebook":"../ebook.html?d=468700"
+      },
+      {
+        "desc1":"Verarbeitungsrichtlinien",
+        "pimg":"../globalassets/media/items/wicona/png/wl75fp_ei30_pl.png?v=71e20a2530ad53927b5d760edb6aa6385b33a848",
+        "pdf":"../globalassets/media/items/wicona/pdf/wl75fp_ew30_va.pdf?v=2515274a7dca88042096a82b472fb41df58a6ede",
+        "ebook":"../ebook.html?d=298165"
+      }
+    ]
+  },
+  "style":{"background":false}
+}

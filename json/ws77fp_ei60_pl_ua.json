@@ -1,0 +1,57 @@
+﻿{
+  "subnavigation":[
+    {
+      "label":"Planung",
+      "icon":"fa fa-desktop",
+      "links":[
+        {"text":"Ausschreibungstexte","link":"ws77fp_ei60_at"},
+        {"text":"Füllungen & Größen CE","link":"ws77fp_ei60_fg_ce"},
+        {"text":"Füllungen & Größen ÜA","link":"ws77fp_ei60_fg_ua"},
+        {"text":"Systemdatenblatt","link":"ws77fp_ei60_sd"}
+      ]
+    },
+    {
+      "label":"CAD-Unterstützung",
+      "icon":"fa fa-usb",
+      "links":[
+        {"text":"Konstruktionsschnitte","link":"ws77fp_ei60_ks"},
+        {"text":"Profilkonturen (.dwg)","link":"ws77fp_ei60_pk"},
+        {"text":"Vorschläge Bauanschlüsse","link":"ws77fp_ei60_ba"}
+      ]
+    },
+    {
+      "label":"Dokumentation",
+      "icon":"fa fa-book",
+      "links":[
+        {"text":"Dokumentation CE","link":"ws77fp_ei60_do_ce"},
+        {"text":"Montageanleitung ÜA","link":"ws77fp_ei60_ma_ua"},
+        {"text":"Programm ÜA","link":"ws77fp_ei60_pl_ua", "active":true},
+        {"text":"Verarbeitung","link":"ws77fp_ei60_vr"}
+      ]
+    }
+  ],
+  "content":{
+    "list":[
+
+      {
+        "desc1":"Programmliste",
+        "pimg":"../globalassets/media/items/wicona/png/ws77fp_ei30_pl.png?v=d4d64cc6825c2c56ba1edceb9fd6ab2d2840aa26",
+        "pdf":"../globalassets/media/items/wicona/pdf/ws77fp_ei60_pl.pdf?v=624f008074639125b5ca7a740e85ad6dceb8732e",
+        "ebook":"../ebook.html?d=160441"
+      },
+      {
+        "desc1":"Beschläge",
+        "pimg":"../globalassets/media/items/wicona/png/ws77fp_ei30_bs.png?v=d2d359fb55b352d4dabab5c30c1b52869fc30c8d",
+        "pdf":"../globalassets/media/items/wicona/pdf/ws77fp_ei60_bs.pdf?v=15cd1570ef5e18ed501fd3408e363efbd484ab4b",
+        "ebook":"../ebook.html?d=162821"
+      },
+      {
+        "desc1":"Beschlagsergänzungen",
+        "pimg":"../globalassets/media/items/wicona/png/ws77fp_ei30_be.png?v=ff1cd80d2b82ac4c7b8dd8eb9c71120e79372420",
+        "pdf":"../globalassets/media/items/wicona/pdf/ws77fp_ei60_be.pdf?v=4b20b5aa1f65979b8793beb6dc10805a4d3158e0",
+        "ebook":"../ebook.html?d=646587"
+      }
+    ]
+  },
+  "style":{"background":false}
+}

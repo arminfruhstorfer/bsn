@@ -1,0 +1,65 @@
+﻿{
+  "subnavigation":[
+    {
+      "label":"Planung",
+      "icon":"fa fa-desktop",
+      "links":[
+        {"text":"Füllungen & Größen","link":"ws65nngfp_ew30_fg"},
+        {"text":"Systemdatenblatt","link":"ws65nngfp_ew30_sd"}
+      ]
+    },
+    {
+      "label":"CAD-Unterstützung",
+      "icon":"fa fa-usb",
+      "links":[
+        {"text":"Konstruktionsschnitte","link":"ws65nngfp_ew30_ks"},
+        {"text":"Profilkonturen (.dwg)","link":"ws65nngfp_ew30_pk"},
+        {"text":"Vorschläge Bauanschlüsse","link":"ws65nngfp_ew30_ba"}
+      ]
+    },
+    {
+      "label":"Dokumentation",
+      "icon":"fa fa-book",
+      "links":[
+        {"text":"Montageanleitung","link":"ws65nngfp_ew30_ma"},
+        {"text":"Programm & Verarbeitung","link":"ws65nngfp_ew30_pv", "active":true}
+      ]
+    }
+  ],
+  "content":{
+    "list":[
+
+      {
+        "desc1":"Programmliste",
+        "pimg":"../globalassets/media/items/wicona/png/ws65nngfp_e30_pl.png?v=eaee84b26f0d3c8edb785ad31f237707092729fd",
+        "pdf":"../globalassets/media/items/wicona/pdf/ws65nngfp_ew30_pl.pdf?v=b8d9d961219099c69a7fa7dae68d732c288f81e5",
+        "ebook":"../ebook.html?d=543360"
+      },
+      {
+        "desc1":"Verarbeitungsrichtlinien",
+        "pimg":"../globalassets/media/items/wicona/png/ws65nngfp_e30_va.png?v=61689642fd93f4b18ed8d5f8f3a6ac3a1471afb2",
+        "pdf":"../globalassets/media/items/wicona/pdf/ws65nngfp_e30_va.pdf?v=a0783440d92939d3c00d8a68c1b1c6b007c3d0c9",
+        "ebook":"../ebook.html?d=428456"
+      },
+      {
+        "desc1":"Systemdatenblatt",
+        "pimg":"../globalassets/media/items/wicona/png/ws65nngfp_sd.png?v=fa674adfe4913f737315d7a59b344a5257d5a979",
+        "pdf":"../globalassets/media/items/wicona/pdf/ws65nngfp_sd.pdf?v=80c627c9b6f071c0f408dd29939acdb69d764206",
+        "ebook":"../ebook.html?d=916163"
+      },
+      {
+        "desc1":"Zubehör",
+        "pimg":"../globalassets/media/items/wicona/png/ws65nngfp_ew30_zb.png?v=48381985345c97d3c881b2e0e897f52f67acd56d",
+        "pdf":"../globalassets/media/items/wicona/pdf/ws65nngfp_ew30_zb.pdf?v=d626d4ac001109cf51253d1eddd996e3f23288b0",
+        "ebook":"../ebook.html?d=462980"
+      },
+      {
+        "desc1":"Werkzeuge",
+        "pimg":"../globalassets/media/items/wicona/png/ws65nngfp_ew30_wz.png?v=cffe94d4f7f4fa445045c2815f6e62e4ef62df76",
+        "pdf":"../globalassets/media/items/wicona/pdf/ws65nngfp_ew30_wz.pdf?v=3b1030031436be0dc2ef9fa4b51e7c783b1705e3",
+        "ebook":"../ebook.html?d=353472"
+      }
+    ]
+  },
+  "style":{"background":false}
+}

@@ -1,0 +1,77 @@
+﻿{
+  "subnavigation":[
+    {
+      "label":"Planung",
+      "icon":"fa fa-desktop",
+      "links":[
+        {"text":"Füllungen & Größen","link":"el52fr_ew30_fg"}
+      ]
+    },
+    {
+      "label":"CAD-Unterstützung",
+      "icon":"fa fa-usb",
+      "links":[
+        {"text":"Konstruktionsschnitte","link":"el52fr_ew30_ks"},
+        {"text":"Profilkonturen (.dwg)","link":"el52fr_ew30_pk"},
+        {"text":"Vorschläge Bauanschlüsse","link":"el52fr_ew30_ba", "active":true}
+      ]
+    },
+    {
+      "label":"Dokumentation",
+      "icon":"fa fa-book",
+      "links":[
+        {"text":"Programm & Verarbeitung","link":"el52fr_ew30_pv"}
+      ]
+    }
+  ],
+  "content":{
+    "list":[
+      {
+        "desc1":"DOC-FPAS000007",
+        "desc2":"Bauanschluss",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/sapa/png/DOC-FPAS000007p.png?v=da906defd5bac6843d1f3eca421520a6a6f43827",
+        "img":"../globalassets/media/sections/sapa/png/DOC-FPAS000007.png?v=abc1fbd8cb40053b19b4080c67b9d101cc6df34f",
+        "dwg":"../globalassets/media/sections/sapa/dwg/el52fr_sections_junctions.dwg?v=94d6b523e0bd221d44d31b229f07cdd50ea2044c",
+        "tags":["S52T62","SCO5008","SPV002","S52P10","SSCM642"," S52R025","S52R220","SBT0006","S82K216"]
+      },
+      {
+        "desc1":"DOC-FPAS000008",
+        "desc2":"Bauanschluss",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/sapa/png/DOC-FPAS000008p.png?v=3923193711bd11b5a8a495b10dbb8a6e8e7a9dd1",
+        "img":"../globalassets/media/sections/sapa/png/DOC-FPAS000008.png?v=b02be9f1d17ca43562e4d57d5ac5fbe8850735cb",
+        "dwg":"../globalassets/media/sections/sapa/dwg/el52fr_sections_junctions.dwg?v=94d6b523e0bd221d44d31b229f07cdd50ea2044c",
+        "tags":["S52T62","SCO5008","SPV002","S52P10","SSCM642"," S52R025","S52R220","SBT0006","S82K216"]
+      },
+      {
+        "desc1":"DOC-FPAS000009",
+        "desc2":"Bauanschluss",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/sapa/png/DOC-FPAS000009p.png?v=48c0dfe7e25cbb074954674dfaadd6014ea31759",
+        "img":"../globalassets/media/sections/sapa/png/DOC-FPAS000009.png?v=9a0c75453a470edce7179c9eda61c1658354ca9b",
+        "dwg":"../globalassets/media/sections/sapa/dwg/el52fr_sections_junctions.dwg?v=94d6b523e0bd221d44d31b229f07cdd50ea2044c",
+        "tags":["S52T62","SCO5008","SPV002","S52P10","SSCM642"," S52R025","S52R220","SBT0006","S82K216"]
+      },
+      {
+        "desc1":"DOC-FPAS000010",
+        "desc2":"Bauanschluss",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/sapa/png/DOC-FPAS000010p.png?v=fe319d3c0d2e8e03b696be7752d2db00d181fdcf",
+        "img":"../globalassets/media/sections/sapa/png/DOC-FPAS000010.png?v=b3fffed84ea81d8bd7cd74e1da41462d1841b654",
+        "dwg":"../globalassets/media/sections/sapa/dwg/el52fr_sections_junctions.dwg?v=94d6b523e0bd221d44d31b229f07cdd50ea2044c",
+        "tags":["S52T62","SCO5008","SPV002","S52P10","SSCM642"," S52R025","S52R220","SBT0006","S82K216"]
+      },
+      {
+        "desc1":"DOC-FPAS000011",
+        "desc2":"Bauanschluss",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/sapa/png/DOC-FPAS000011p.png?v=5fcf09a7d5e6d4df0993cd3c5f856fa0f286e891",
+        "img":"../globalassets/media/sections/sapa/png/DOC-FPAS000011.png?v=5d94e9a2af98d8752b7e87ae37459239b1e0d876",
+        "dwg":"../globalassets/media/sections/sapa/dwg/el52fr_sections_junctions.dwg?v=94d6b523e0bd221d44d31b229f07cdd50ea2044c",
+        "tags":["S52T62","SCO5008","SPV002","S52P10","SSCM642"," S52R025","S52R220","SBT0006","S82K216"]
+      }
+    ]
+  },
+  "style":{"background":false}
+}

@@ -1,0 +1,390 @@
+﻿{
+  "subnavigation":[
+    {
+      "label":"Planung",
+      "icon":"fa fa-desktop",
+      "links":[
+        {"text":"Ausschreibungstexte","link":"wl75fp_ew30_at"},
+        {"text":"Füllungen & Größen","link":"wl75fp_ew30_fg"},
+        {"text":"Systemdatenblatt","link":"wl75fp_ew30_sd"}
+      ]
+    },
+    {
+      "label":"CAD-Unterstützung",
+      "icon":"fa fa-usb",
+      "links":[
+        {"text":"Konstruktionsschnitte","link":"wl75fp_ew30_ks"},
+        {"text":"Profilkonturen (.dwg)","link":"wl75fp_ew30_pk", "active":true},
+        {"text":"Vorschläge Bauanschlüsse","link":"wl75fp_ew30_ba"}
+      ]
+    },
+    {
+      "label":"Dokumentation",
+      "icon":"fa fa-book",
+      "links":[
+        {"text":"Montageanleitung","link":"wl75fp_ew30_ma"},
+        {"text":"Programm & Verarbeitung","link":"wl75fp_ew30_pv"}
+      ]
+    }
+  ],
+  "content":{
+    "list":[
+
+      {
+        "desc1":"1010557",
+        "desc2":"Bauanschlussprofil 40/40/59,1 mm",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/wicona/png/1010557p.png?v=15319f6a871255e6cbb5c2b05d5f766ba0d3e1bd",
+        "img":"../globalassets/media/items/wicona/png/1010557.png?v=27812b979d01f49f034057786fcd488b6b565fb7",
+        "dwg":"../globalassets/media/items/wicona/dwg/w1010557-idr.dwg?v=5e88f9eceb2a1a35ed2aa944e7687341ef8b8497"
+      },
+      {
+        "desc1":"1311073",
+        "desc2":"Blendrahmen 40/65/75 mm",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/wicona/png/1311073p.png?v=236df24e31cc7a8c881da9cf62d0203e99c4743a",
+        "img":"../globalassets/media/items/wicona/png/1311073.png?v=c59b6a7c43d3151e1ff4906cc07b17ef3efff3f1",
+        "dwg":"https://www.wictip.com/globalassets/media/items/wicona/dwg/W1311073-IDR.dwg?trackId=1311073_item_DWG"
+      },
+      {
+        "desc1":"1910148",
+        "desc2":"Blendrahmen 50/75/75 mm",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/wicona/png/1910148p.png?v=d9823aff490ea81ae1e1c8b09c8af1df2ddd9a58",
+        "img":"../globalassets/media/items/wicona/png/1910148.png?v=37da15ef40e2319b3628de9e6d9abe64de4571c6",
+        "dwg":"../globalassets/media/items/wicona/dwg/w1910148-idr.dwg?v=26a2c8810deb789f6427757c8793c7785c5a6165"
+      },
+      {
+        "desc1":"1910146",
+        "desc2":"Flügelprofil Überschlag 65/51/85 mm",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/wicona/png/1910146p.png?v=7dba3b9f9db1ef6ec9afa4d66217f43d11949d26",
+        "img":"../globalassets/media/items/wicona/png/1910146.png?v=a7681f50100fcc75428416713b33e7176e8c4d10",
+        "dwg":"../globalassets/media/items/wicona/dwg/w1910146-idr.dwg?v=c5c29d8460621d24c6bc9f48c829da2f4fc6e573"
+      },
+      {
+        "desc1":"1910147",
+        "desc2":"Flügelprofil Überschlag 75/61/85 mm",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/wicona/png/1910147p.png?v=2979ff47b25dd30a7ac481f8112d34555534c176",
+        "img":"../globalassets/media/items/wicona/png/1910147.png?v=64969175269265efbb8fd501db176d91831ba6f9",
+        "dwg":"../globalassets/media/items/wicona/dwg/w1910147-idr.dwg?v=99a33709341fd6a4d499673333edfe5e1b7e8d1c"
+      },
+      {
+        "desc1":"1917115",
+        "desc2":"Flügelprofil Überschlag 85/71/85 mm",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/wicona/png/1917115p.png?v=5cc4931e5afe49c77ee840358db73d03fbb4c7f9",
+        "img":"../globalassets/media/items/wicona/png/1917115.png?v=9b8c1d6d223c4d6005b626bc059aeb5e9e8b2283",
+        "dwg":"../globalassets/media/items/wicona/dwg/w1917115-idr.dwg?v=77d6f15362796ef0af8f90beef1841a51e21d570"
+      },
+      {
+        "desc1":"1910175",
+        "desc2":"Kämpfer/Sprosse 40/90/74,8 mm",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/wicona/png/1910175p.png?v=8d553e3e7c0fb31465e42049e07458be46e327f7",
+        "img":"../globalassets/media/items/wicona/png/1910175.png?v=cad967e02ea67d430401feea1a7ae064a6aa2b39",
+        "dwg":"https://www.wictip.com/globalassets/media/items/wicona/dwg/W1910175-IDR.dwg?trackId=1910175_item_DWG"
+      },
+      {
+        "desc1":"1910149",
+        "desc2":"Kämpfer/Sprosse 50/100/74,8 mm",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/wicona/png/1910149p.png?v=c74c1208083c8fd6ab1849cd9faea68194bfeb62",
+        "img":"../globalassets/media/items/wicona/png/1910149.png?v=f04882d041a34aef36c1c73b2a672ced1936d5a2",
+        "dwg":"../globalassets/media/items/wicona/dwg/w1910149-idr.dwg?v=f126c4e62d72894b40be17c96931d650df9e7587"
+      },
+      {
+        "desc1":"1917206",
+        "desc2":"Kämpfer/Sprosse 60/110/74,8 mm",
+        "tags":["article","profile"],
+        "pimg":"../globalassets/media/items/wicona/png/1917206p.png?v=72200fc17457a522979610db07afe726cd8c6b98",
+        "img":"../globalassets/media/items/wicona/png/1917206.png?v=e221a09fbb98babf33b28978c03319f211b99899",
+        "dwg":"../globalassets/media/items/wicona/dwg/w1917206-idr.dwg?v=37c6c24cef70be1764f5e384c67f6dc2a252407b"
+      },
+      {
+        "desc1":"3091041",
+        "desc2":"Verstärkungsprofil 25/70 mm",
+        "tags":["article","addprofile"],
+        "pimg":"../globalassets/media/items/wicona/png/3091041p.png?v=70493504c77836e507a549191fa8d6597a40df32",
+        "img":"../globalassets/media/items/wicona/png/3091041.png?v=b2069febb1659b3823d9f2da7d84468f93160754",
+        "dwg":"../globalassets/media/items/wicona/dwg/w3091041-idr.dwg?v=6c202312ad6f965c1115d103014a2989391da0fe"
+      },
+      {
+        "desc1":"3091042",
+        "desc2":"Abdeckprofil für Verstärkung 19/20,5 mm",
+        "tags":["article","addprofile"],
+        "pimg":"../globalassets/media/items/wicona/png/3091042p.png?v=aa3389b8e0b2d4732cc29453988826d6331cb905",
+        "img":"../globalassets/media/items/wicona/png/3091042.png?v=0a2d95862234d8bd9c5ec88bdba0dd7c64113a53",
+        "dwg":"../globalassets/media/items/wicona/dwg/w3091042-idr.dwg?v=31b1e0df39d28eae027b42251555cf89b6983022"
+      },
+      {
+        "desc1":"3091058",
+        "desc2":"Verstärkungsprofil 36/70 mm",
+        "tags":["article","addprofile"],
+        "pimg":"../globalassets/media/items/wicona/png/3091058p.png?v=b7e7f8a48d05fe83693be53c33bb1726cb389eed",
+        "img":"../globalassets/media/items/wicona/png/3091058.png?v=4c70e87db4d86db99f1989ab6d08c44436263e5f",
+        "dwg":"../globalassets/media/items/wicona/dwg/w3091058-idr.dwg?v=27a4fe8206a3ff708e24ef2b9cc066249ccb53a4"
+      },
+      {
+        "desc1":"3091059",
+        "desc2":"Abdeckprofil für Verstärkung 30/20,5 mm",
+        "tags":["article","addprofile"],
+        "pimg":"../globalassets/media/items/wicona/png/3091059p.png?v=47b0d2cb96eaa32589b112538c2595e4843f1d93",
+        "img":"../globalassets/media/items/wicona/png/3091059.png?v=828561342c183d6afdac49fc494195e6a0bf5783",
+        "dwg":"../globalassets/media/items/wicona/dwg/w3091059-idr.dwg?v=cf25b73651bdb74219476c46ac6a40fb8b7ea476"
+      },
+      {
+        "desc1":"3090194",
+        "desc2":"Verstärkungsprofil 45/80 mm",
+        "tags":["article","addprofile"],
+        "pimg":"../globalassets/media/items/wicona/png/3090194p.png?v=9dd9921f20f91c9a9505cb63636f771197188130",
+        "img":"../globalassets/media/items/wicona/png/3090194.png?v=c2bfb372592373577eaeb0597b15794f5f321261",
+        "dwg":"../globalassets/media/items/wicona/dwg/w3090194-idr.dwg?v=c1ed6a1ae48fefe9ec072d98a9f254d5c0e31199"
+      },
+      {
+        "desc1":"3090193",
+        "desc2":"Abdeckprofil 45/11,4 mm",
+        "tags":["article","addprofile"],
+        "pimg":"../globalassets/media/items/wicona/png/3090193p.png?v=1aa24a61e7dd5c6234d86e8c5418cd3ab8534f9e",
+        "img":"../globalassets/media/items/wicona/png/3090193.png?v=ab577ff3ff9d4f43223bdc6a1b28a2c32ab74cbe",
+        "dwg":"../globalassets/media/items/wicona/dwg/w3090193-idr.dwg?v=d4ef4fba6e03fcbdf00c701d5cbb6a9146789f29"
+      },
+      {
+        "desc1":"3991001",
+        "desc2":"Glasleiste 2/22 mm",
+        "tags":["article","glazingbead"],
+        "pimg":"../globalassets/media/items/wicona/png/3991001p.png?v=b5ea37977fc9abfff2cce0b00124b72a4f0e9a51",
+        "img":"../globalassets/media/items/wicona/png/3991001.png?v=98f26027f6e1419e5541073322afa49a127b133e",
+        "dwg":"../globalassets/media/items/wicona/dwg/w3991001-idr.dwg?v=ca98915a95bf75aae6ea6ad61829352f7a8ed24e"
+      },
+      {
+        "desc1":"3991002",
+        "desc2":"Glasleiste 5/22 mm",
+        "tags":["article","glazingbead"],
+        "pimg":"../globalassets/media/items/wicona/png/3991002p.png?v=347dfe5acc65557632bb3754570e5dd8d34dcab9",
+        "img":"../globalassets/media/items/wicona/png/3991002.png?v=f8121b0152c297acf9b20b9a569264bd90089b1a",
+        "dwg":"../globalassets/media/items/wicona/dwg/w3991002-idr.dwg?v=2c7911043c470295c82e56eaca585324883d9cdf"
+      },
+      {
+        "desc1":"3991003",
+        "desc2":"Glasleiste 9/22 mm",
+        "tags":["article","glazingbead"],
+        "pimg":"../globalassets/media/items/wicona/png/3991003p.png?v=65dd8f900624a7957e3141565823385a0f338f54",
+        "img":"../globalassets/media/items/wicona/png/3991003.png?v=163fc4c275f25681215e8c87f529343a42c1894b",
+        "dwg":"../globalassets/media/items/wicona/dwg/w3991003-idr.dwg?v=15c7fd884d2fc7f3bf5c5d87a562ae9af6c1a211"
+      },
+      {
+        "desc1":"3991004",
+        "desc2":"Glasleiste 12/22 mm",
+        "tags":["article","glazingbead"],
+        "pimg":"../globalassets/media/items/wicona/png/3991004p.png?v=7e5aa6b9ae2430390118f56f949a9d305c0ae546",
+        "img":"../globalassets/media/items/wicona/png/3991004.png?v=04a5885c7575fef3791037e2f6668966a8416f7e",
+        "dwg":"../globalassets/media/items/wicona/dwg/w3991004-idr.dwg?v=57fce5630597c447f3534ada5ab4b5449fa01f45"
+      },
+      {
+        "desc1":"3991005",
+        "desc2":"Glasleiste 15/22 mm",
+        "tags":["article","glazingbead"],
+        "pimg":"../globalassets/media/items/wicona/png/3991005p.png?v=b5d55578857f90c4ebd2421a97796e0f127deb27",
+        "img":"../globalassets/media/items/wicona/png/3991005.png?v=b3c3cba31948c89d9e2cb8175b855052c209ecdb",
+        "dwg":"../globalassets/media/items/wicona/dwg/w3991005-idr.dwg?v=262684d2c2d1483e22a399e8b2830fc87c70a87d"
+      },
+      {
+        "desc1":"3991006",
+        "desc2":"Glasleiste 19/22 mm",
+        "tags":["article","glazingbead"],
+        "pimg":"../globalassets/media/items/wicona/png/3991006p.png?v=5d8e8a84461e856485aa5b9d1efdb3baa3a859c9",
+        "img":"../globalassets/media/items/wicona/png/3991006.png?v=a4daae076beefd0c76cc86627f55fdb856b394f4",
+        "dwg":"../globalassets/media/items/wicona/dwg/w3991006-idr.dwg?v=6878c59d0fdbcb2630bae6282e53dbd3612bde35"
+      },
+      {
+        "desc1":"3991007",
+        "desc2":"Glasleiste 22/22 mm",
+        "tags":["article","glazingbead"],
+        "pimg":"../globalassets/media/items/wicona/png/3991007p.png?v=61d8e689b5316255a398c63bb3e9c2f7f70b543b",
+        "img":"../globalassets/media/items/wicona/png/3991007.png?v=d452c2cd91d9c3b0b02a8c0656426a2142f4285a",
+        "dwg":"../globalassets/media/items/wicona/dwg/w3991007-idr.dwg?v=6a6864d72928f246b48ba0073f45f9de217cd723"
+      },
+      {
+        "desc1":"3991008",
+        "desc2":"Glasleiste 24/22 mm",
+        "tags":["article","glazingbead"],
+        "pimg":"../globalassets/media/items/wicona/png/3991008p.png?v=f308c90e977ab6970555a34026fccf4ce7a58c99",
+        "img":"../globalassets/media/items/wicona/png/3991008.png?v=09eec039e91f006fd5c0303851bf260143075e64",
+        "dwg":"../globalassets/media/items/wicona/dwg/w3991008-idr.dwg?v=b8f37424f00e286e8f57f791a6c56be2d3cebc1b"
+      },
+      {
+        "desc1":"3991009",
+        "desc2":"Glasleiste 26/22 mm",
+        "tags":["article","glazingbead"],
+        "pimg":"../globalassets/media/items/wicona/png/3991009p.png?v=f09fc294e11ed94a6171c3d319337f17db799751",
+        "img":"../globalassets/media/items/wicona/png/3991009.png?v=31d4de0ec54005656d9aa15bf409425423159622",
+        "dwg":"../globalassets/media/items/wicona/dwg/w3991009-idr.dwg?v=22ea7ac3fd488113ddc2950ac6bb0e2b5d8402be"
+      },
+      {
+        "desc1":"3991010",
+        "desc2":"Glasleiste 29/22 mm",
+        "tags":["article","glazingbead"],
+        "pimg":"../globalassets/media/items/wicona/png/3991010p.png?v=b71945d08d42b13d0619e1c34bccc4d879c82d49",
+        "img":"../globalassets/media/items/wicona/png/3991010.png?v=8c5cb386c1aa07de5d2c2d97231239c9bd849d28",
+        "dwg":"../globalassets/media/items/wicona/dwg/w3991010-idr.dwg?v=9b18690abe18fa403f0bc0fea583b7fabb6bb9a4"
+      },
+      {
+        "desc1":"3991011",
+        "desc2":"Glasleiste 32/22 mm",
+        "tags":["article","glazingbead"],
+        "pimg":"../globalassets/media/items/wicona/png/3991011p.png?v=52f8e7dbd50dca5b2594660658d0bba2fe031994",
+        "img":"../globalassets/media/items/wicona/png/3991011.png?v=399124a908e8b548a82079806ae71492b432cae8",
+        "dwg":"../globalassets/media/items/wicona/dwg/w3991011-idr.dwg?v=d4489c20fa68bb7d4c1db41e8e22d48932b745a5"
+      },
+      {
+        "desc1":"3991012",
+        "desc2":"Glasleiste 34/22 mm",
+        "tags":["article","glazingbead"],
+        "pimg":"../globalassets/media/items/wicona/png/3991012p.png?v=4333781c5d84df5012d874d9cec7e686ab3e779c",
+        "img":"../globalassets/media/items/wicona/png/3991012.png?v=98a90b92bf3e9fe802214c60649933c86c13add0",
+        "dwg":"../globalassets/media/items/wicona/dwg/w3991012-idr.dwg?v=1a978661861198a01f406b55251cd94e0f1092ea"
+      },
+      {
+        "desc1":"3991013",
+        "desc2":"Glasleiste 37/22 mm",
+        "tags":["article","glazingbead"],
+        "pimg":"../globalassets/media/items/wicona/png/3991013p.png?v=a00b05bff8aefae87e9562be15ba1cd5f8374f86",
+        "img":"../globalassets/media/items/wicona/png/3991013.png?v=9cc066b970ea0b8ceaf03461d27c3a91c9a30da5",
+        "dwg":"../globalassets/media/items/wicona/dwg/w3991013-idr.dwg?v=c4a122cf7775028536403dab5402091e24c3a60b"
+      },
+      {
+        "desc1":"3991014",
+        "desc2":"Glasleiste 41/22 mm",
+        "tags":["article","glazingbead"],
+        "pimg":"../globalassets/media/items/wicona/png/3991014p.png?v=d4bfc9615125f6194c0d440b2e5c5c3d41a035ff",
+        "img":"../globalassets/media/items/wicona/png/3991014.png?v=b4fb9613ab3eae9e70c5d85418d7550be032b1b9",
+        "dwg":"../globalassets/media/items/wicona/dwg/w3991014-idr.dwg?v=83a0079895a58def8fa802619c586c47bc82cca5"
+      },
+      {
+        "desc1":"3991015",
+        "desc2":"Glasleiste 45/22 mm",
+        "tags":["article","glazingbead"],
+        "pimg":"../globalassets/media/items/wicona/png/3991015p.png?v=17fc86475f54d17e22e24ef23e5b11ef3939b9d8",
+        "img":"../globalassets/media/items/wicona/png/3991015.png?v=feec64e4b7604d499102feb1696a043212046a76",
+        "dwg":"../globalassets/media/items/wicona/dwg/w3991015-idr.dwg?v=c76fb525fbe4b65c3c2b011fc0533f085bc45138"
+      },
+      {
+        "desc1":"3991016",
+        "desc2":"Glasleiste 49/22 mm",
+        "tags":["article","glazingbead"],
+        "pimg":"../globalassets/media/items/wicona/png/3991016p.png?v=69fe987796e501a3f76773dad361c2f43e3bb588",
+        "img":"../globalassets/media/items/wicona/png/3991016.png?v=eb23fb2091c6f3b674cfd322df224cf90e85047b",
+        "dwg":"../globalassets/media/items/wicona/dwg/w3991016-idr.dwg?v=7973592d9e6525fb7cf3caecfdea861b6e214f2f"
+      },
+      {
+        "desc1":"3991017",
+        "desc2":"Glasleiste 52/22 mm",
+        "tags":["article","glazingbead"],
+        "pimg":"../globalassets/media/items/wicona/png/3991017p.png?v=74efc078c5522a5fa94cdb4574f7aa4a635d430e",
+        "img":"../globalassets/media/items/wicona/png/3991017.png?v=a53eac115bb0450f14c97ae3a3872301c0f5119b",
+        "dwg":"../globalassets/media/items/wicona/dwg/w3991017-idr.dwg?v=b7595536327c371c0f35688fad918a14c41b5f0a"
+      },
+      {
+        "desc1":"4090111",
+        "desc2":"Brandschutzstreifen 41/25, Länge = 1245 mm",
+        "tags":["article","fparticle"],
+        "pimg":"../globalassets/media/items/wicona/png/4090111p.png?v=cbbd1faf3a3ce7c6778e4db53cb170e2dcb44f8e",
+        "img":"../globalassets/media/items/wicona/png/4090111.png?v=368dbb6b647efe9af192c31b253470be5c302d26",
+        "dwg":"../globalassets/media/items/wicona/dwg/wi4090111.dwg?v=105613a6c86ad935577538c4629464bb52404284"
+      },
+      {
+        "desc1":"4090112",
+        "desc2":"Brandschutzdämmstreifen 30/20, Länge = 1200 mm",
+        "tags":["article","fparticle"],
+        "pimg":"../globalassets/media/items/wicona/png/4090112p.png?v=bc23dcee451a0f03ff5aa6c564ea6c5affdd98d9",
+        "img":"../globalassets/media/items/wicona/png/4090112.png?v=cb219520a3df3451e17a76bfc88b32f8846cba8e",
+        "dwg":"../globalassets/media/items/wicona/dwg/wi4090112.dwg?v=df71d90f64e099cca7737f84e7b76fc482245189"
+      },
+      {
+        "desc1":"4090113",
+        "desc2":"Brandschutzdämmstreifen 30/30, Länge = 1200 mm",
+        "tags":["article","fparticle"],
+        "pimg":"../globalassets/media/items/wicona/png/4090113p.png?v=d4536317476a453a8f0114dbb53949d309b2a5cb",
+        "img":"../globalassets/media/items/wicona/png/4090113.png?v=78c4b483d3681822cd6719701ce35adc5ee3ef9c",
+        "dwg":"../globalassets/media/items/wicona/dwg/wi4090113.dwg?v=fe311cc4aeffb52b693fab577c1bdacf07ca4251"
+      },
+      {
+        "desc1":"4090114",
+        "desc2":"Brandschutzdämmstreifen 30/40, Länge = 1200 mm",
+        "tags":["article","fparticle"],
+        "pimg":"../globalassets/media/items/wicona/png/4090114p.png?v=65040471d9322a1bf529a91f75227babd05753b4",
+        "img":"../globalassets/media/items/wicona/png/4090114.png?v=9c1ea8dbc7ef89fe00464e70e0ba53842447159b",
+        "dwg":"../globalassets/media/items/wicona/dwg/wi4090114.dwg?v=28bcbc5ecfdbd39c0dc9ad14f59d74e53a10e6bc"
+      },
+      {
+        "desc1":"4090115",
+        "desc2":"Brandschutzstreifen 27/12, Länge = 1250 mm",
+        "tags":["article","fparticle"],
+        "pimg":"../globalassets/media/items/wicona/png/4090115p.png?v=2b16ee46c1c9a6f254a7c25b74ede610ddd7045e",
+        "img":"../globalassets/media/items/wicona/png/4090115.png?v=1038a00a8e3df2446cd715161573c2b0dfe677cd",
+        "dwg":"../globalassets/media/items/wicona/dwg/wi4090115.dwg?v=47f8bedf83b272f6567475585c9b7ff79821e4a5"
+      },
+      {
+        "desc1":"4090116",
+        "desc2":"Brandschutzstreifen 37/12, Länge = 1250 mm",
+        "tags":["article","fparticle"],
+        "pimg":"../globalassets/media/items/wicona/png/4090116p.png?v=091db8ffe9d8680704c61f3b827e9b714cb99a97",
+        "img":"../globalassets/media/items/wicona/png/4090116.png?v=3e6ce5483c99982a56c140ab900446ab6b4978ad",
+        "dwg":"../globalassets/media/items/wicona/dwg/wi4090116.dwg?v=1f910065f2621936c2b4105e8cbf390f237b20b8"
+      },
+      {
+        "desc1":"4090117",
+        "desc2":"Brandschutzstreifen 47/12, Länge = 1250 mm",
+        "tags":["article","fparticle"],
+        "pimg":"../globalassets/media/items/wicona/png/4090117p.png?v=b48d36a30e77a183a8783fd515f827047a8a3a95",
+        "img":"../globalassets/media/items/wicona/png/4090117.png?v=e7c7bf85ff78c2910b2aaceb9ae4b946a85b7e83",
+        "dwg":"../globalassets/media/items/wicona/dwg/wi4090117.dwg?v=ef634e171194965dfbedb50fae7f7926601709aa"
+      },
+      {
+        "desc1":"4090118",
+        "desc2":"Brandschutzstreifen 25/21, Länge = 1245 mm",
+        "tags":["article","fparticle"],
+        "pimg":"../globalassets/media/items/wicona/png/4090118p.png?v=a930a6327e281e9eb8f9b93b52345bd1ff0fbfa3",
+        "img":"../globalassets/media/items/wicona/png/4090118.png?v=64e78a46ed5105e7bb2b494460beafd8f955ef9a",
+        "dwg":"../globalassets/media/items/wicona/dwg/wi4090118.dwg?v=3833249bb6cf20b726a145547ffeb4b6e25e1630"
+      },
+      {
+        "desc1":"4090119",
+        "desc2":"Brandschutzstreifen 31/25, Länge = 1245 mm",
+        "tags":["article","fparticle"],
+        "pimg":"../globalassets/media/items/wicona/png/4090119p.png?v=92d5ac9b957568eb37a3d73cfb401d5ebbcc6299",
+        "img":"../globalassets/media/items/wicona/png/4090119.png?v=8abefc7b55d14ec2d0f125bd22e48e45320fc3e9",
+        "dwg":"../globalassets/media/items/wicona/dwg/wi4090119.dwg?v=800a4b3ac7e4530e0cb18494187a271d08ba5283"
+      },
+      {
+        "desc1":"4090121",
+        "desc2":"Brandschutz-Dichtstreifenprofil 8,1/5,8 mm",
+        "tags":["article","fparticle"],
+        "pimg":"../globalassets/media/items/wicona/png/4090121p.png?v=33abbc64ed900f9a308114851c5eb73ec18c5860",
+        "img":"../globalassets/media/items/wicona/png/4090121.png?v=44bafe73b48fdf943e2c49769221b10f1d8b3cbd",
+        "dwg":"../globalassets/media/items/wicona/dwg/wi4090121.dwg?v=c507319e49bcd6181b470af7294ab2c65289d806"
+      },
+      {
+        "desc1":"199174",
+        "desc2":"Brandschutz-Dichtstreifen 40/1 mm",
+        "tags":["article","fparticle"],
+        "pimg":"../globalassets/media/items/wicona/png/199174p.png?v=58eda592c4448ea8bb942ce28ab6622eb9ad97e3",
+        "img":"../globalassets/media/items/wicona/png/199174.png?v=756eb66d5b8a288374ff9cfc682cde0b464dae59",
+        "dwg":"https://www.wictip.com/globalassets/media/items/wicona/dwg/W0199174-IDC-001.dwg?trackId=199174_item_DWG"
+      }
+    ]
+  },
+  "filter":{
+    "type":"OR",
+    "data":[
+      {"label":"Alle","filteroption":[""]},
+      {"label":"Standardprofile","filteroption":["profile"]},
+      {"label":"Zusatzprofile","filteroption":["addprofile"]},
+      {"label":"Glasleisten","filteroption":["glazingbead"]},
+      {"label":"Einschübe & Dichtstreifen","filteroption":["fparticle"]}
+    ]
+  },
+  "style":{"background":false}
+}

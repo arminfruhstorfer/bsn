@@ -1,0 +1,32 @@
+﻿{
+  "content":{
+    "overview":[
+      {
+        "label":"Planung",
+      "icon":"fa fa-desktop",
+        "links":[
+          {"text":"Füllungen & Größen","link":"ws65nngfp_ew30_fg"},
+          {"text":"Systemdatenblatt","link":"ws65nngfp_ew30_sd"}
+        ]
+      },
+      {
+        "label":"CAD-Unterstützung",
+        "icon":"fa fa-usb",
+        "links":[
+          {"text":"Konstruktionsschnitte","link":"ws65nngfp_ew30_ks"},
+          {"text":"Profilkonturen (.dwg)","link":"ws65nngfp_ew30_pk"},
+          {"text":"Vorschläge Bauanschlüsse","link":"ws65nngfp_ew30_ba"}
+        ]
+      },
+      {
+        "label":"Dokumentation",
+        "icon":"fa fa-book",
+        "links":[
+          {"text":"Montageanleitung","link":"ws65nngfp_ew30_ma"},
+          {"text":"Programm & Verarbeitung","link":"ws65nngfp_ew30_pv"}
+        ]
+      }
+    ]
+  },
+  "style":{"background":false}
+}

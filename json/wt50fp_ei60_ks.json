@@ -1,0 +1,105 @@
+﻿{
+  "subnavigation":[
+    {
+      "label":"Planung",
+      "icon":"fa fa-desktop",
+      "links":[
+        {"text":"Ausschreibungstexte","link":"wt50fp_ei60_at"},
+        {"text":"Füllungen & Größen","link":"wt50fp_ei60_fg"},
+        {"text":"Systemdatenblatt","link":"wt50fp_ei60_sd"}
+      ]
+    },
+    {
+      "label":"CAD-Unterstützung",
+      "icon":"fa fa-usb",
+      "links":[
+        {"text":"Konstruktionsschnitte","link":"wt50fp_ei60_ks", "active":true},
+        {"text":"Profilkonturen (.dwg)","link":"wt50fp_ei60_pk"}
+      ]
+    },
+    {
+      "label":"Dokumentation",
+      "icon":"fa fa-book",
+      "links":[
+        {"text":"Programm & Verarbeitung","link":"wt50fp_ei60_pv"}
+      ]
+    }
+  ],
+  "content":{
+    "list":[
+      {
+        "desc1":"DOC-FPA0000001",
+        "desc2":"Horizontalschnitt",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000001p.png?v=04e3552dd1cb3c4d6e6f0bcd6f3089f340d7fabb",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000001.png?v=395812c1fcad546cb798caa8a28e2128bcda43fe",
+        "dwg":"../globalassets/media/sections/wicona/dwg/DOC-FPA0000001.dwg?v=7bbdb980026593a32a4a9a029dfbb0ba6889647d",
+        "tags":["135004","135073","135193","135305","190281","190311","196064","199174","199296","199305","4390005"]
+      },
+      {
+        "desc1":"DOC-FPA0000002",
+        "desc2":"Horizontalschnitt",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000002p.png?v=6b37faaf340c2e7c0958b9494612b5d80c9da758",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000002.png?v=e8c0824b355f939f9284f319f82d6d7aab2870f7",
+        "dwg":"../globalassets/media/sections/wicona/dwg/DOC-FPA0000002.dwg?v=2e4d731d9bba4ea532ad01cb7ad716730f4e97c9",
+        "tags":["135005","135073","135193","135306","190281","190311","196064","199174","199296","199306","4390005"]
+      },
+      {
+        "desc1":"DOC-FPA0000003",
+        "desc2":"Horizontalschnitt",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000003p.png?v=5b8e3e83369d9a692c60b36ff4240bdbf3d25113",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000003.png?v=e6317e6218443ebc9f09ab6001944398c7259069",
+        "dwg":"../globalassets/media/sections/wicona/dwg/DOC-FPA0000003.dwg?v=d67b7c582fcc3975decc6b7366b92ca84816f6af",
+        "tags":["135006","135073","135193","135307","190281","190311","196064","199174","199296","199307","4390005"]
+      },
+      {
+        "desc1":"DOC-FPA0000004",
+        "desc2":"Horizontalschnitt",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000004p.png?v=15d8088232b95f4ad0d6efcdb28a40164dd51ec2",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000004.png?v=972d5423603fefe357de69e828bff3c158907694",
+        "dwg":"../globalassets/media/sections/wicona/dwg/DOC-FPA0000004.dwg?v=3301e97f6254b0bc3f3371ba6f06c1c642f79ddc",
+        "tags":["135007","135073","135193","135308","190281","190311","196064","199174","199296","199308","4390005"]
+      },
+      {
+        "desc1":"DOC-FPA0000005",
+        "desc2":"Horizontalschnitt",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000005p.png?v=48e000acb58736fbb3edaa403107eea315488f01",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000005.png?v=e1e6e4bd6825c02b1364c138e50d656e41025b2a",
+        "dwg":"../globalassets/media/sections/wicona/dwg/DOC-FPA0000005.dwg?v=a7af75c016a410e4547d87f046a2ba5f836f9ca2",
+        "tags":["135011","135073","135193","135308","190281","190311","196064","199174","199296","199308","4390005"]
+      },
+      {
+        "desc1":"DOC-FPA0000006",
+        "desc2":"Vertikalschnitt",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000006p.png?v=94eb3583af69247fc8dfa72dee15adc7097c02ce",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000006.png?v=c3f41cfe7de929a7824c857fce11afd249db89bc",
+        "dwg":"../globalassets/media/sections/wicona/dwg/DOC-FPA0000006.dwg?v=6df1d1b5ef77ec87dd022db35d4b3243beca16e2",
+        "tags":["135026","135073","135193","135305","190287","190311","196064","199174","199296","199305","4390005"]
+      },
+      {
+        "desc1":"DOC-FPA0000007",
+        "desc2":"Vertikalschnitt",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000007p.png?v=c8d1ed4b71bacea85ab6d7ee616495f0ac4504af",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000007.png?v=c7d210681a7659683c7a05c627adc97355c6ad0e",
+        "dwg":"../globalassets/media/sections/wicona/dwg/DOC-FPA0000007.dwg?v=04c96198662b123b2456710f876cd61505d7569c",
+        "tags":["135027","135073","135193","135306","190287","190311","196064","199174","199296","199306","4390005"]
+      },
+      {
+        "desc1":"DOC-FPA0000008",
+        "desc2":"Vertikalschnitt",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000008p.png?v=9d130b15f592fe9f3aeb9e7b8353b364ccfa1989",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000008.png?v=8ac945bcb4b609cfb7e955558e56cb562e646898",
+        "dwg":"../globalassets/media/sections/wicona/dwg/DOC-FPA0000008.dwg?v=fd928ff4b6b7d643bf9ae0df9a8ec0282f99a541",
+        "tags":["135028","135073","135193","135307","190287","190311","196064","199174","199296","199307","4390005"]
+      }
+    ]
+  },
+  "style":{"background":false}
+}

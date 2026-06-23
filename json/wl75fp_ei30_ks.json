@@ -1,0 +1,93 @@
+﻿{
+  "subnavigation":[
+    {
+      "label":"Planung",
+      "icon":"fa fa-desktop",
+      "links":[
+        {"text":"Ausschreibungstexte","link":"wl75fp_ei30_at"},
+        {"text":"Füllungen & Größen CE","link":"wl75fp_ei30_fg_ce"},
+        {"text":"Füllungen & Größen ÜA","link":"wl75fp_ei30_fg_ua"},
+        {"text":"Systemdatenblatt","link":"wl75fp_ei30_sd"}
+      ]
+    },
+    {
+      "label":"CAD-Unterstützung",
+      "icon":"fa fa-usb",
+      "links":[
+        {"text":"Konstruktionsschnitte","link":"wl75fp_ei30_ks", "active":true},
+        {"text":"Profilkonturen (.dwg)","link":"wl75fp_ei30_pk"},
+        {"text":"Vorschläge Bauanschlüsse","link":"wl75fp_ei30_ba"}
+      ]
+    },
+    {
+      "label":"Dokumentation",
+      "icon":"fa fa-book",
+      "links":[
+        {"text":"Dokumentation CE","link":"wl75fp_ei30_do_ce"},
+        {"text":"Montageanleitung ÜA","link":"wl75fp_ei30_ma_ua"},
+        {"text":"Programm ÜA","link":"wl75fp_ei30_pl_ua"},
+        {"text":"Verarbeitung","link":"wl75fp_ei30_vr"},
+        {"text":"Vorlagen","link":"wl75fp_ei30_vo"}
+      ]
+    }
+  ],
+  "content":{
+    "list":[
+      {
+        "desc1":"DOC-0000952699",
+        "desc2":"Festverglasung mit Rahmenprofil - Typ\u00a0A",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/doc-0000952699p.png?v=9edcd21a50f903fa864ac56314e3485044014519",
+        "img":"../globalassets/media/sections/wicona/png/doc-0000952699.png?v=6fa81ecfb4326106d8ae86fc3d9b69f7aeadeed3",
+        "dwg":"../globalassets/media/sections/wicona/dwg/wdoc-0000952699.dwg?v=fb70ab52641c889c9a7d6bcaa18e45ff8b9abf2a",
+        "tags":["1311073","3090079","4010016","4030187","4070448","4080260","4080436","4090112","4910022"]
+      },
+      {
+        "desc1":"DOC-0000954783",
+        "desc2":"Öffenbare Brandschutzverglasung mit Rahmenprofil, dreifach ISO - Typ\u00a0A",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/doc-0000954783p.png?v=bc87fdb1acd850ba6fff391674f558b6905e7d7d",
+        "img":"../globalassets/media/sections/wicona/png/doc-0000954783.png?v=67122ab9cf92ca68d0636778c73b068d73d5a659",
+        "dwg":"../globalassets/media/sections/wicona/dwg/wdoc-0000954783.dwg?v=2ad9aaacc45d55e9b17881fbccd1139ebd14e02d",
+        "tags":["1910147","1910148","3991007","4010016","4010045","4020006","4030187","4070448","4080131","4080202","4080403","4090113","4090121","4910016","4910022","4990007"]
+      },
+      {
+        "desc1":"DOC-0000952779",
+        "desc2":"Festverglasung mit Kämpferprofil - Typ\u00a0A",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/doc-0000952779p.png?v=2f83709503c465b16d97727f015d20ecb26f561b",
+        "img":"../globalassets/media/sections/wicona/png/doc-0000952779.png?v=e354a1028aa9bbf76b364e569cf6e0c05c4a26c7",
+        "dwg":"../globalassets/media/sections/wicona/dwg/wdoc-0000952779.dwg?v=efef36bf3826ec3b8b2df49797aeb508d12bbae5",
+        "tags":["1910175","3090079","3090081","4010016","4010017","4030187","4070448","4080258","4080260","4080436","4090112","4910022"]
+      },
+      {
+        "desc1":"DOC-0000954856",
+        "desc2":"Öffenbare Brandschutzverglasung mit Kämpferprofil, dreifach ISO - Typ\u00a0A",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/doc-0000954856p.png?v=a76910868d242fa8506fad8c2b41f917d2bb164a",
+        "img":"../globalassets/media/sections/wicona/png/doc-0000954856.png?v=774d4e168a33c252cadbd99ce1f0b16788d7f31f",
+        "dwg":"../globalassets/media/sections/wicona/dwg/wdoc-0000954856.dwg?v=9b8847427600aa495a973d244741f3a7b746d51c",
+        "tags":["1910146","1910149","3090081","3991007","4010016","4010017","4010045","4020006","4030187","4070448","4080131","4080258","4080403","4080436","4090112","4090113","4090121","4910016","4910022","4990007"]
+      },
+      {
+        "desc1":"DOC-0000954912",
+        "desc2":"Öffenbare Brandschutzverglasung mit verstärktem Kämpferprofil, dreifach ISO - Typ\u00a0A",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/doc-0000954912p.png?v=3da7b33e17962e3357b7c3e03be231193892faf6",
+        "img":"../globalassets/media/sections/wicona/png/doc-0000954912.png?v=97627ba7ea0e9d7c54b327fc8407cab45d90f1e1",
+        "dwg":"../globalassets/media/sections/wicona/dwg/wdoc-0000954912.dwg?v=33332a48eaf67352ae1e0e54f729f5afb4759c71",
+        "tags":["1910146","1910175","3091058","3091059","3991004","3991007","4010016","4010045","4020006","4030187","4070046","4070448","4080131","4080403","4090112","4090121","4910016","4910022","4990007"]
+      },
+      {
+        "desc1":"DOC-0000954955",
+        "desc2":"Öffenbare Brandschutzverglasung mit Kämpferprofil in Fassade, dreifach ISO - Typ\u00a0A",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/doc-0000954955p.png?v=fba7fc34ec72fde6e0a0354443237d1779fc04c8",
+        "img":"../globalassets/media/sections/wicona/png/doc-0000954955.png?v=d1c7c1707b5369c4116575ed7c27a02f199ccf67",
+        "dwg":"../globalassets/media/sections/wicona/dwg/wdoc-0000954955.dwg?v=8468a7b3f668b6cf96e8a185b89cc6283caa7d68",
+        "tags":["135023","135071","135193","190286","190311","196061","197398","199174","199175","199180","199296","1910146","1910175","3991007","4010016","4010018","4010045","4020006","4030187","4070086","4070448","4080131","4080202","4080403","4090112","4090115","4090121","4090126","4910016","4910022"]
+      }
+    ]
+  },
+  "style":{"background":false}
+}

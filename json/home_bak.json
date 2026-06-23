@@ -1,0 +1,74 @@
+{
+  "content":{
+    "overview":[
+      {
+        "label":"",
+        "links":[
+          {"text":"WL75FP"},
+          {"text":"WS65NNGFP"},
+          {"text":"WS70NFP"},
+		  {"text":"WS77FP"},
+		  {"text":"WT50FP"},
+		  {"text":"EL52FR"}
+        ]
+      },
+      {
+        "label":"E30",
+        "links":[
+          {"text":"","link":""},
+          {"text":"Festverglasungen","link":"ws65nngfp_e30"},
+          {"text":"","link":""},
+		  {"text":"","link":""},
+		  {"text":"","link":""},
+		  {"text":"","link":""}
+        ]
+      },
+      {
+        "label":"EW30",
+        "links":[
+          {"text":"Festverglasungen","link":"wl75fp_ew30"},
+          {"text":"Türen & Festverglasungen","link":"ws65nngfp_ew30"},
+          {"text":"Türen & Festverglasungen","link":"ws70nfp_ew30"},
+		  {"text":"","link":""},
+		  {"text":"","link":""},
+		  {"text":"Dachverglasungen","link":"el52fr_ew30"}
+        ]
+      },
+	  {
+        "label":"EI30",
+        "links":[
+          {"text":"Fenster & Festverglasungen","link":"wl75fp_ei30"},
+          {"text":"","link":""},
+          {"text":"","link":""},
+		  {"text":"Türen & Festverglasungen","link":"ws77fp_ei30"},
+		  {"text":"Festverglasungen","link":"wt50fp_ei30"},
+		  {"text":"Dachverglasungen","link":"el52fr_ei30"}
+        ]
+      },
+	  {
+        "label":"EI60",
+        "links":[
+          {"text":"Festverglasungen","link":"wl75fp_ei60"},
+          {"text":"","link":""},
+          {"text":"","link":""},
+		  {"text":"Türen & Festverglasungen","link":""},
+		  {"text":"Festverglasungen","link":""},
+		  {"text":"","link":""}
+        ]
+      },
+	  {
+        "label":"EI90",
+        "links":[
+          {"text":"Festverglasungen","link":"wl75fp_ei90"},
+          {"text":"","link":""},
+          {"text":"","link":""},
+		  {"text":"","link":""},
+		  {"text":"","link":""},
+		  {"text":"","link":""}
+        ]
+      }
+    ]
+  },
+  "style": {"background":true},
+  "filter":{"data":[]}
+}

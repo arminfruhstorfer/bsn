@@ -1,0 +1,51 @@
+﻿{
+  "subnavigation":[
+    {
+      "label":"Planung",
+      "icon":"fa fa-desktop",
+      "links":[
+        {"text":"Ausschreibungstexte","link":"ws77fp_ei30_at"},
+        {"text":"Füllungen & Größen CE","link":"ws77fp_ei30_fg_ce"},
+        {"text":"Füllungen & Größen ÜA","link":"ws77fp_ei30_fg_ua"},
+        {"text":"Systemdatenblatt","link":"ws77fp_ei30_sd"}
+      ]
+    },
+    {
+      "label":"CAD-Unterstützung",
+      "icon":"fa fa-usb",
+      "links":[
+        {"text":"Konstruktionsschnitte","link":"ws77fp_ei30_ks"},
+        {"text":"Profilkonturen (.dwg)","link":"ws77fp_ei30_pk"},
+        {"text":"Vorschläge Bauanschlüsse","link":"ws77fp_ei30_ba"}
+      ]
+    },
+    {
+      "label":"Dokumentation",
+      "icon":"fa fa-book",
+      "links":[
+        {"text":"Dokumentation CE","link":"ws77fp_ei30_do_ce"},
+        {"text":"Einbruchhemmung ","link":"ws77fp_ei30_rc"},
+        {"text":"Montageanleitung ÜA","link":"ws77fp_ei30_ma_ua"},
+        {"text":"Programmliste ÜA","link":"ws77fp_ei30_pl_ua"},
+        {"text":"Verarbeitung","link":"ws77fp_ei30_vr"},
+        {"text":"Vorlagen","link":"ws77fp_ei30_vo", "active":true}
+      ]
+    }
+  ],
+  "content":{
+    "list":[
+
+      {
+        "desc1":"Vorlage CE-Kennzeichnung",
+        "pimg":"../globalassets/media/items/wicona/png/ws77fp_ei30_ce.png?v=b167eed06e93e3f678833c47d792ab039be2049d",
+        "docx":"../globalassets/media/items/wicona/docx/ws77fp_ei30_ce.docx?v=5c4aaa25adbc2a940e01f38a60a4775aeceb9741"
+      },
+      {
+        "desc1":"Vorlage Leistungserklärung",
+        "pimg":"../globalassets/media/items/wicona/png/ws77fp_ei30_le.png?v=b7d3daa30787a125be9942a263ee0a7678257dd7",
+        "docx":"../globalassets/media/items/wicona/docx/ws77fp_ei30_le.docx?v=19b77f1524aa54a7fad619501cb3278afa5eebc0"
+      }
+    ]
+  },
+  "style":{"background":false}
+}

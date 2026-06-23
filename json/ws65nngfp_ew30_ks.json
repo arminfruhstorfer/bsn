@@ -1,0 +1,354 @@
+﻿{
+  "subnavigation":[
+    {
+      "label":"Planung",
+      "icon":"fa fa-desktop",
+      "links":[
+        {"text":"Füllungen & Größen","link":"ws65nngfp_ew30_fg"},
+        {"text":"Systemdatenblatt","link":"ws65nngfp_ew30_sd"}
+      ]
+    },
+    {
+      "label":"CAD-Unterstützung",
+      "icon":"fa fa-usb",
+      "links":[
+        {"text":"Konstruktionsschnitte","link":"ws65nngfp_ew30_ks", "active":true},
+        {"text":"Profilkonturen (.dwg)","link":"ws65nngfp_ew30_pk"},
+        {"text":"Vorschläge Bauanschlüsse","link":"ws65nngfp_ew30_ba"}
+      ]
+    },
+    {
+      "label":"Dokumentation",
+      "icon":"fa fa-book",
+      "links":[
+        {"text":"Montageanleitung","link":"ws65nngfp_ew30_ma"},
+        {"text":"Programm & Verarbeitung","link":"ws65nngfp_ew30_pv"}
+      ]
+    }
+  ],
+  "content":{
+    "list":[
+      {
+        "desc1":"DOC-0001503518",
+        "desc2":"Anschlagtüren einwärts mit Spezialblendrahmen",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-0001503518p.png?v=0e3743090a9bae9004f9335d5773c74dda0e53ca",
+        "img":"../globalassets/media/sections/wicona/png/DOC-0001503518.png?v=7d6519915257309a9b9013ae3d428b304c39c5f0",
+        "tags":["3020210","3020238","3991013","4010137","4010299","4010304","4020006","4080322","4080330","4090216"]
+      },
+      {
+        "desc1":"DOC-0001503523",
+        "desc2":"Anschlagtüren einwärts mit Kombinationsblendrahmen",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-0001503523p.png?v=44834f399f1bf001efddea72cfa08bdc1e395b62",
+        "img":"../globalassets/media/sections/wicona/png/DOC-0001503523.png?v=ca8cf6e32a4eff3316d8b91bd953d55ca73f5bc6",
+        "tags":["3010093","3020238","3020255","3991013","4010137","4010299","4010304","4020006","4080322","4080330","4090216","4970073"]
+      },
+      {
+        "desc1":"DOC-0001504476",
+        "desc2":"Anschlagtüren einwärts mit Kombinationsblendrahmen",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-0001504476p.png?v=c5a0c0425d77fa83d18c2e36a306f5c1d89b8649",
+        "img":"../globalassets/media/sections/wicona/png/DOC-0001504476.png?v=f8a910da7c7e09c01da18943436580db09810386",
+        "tags":["3010095","3020238","3020255","3991013","4010137","4010299","4010304","4020006","4080322","4080330","4090216","4090233","4970073"]
+      },
+      {
+        "desc1":"DOC-0001503528",
+        "desc2":"Anschlagtüren auswärts mit Spezialblendrahmen",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-0001503528p.png?v=bea242aa21534d13fe6e1d1d5203eeb00c7365f5",
+        "img":"../globalassets/media/sections/wicona/png/DOC-0001503528.png?v=b68aa58f2b7cc145614e1a44ccaf79ef372ffb84",
+        "tags":["3020210","3020241","3991013","4010137","4010299","4010304","4020006","4080322","4080330","4090216"]
+      },
+      {
+        "desc1":"DOC-0001503531",
+        "desc2":"Anschlagtüren auswärts mit Kombinationsblendrahmen",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-0001503531p.png?v=5a620370680e375de2aceb6ae330495e2cc47d8d",
+        "img":"../globalassets/media/sections/wicona/png/DOC-0001503531.png?v=a099c3c1c9e26ce6627a7f4dbb604784788d573c",
+        "tags":["3010093","3020241","3020256","3991013","4010137","4010299","4010304","4020006","4080322","4080330","4090216","4910040","4970081"]
+      },
+      {
+        "desc1":"DOC-0001504477",
+        "desc2":"Anschlagtüren auswärts mit Kombinationsblendrahmen",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-0001504477p.png?v=2be1c576da8d2a0473818f1e4571759442e0e9f7",
+        "img":"../globalassets/media/sections/wicona/png/DOC-0001504477.png?v=7fb6d5b4f15fbd575015b7c1955eebfe51fdbd45",
+        "tags":["3010095","3020241","3020256","3991013","4010137","4010299","4010304","4020006","4080322","4080330","4090216","4090233","4910040","4970081"]
+      },
+      {
+        "desc1":"DOC-0001503532",
+        "desc2":"Anschlagtüren einwärts mit Spezialblendrahmen",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-0001503532p.png?v=9db95986fbd99553ba7d33306c9521af2886a672",
+        "img":"../globalassets/media/sections/wicona/png/DOC-0001503532.png?v=df2eb4ff5dd60116abca00823b3aa2faafabc3b9",
+        "tags":["3020210","3020238","3991013","4010137","4010299","4010304","4020006","4080322","4080330","4090216"]
+      },
+      {
+        "desc1":"DOC-0001503543",
+        "desc2":"Anschlagtüren einwärts mit Kombinationsblendrahmen",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-0001503543p.png?v=e09f81f30ac0132084e02cdfbcaa6426920b7379",
+        "img":"../globalassets/media/sections/wicona/png/DOC-0001503543.png?v=7873b5084a1e2ae02712f2c4ebaf8f20c3a1d495",
+        "tags":["3010093","3020238","3020255","3991013","4010137","4010299","4010304","4020006","4080322","4080330","4090216","4970073"]
+      },
+      {
+        "desc1":"DOC-0001504478",
+        "desc2":"Anschlagtüren einwärts mit Kombinationsblendrahmen",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-0001504478p.png?v=3391390fd09aa37b44bd3c75aacd691bbee0b7d2",
+        "img":"../globalassets/media/sections/wicona/png/DOC-0001504478.png?v=8a343a7aab8c70b8c6582646f1d508dddb2af516",
+        "tags":["3010096","3020238","3020255","3991013","4010137","4010299","4010304","4020006","4080322","4080330","4090216","4090233","4970073"]
+      },
+      {
+        "desc1":"DOC-0001503545",
+        "desc2":"Anschlagtüren auswärts mit Spezialblendrahmen und Neutralprofil",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-0001503545p.png?v=81bb3d75a16181aa7a0c1d9f75e31b2541422989",
+        "img":"../globalassets/media/sections/wicona/png/DOC-0001503545.png?v=c68e8052d87dec04240c3012c8453c4037858625",
+        "tags":["134026","3010106","3020210","3020241","3991013","4010137","4010299","4010304","4020006","4080322","4080330","4090216"]
+      },
+      {
+        "desc1":"DOC-0001503974",
+        "desc2":"Anschlagtüren auswärts mit Spezialblendrahmen und Neutralprofil",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-0001503974p.png?v=92e8ba695943c6ce07427b473b8e1bbd5a314e57",
+        "img":"../globalassets/media/sections/wicona/png/DOC-0001503974.png?v=6d05ea0100da32e1f81f82271d5dfa241b7c3f3f",
+        "tags":["134026","3010109","3020210","3020241","3991013","4010137","4010299","4010304","4020006","4080322","4080330","4090216","4090233"]
+      },
+      {
+        "desc1":"DOC-0001503546",
+        "desc2":"Anschlagtüren auswärts mit Kombinationsblendrahmen",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-0001503546p.png?v=f827a098963c51fee0ed44882bf7a37d37b415a9",
+        "img":"../globalassets/media/sections/wicona/png/DOC-0001503546.png?v=14bdd910be1aa7f64b996ae9f740dc97a22b89de",
+        "tags":["3010093","3020241","3020256","3991013","4010137","4010299","4010304","4020006","4080322","4080330","4090216","4910040","4970081"]
+      },
+      {
+        "desc1":"DOC-0001504479",
+        "desc2":"Anschlagtüren auswärts mit Kombinationsblendrahmen",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-0001504479p.png?v=563b1ed155c1491f57409eb7e313c00529ed1dab",
+        "img":"../globalassets/media/sections/wicona/png/DOC-0001504479.png?v=6eb5d0e257d0e39fa9812a18b07635cfc589fae6",
+        "tags":["3010096","3020241","3020256","3991013","4010137","4010299","4010304","4020006","4080322","4080330","4090216","4090233","4910040","4970081"]
+      },
+      {
+        "desc1":"DOC-0001503547",
+        "desc2":"Anschlagtüren einwärts mit Oberlicht Festelement",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-0001503547p.png?v=b5d5ff1819ff065bf4c6215a377bd06b3c021989",
+        "img":"../globalassets/media/sections/wicona/png/DOC-0001503547.png?v=3f72423b9554cbfa24ef7d21ee810349934748f3",
+        "tags":["3010102","3020238","3020255","3991013","4010137","4010299","4010304","4020006","4080322","4080330","4090216","4970073"]
+      },
+      {
+        "desc1":"DOC-0001503548",
+        "desc2":"Anschlagtüren auswärts mit Oberlicht Festelement",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-0001503548p.png?v=7eb76c46a9ccd755954d3e0d74b8bdd44ed2a453",
+        "img":"../globalassets/media/sections/wicona/png/DOC-0001503548.png?v=314a9791870c41686681516a69f25748be68b06a",
+        "tags":["3010102","3020241","3020256","3991013","4010137","4010299","4010304","4020006","4080322","4080330","4090216","4910040"]
+      },
+      {
+        "desc1":"DOC-0001503551",
+        "desc2":"Anschlagtüren einwärts mit Flügelprofil umlaufend",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-0001503551p.png?v=c2de90635b17541bd1ffd010a080721e48334137",
+        "img":"../globalassets/media/sections/wicona/png/DOC-0001503551.png?v=fa959594304cbb99648415bce1f299fa44cfeebd",
+        "tags":["3020238","3925094","3926500","3991013","4010137","4010299","4010304","4020006","4080322","4080330","4090216","4940077","4970077"]
+      },
+      {
+        "desc1":"DOC-0001503557",
+        "desc2":"Anschlagtüren einwärts mit Flügelprofil umlaufend",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-0001503557p.png?v=4793aaa1ef7f43496a145b9e97bba0bec87e5a97",
+        "img":"../globalassets/media/sections/wicona/png/DOC-0001503557.png?v=790e81e9d7c0a41893bd054e4c7dd4f8aa7dff05",
+        "tags":["3020238","3925095","3991013","4010137","4010299","4020006","4080322","4080330","4090216","4940077","4970077"]
+      },
+      {
+        "desc1":"DOC-0001503558",
+        "desc2":"Anschlagtüren auswärts mit Sockelprofil",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-0001503558p.png?v=faccdd8471e8b70b94d6be6a00265e32b54bc5ce",
+        "img":"../globalassets/media/sections/wicona/png/DOC-0001503558.png?v=af311453e643b95dec00a738bac2b19c5eba8d11",
+        "tags":["3020230","3020252","3926501","3991013","4010137","4010299","4020006","4070050","4080322","4080330","4090216","4090234","4910056","4940077"]
+      },
+      {
+        "desc1":"DOC-0001503559",
+        "desc2":"Anschlagtüren einwärts, Mittelstoß ohne Aufsatzprofil",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-0001503559p.png?v=7bc2000100359771128f622a88fe33aaa7fa3ea0",
+        "img":"../globalassets/media/sections/wicona/png/DOC-0001503559.png?v=8ef6284fbf526921ebf25da522b1d425c0ec1ace",
+        "tags":["3020238","3020241","3991013","4010137","4010299","4010304","4080322","4080330","4090216"]
+      },
+      {
+        "desc1":"DOC-0001503560",
+        "desc2":"Anschlagtüren auswärts, Mittelstoß ohne Aufsatzprofil",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-0001503560p.png?v=4d0d440805dd5790f1cc13541c2e21e7bf7d2ce3",
+        "img":"../globalassets/media/sections/wicona/png/DOC-0001503560.png?v=6628aa7bcce5eb88917c9295ea232b59b69d53cb",
+        "tags":["3020238","3020241","3991013","4010137","4010299","4010304","4080322","4080330","4090216"]
+      },
+      {
+        "desc1":"DOC-0001503561",
+        "desc2":"Sprossen oder Kämpfer im Türflügel",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-0001503561p.png?v=59a3d5cba671b185ed1c54d25f624afaa3b4972f",
+        "img":"../globalassets/media/sections/wicona/png/DOC-0001503561.png?v=d93b2194da9273038f38d466d63153cc0e203f68",
+        "tags":["3010100","3991013","4010137","4010299","4020006","4080322","4080330"]
+      },
+      {
+        "desc1":"DOC-0001504270",
+        "desc2":"Festverglasung mit Kämpferprofil",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-0001504270p.png?v=256433cbc732370856e4d4f823a6ba7418d1e84c",
+        "img":"../globalassets/media/sections/wicona/png/DOC-0001504270.png?v=875ec528a38854becb589a865b68c07a67b5d95a",
+        "tags":["3010102","3991013","4010137","4010299","4020006","4080322","4080330"]
+      },
+      {
+        "desc1":"DOC-0001503564",
+        "desc2":"Festverglasung, Seitenteil und/oder Oberlicht",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-0001503564p.png?v=5a6d44baeed725e5935eeea09b98a200f5e8aa1e",
+        "img":"../globalassets/media/sections/wicona/png/DOC-0001503564.png?v=415653898b4f1045dbda006f6add7da1fdabd7e8",
+        "tags":["3010093","3991013","4010137","4010299","4020006","4080322","4080330","4090216"]
+      },
+      {
+        "desc1":"DOC-0001504480",
+        "desc2":"Festverglasung, Seitenteil und/oder Oberlicht",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-0001504480p.png?v=6f934538bcb81c6d673c80c3865f03dd590d78c1",
+        "img":"../globalassets/media/sections/wicona/png/DOC-0001504480.png?v=78016fb7f245f42fb7c46163f5d844edabce74ea",
+        "tags":["3010096","3991013","4010137","4010299","4020006","4080322","4080330","4090216","4090233"]
+      },
+      {
+        "desc1":"DOC-0001503569",
+        "desc2":"Festverglasung, Seitenteil und/oder Oberlicht",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-0001503569p.png?v=6c1f69de530cbe23a0e4668544aa23fa6489a2e0",
+        "img":"../globalassets/media/sections/wicona/png/DOC-0001503569.png?v=b5755df8916afac1ab739f2dbf9230b3630e51fe",
+        "tags":["3010124","3991013","4010137","4010299","4020006","4080322","4080330","4090216"]
+      },
+      {
+        "desc1":"DOC-0001503570",
+        "desc2":"Festverglasung mit Rahmenprofil und Rahmenverbreiterung",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-0001503570p.png?v=c6b809aa280728aae9a6d413eabfd1d330cf1476",
+        "img":"../globalassets/media/sections/wicona/png/DOC-0001503570.png?v=df96cd01938cd0bfb3f1ae298bba7dcf50644bb5",
+        "tags":["134026","3010093","3010106","3991013","4010137","4010299","4020006","4080322","4080330","4090216"]
+      },
+      {
+        "desc1":"DOC-0001504481",
+        "desc2":"Festverglasung mit Rahmenprofil und Rahmenverbreiterung",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-0001504481p.png?v=8f043fbf87d742d6e341f95e59b3d4d8ae9d74d4",
+        "img":"../globalassets/media/sections/wicona/png/DOC-0001504481.png?v=f32945f7af570eb3c88e722d2114e6285b35ed53",
+        "tags":["134026","3010096","3010109","3991013","4010137","4010299","4020006","4080322","4080330","4090216","4090233"]
+      },
+      {
+        "desc1":"DOC-0001504595",
+        "desc2":"Sprossen oder Kämpfer im Festfeld",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-0001504595p.png?v=7681cdb2707c9bcd57620398ce2ef18de11965a6",
+        "img":"../globalassets/media/sections/wicona/png/DOC-0001504595.png?v=0a413cd159c6cf9e8bbad04743923caa35b6d32b",
+        "tags":["3010100","3991013","4010137","4010299","4020006","4080322","4080330","4090216"]
+      },
+      {
+        "desc1":"DOC-0001504598",
+        "desc2":"Festverglasung mit Kämpferprofil",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-0001504598p.png?v=3f57a9086e80b2b73c82a31e18603cbb80f098fe",
+        "img":"../globalassets/media/sections/wicona/png/DOC-0001504598.png?v=a7b5f871f4dcc66d0001ade4f607c7b10f34947f",
+        "tags":["3010102","3991013","4010137","4010299","4020006","4080322","4080330"]
+      },
+      {
+        "desc1":"DOC-0001504599",
+        "desc2":"Festverglasung",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-0001504599p.png?v=3177d40e92076965a5aefe80bc9eb72cdb77c1d0",
+        "img":"../globalassets/media/sections/wicona/png/DOC-0001504599.png?v=7135149470e94a838eba28c94595a551e127d021",
+        "tags":["3010093","3991013","4010137","4010299","4020006","4080322","4080330","4090216"]
+      },
+      {
+        "desc1":"DOC-0001504601",
+        "desc2":"Festverglasung",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-0001504601p.png?v=c27f21107f80a05d5934d03cc1748750b7cd0b22",
+        "img":"../globalassets/media/sections/wicona/png/DOC-0001504601.png?v=3e0068777a05026b1b94cbca9f85d92c0f4dbf2d",
+        "tags":["3010096","3991013","4010137","4010299","4020006","4080322","4080330","4090216","4090233"]
+      },
+      {
+        "desc1":"DOC-0001504604",
+        "desc2":"Festverglasung",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-0001504604p.png?v=8a9b1c3aa7c316bbf0aa0609c4c634774583e182",
+        "img":"../globalassets/media/sections/wicona/png/DOC-0001504604.png?v=96f7fbcfd16cd28d2c4c09ceb960a3c363a0e0cf",
+        "tags":["3010124","3991013","4010137","4010299","4020006","4080322","4080330","4090216"]
+      },
+      {
+        "desc1":"DOC-0001504610",
+        "desc2":"Festverglasung mit Rahmenprofil und Rahmenverbreiterung",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-0001504610p.png?v=3bcff9501612ea7686dbd3ac3f53efe186a61d86",
+        "img":"../globalassets/media/sections/wicona/png/DOC-0001504610.png?v=a207899b3a985552a2435ccf7bd0687f844da7be",
+        "tags":["134026","3010093","3010106","3991013","4010137","4010299","4020006","4080322","4080330","4090216"]
+      },
+      {
+        "desc1":"DOC-0001504613",
+        "desc2":"Festverglasung mit Rahmenprofil und Rahmenverbreiterung",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-0001504613p.png?v=f2e216a8d7a6c7018fc3701bd8d215cfdd2590d6",
+        "img":"../globalassets/media/sections/wicona/png/DOC-0001504613.png?v=b9a5d9a2abf9d428ae42450f159b5656012d894a",
+        "tags":["134026","3010096","3010109","3991013","4010137","4010299","4020006","4080322","4080330","4090216","4090233"]
+      },
+      {
+        "desc1":"DOC-0001504614",
+        "desc2":"Festverglasung mit Kämpferprofil und Al-Rohre verstärkt",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-0001504614p.png?v=3225184006c66bbf4b9bd5274ce3d036684e250c",
+        "img":"../globalassets/media/sections/wicona/png/DOC-0001504614.png?v=cdc1ba4fe0492b9fc225be989cd9874b976db3bc",
+        "tags":["3010102","3991013","4010137","4010299","4020006","4080322","4080330","4090216"]
+      },
+      {
+        "desc1":"DOC-0001504615",
+        "desc2":"Festverglasung mit Kämpferprofil und Verstärkungsprofil",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-0001504615p.png?v=e8046048ce9e3b14d28fa185a0ac34a976770d44",
+        "img":"../globalassets/media/sections/wicona/png/DOC-0001504615.png?v=78da6176c53e91d06665ce8f0ed5b19383cbed17",
+        "tags":["3010100","3091041","3091042","3991013","4010137","4010299","4020006","4070046","4080322","4080330","4090216"]
+      },
+      {
+        "desc1":"DOC-0001504616",
+        "desc2":"Festfeld mit Sockelprofil",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-0001504616p.png?v=47de8895a53d751edca5abaf662c012ec46acb3e",
+        "img":"../globalassets/media/sections/wicona/png/DOC-0001504616.png?v=50dd9f8250ced82d725be14dc5a1d29285c1b0f8",
+        "tags":["3010102","3021019","3925096","3991013","4010137","4010299","4020006","4080322","4080330","4090216","4940077","4970077"]
+      },
+      {
+        "desc1":"DOC-0001504618",
+        "desc2":"Festfeld mit Sockelprofil",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-0001504618p.png?v=64ad6f04c0cb682bd71bc4c425a5519aefc24d74",
+        "img":"../globalassets/media/sections/wicona/png/DOC-0001504618.png?v=c9a440194386d157aa761655769f75df3b8c6279",
+        "tags":["3020230","3991013","4010137","4010299","4020006","4080322","4080330","4090216","4090234","4940077"]
+      },
+      {
+        "desc1":"DOC-0001504619",
+        "desc2":"Festfeld mit Sockelprofil",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-0001504619p.png?v=91e1a8b67af900e74ebe40e211f350cfdaa795b0",
+        "img":"../globalassets/media/sections/wicona/png/DOC-0001504619.png?v=feb0cd8d57b6cf225688b792a75ea971dd16eb5a",
+        "tags":["3020230","3021019","3991013","4010137","4010299","4020006","4080322","4080330","4090216","4090234","4940077"]
+      },
+      {
+        "desc1":"DOC-0001504620",
+        "desc2":"Ergänzende Darstellung Sockelanwendung",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-0001504620p.png?v=0ac823012cb87e6f119cfe1e5d672301b6a1dcaf",
+        "img":"../globalassets/media/sections/wicona/png/DOC-0001504620.png?v=f94ba15602cdaf75534450bf1b055bc99423916d",
+        "tags":["3010100","3010101","3010102","3020230","3020231","3020232","3021019"]
+      }
+    ]
+  },
+  "style":{"background":false}
+}

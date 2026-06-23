@@ -1,0 +1,115 @@
+﻿{
+  "subnavigation":[
+    {
+      "label":"Planung",
+      "icon":"fa fa-desktop",
+      "links":[
+        {"text":"Ausschreibungstexte","link":"wt50fp_ei30_at"},
+        {"text":"Füllungen & Größen","link":"wt50fp_ei30_fg"},
+        {"text":"Systemdatenblatt","link":"wt50fp_ei30_sd"}
+      ]
+    },
+    {
+      "label":"CAD-Unterstützung",
+      "icon":"fa fa-usb",
+      "links":[
+        {"text":"Konstruktionsschnitte","link":"wt50fp_ei30_ks"},
+        {"text":"Profilkonturen (.dwg)","link":"wt50fp_ei30_pk"},
+        {"text":"Vorschläge Bauanschlüsse","link":"wt50fp_ei30_ba", "active":true}
+      ]
+    },
+    {
+      "label":"Dokumentation",
+      "icon":"fa fa-book",
+      "links":[
+        {"text":"Programm & Verarbeitung","link":"wt50fp_ei30_pv"}
+      ]
+    }
+  ],
+  "content":{
+    "list":[
+      {
+        "desc1":"F50FPA023",
+        "desc2":"Oberer Anschluss",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/f50fpa023p.png?v=5b17ecbca58c8bae02c33b8e4ac1aff63f737f75",
+        "img":"../globalassets/media/sections/wicona/png/f50fpa023.png?v=849634c61298054a3c81f5ca5169d668d9422c22",
+        "dwg":"../globalassets/media/sections/wicona/dwg/wf50fpa023.dwg?v=8b082740dfa6a363034e6be9978a265ffaced375",
+        "tags":["135023","135071","135193","135177","135178","190107","190286","190301","190311","196061","199168","199175","199180"]
+      },
+      {
+        "desc1":"F50FPA024",
+        "desc2":"Seitlicher Anschluss",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/f50fpa024p.png?v=4fb2cb87a1c9e268fa28c5c1bde30791a3433534",
+        "img":"../globalassets/media/sections/wicona/png/f50fpa024.png?v=672fbf99195522ff31bc166107cead57f19a44bf",
+        "dwg":"../globalassets/media/sections/wicona/dwg/wf50fpa024.dwg?v=8726a7a2a7a73cbb053e5753d20d08129c87753c",
+        "tags":["135002","135072","135193","190282","190311","196061","199168","199175","199180"]
+      },
+      {
+        "desc1":"F50FPA025",
+        "desc2":"Seitlicher Anschluss",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/f50fpa025p.png?v=3a3f2af77a2f342df3ca5357b0079f95bdf1e1c2",
+        "img":"../globalassets/media/sections/wicona/png/f50fpa025.png?v=445abdc4373c8e7e980b267b1e71e3ee6f319b2f",
+        "dwg":"../globalassets/media/sections/wicona/dwg/wf50fpa025.dwg?v=391df2a68acd70c7f456365a58cd781b35d4611d",
+        "tags":["135002","135072","135193","135304","190282","190311","196061","199168","199175"]
+      },
+      {
+        "desc1":"6203MW-001",
+        "desc2":"Bauanschluss unten - Schwellenlösung",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/6203MW-001p.png?v=8748cc81ee3f2094f22b72d401f5708b536eeeac",
+        "img":"../globalassets/media/sections/wicona/png/6203MW-001.png?v=0344e4e8870b6a1b61bfeb48f593a5e226699f82",
+        "dwg":"../globalassets/media/sections/wicona/dwg/6203MW-001.dwg?v=7da207205f2ab822002c830328014373644f1b7a",
+        "tags":["199174","1021232","1021235","1021353","3090077","4010016","4010065","4010101","4010103","4030187","4070448","4080201","4080205","4090042","4090068","4090084","4910041"]
+      },
+      {
+        "desc1":"6203MW-001",
+        "desc2":"Bauanschluss unten - Schwellenlösung",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/6203MW-001p.png?v=8748cc81ee3f2094f22b72d401f5708b536eeeac",
+        "img":"../globalassets/media/sections/wicona/png/6203MW-001.png?v=0344e4e8870b6a1b61bfeb48f593a5e226699f82",
+        "dwg":"../globalassets/media/sections/wicona/dwg/6203MW-001.dwg?v=7da207205f2ab822002c830328014373644f1b7a",
+        "tags":["199174","1021232","1021235","1021353","3090077","4010016","4010065","4010101","4010103","4030187","4070448","4080201","4080205","4090042","4090068","4090084","4910041"]
+      },
+      {
+        "desc1":"6203MW-001",
+        "desc2":"Bauanschluss unten - Schwellenlösung",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/6203MW-001p.png?v=8748cc81ee3f2094f22b72d401f5708b536eeeac",
+        "img":"../globalassets/media/sections/wicona/png/6203MW-001.png?v=0344e4e8870b6a1b61bfeb48f593a5e226699f82",
+        "dwg":"../globalassets/media/sections/wicona/dwg/6203MW-001.dwg?v=7da207205f2ab822002c830328014373644f1b7a",
+        "tags":["199174","1021232","1021235","1021353","3090077","4010016","4010065","4010101","4010103","4030187","4070448","4080201","4080205","4090042","4090068","4090084","4910041"]
+      },
+      {
+        "desc1":"6203MW-001",
+        "desc2":"Bauanschluss unten - Schwellenlösung",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/6203MW-001p.png?v=8748cc81ee3f2094f22b72d401f5708b536eeeac",
+        "img":"../globalassets/media/sections/wicona/png/6203MW-001.png?v=0344e4e8870b6a1b61bfeb48f593a5e226699f82",
+        "dwg":"../globalassets/media/sections/wicona/dwg/6203MW-001.dwg?v=7da207205f2ab822002c830328014373644f1b7a",
+        "tags":["199174","1021232","1021235","1021353","3090077","4010016","4010065","4010101","4010103","4030187","4070448","4080201","4080205","4090042","4090068","4090084","4910041"]
+      },
+      {
+        "desc1":"6203MW-001",
+        "desc2":"Bauanschluss unten - Schwellenlösung",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/6203MW-001p.png?v=8748cc81ee3f2094f22b72d401f5708b536eeeac",
+        "img":"../globalassets/media/sections/wicona/png/6203MW-001.png?v=0344e4e8870b6a1b61bfeb48f593a5e226699f82",
+        "dwg":"../globalassets/media/sections/wicona/dwg/6203MW-001.dwg?v=7da207205f2ab822002c830328014373644f1b7a",
+        "tags":["199174","1021232","1021235","1021353","3090077","4010016","4010065","4010101","4010103","4030187","4070448","4080201","4080205","4090042","4090068","4090084","4910041"]
+      },
+      {
+        "desc1":"F50FPA026",
+        "desc2":"Gebäudeecke",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/f50fpa026p.png?v=2304972ef248705b472ff7166949388fcc22a257",
+        "img":"../globalassets/media/sections/wicona/png/f50fpa026.png?v=4464d30796bf25c4ee144982a3d296189186a511",
+        "dwg":"../globalassets/media/sections/wicona/dwg/wf50fpa026.dwg?v=8f50cee667575943b2d14e4b563337194dbe8e83",
+        "tags":["135001","135004","135072","135193","135306","190280","190311","196061","196062","199168","199174","199175","199180","199306"]
+      }
+    ]
+  },
+  "style":{"background":false}
+}

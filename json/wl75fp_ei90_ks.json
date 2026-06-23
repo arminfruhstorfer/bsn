@@ -1,0 +1,79 @@
+﻿{
+  "subnavigation":[
+    {
+      "label":"Planung",
+      "icon":"fa fa-desktop",
+      "links":[
+        {"text":"Ausschreibungstexte","link":"wl75fp_ei90_at"},
+        {"text":"Füllungen & Größen","link":"wl75fp_ei90_fg"},
+        {"text":"Systemdatenblatt","link":"wl75fp_ei90_sd"}
+      ]
+    },
+    {
+      "label":"CAD-Unterstützung",
+      "icon":"fa fa-usb",
+      "links":[
+        {"text":"Konstruktionsschnitte","link":"wl75fp_ei90_ks", "active":true},
+        {"text":"Profilkonturen (.dwg)","link":"wl75fp_ei90_pk"},
+        {"text":"Vorschläge Bauanschlüsse","link":"wl75fp_ei90_ba"}
+      ]
+    },
+    {
+      "label":"Dokumentation",
+      "icon":"fa fa-book",
+      "links":[
+        {"text":"Programm & Verarbeitung","link":"wl75fp_ei90_pv"}
+      ]
+    }
+  ],
+  "content":{
+    "list":[
+      {
+        "desc1":"DOC-FPA0000061",
+        "desc2":"Blendrahmen",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000061p.png?v=67160df957efa41cfb475ad6a3f92f401831d4b1",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000061.png?v=a469ac5c2074b5b4749b27d044f8d14f910b7c69",
+        "dwg":"../globalassets/media/sections/wicona/dwg/wl75fp_ei90_ks.dwg?v=b5190835b92d6ca937a99244876563395762de8a",
+        "tags":["1311073","3991006","4010016","4010297","4080325","4080332","4090033","4090037","4090216","4090223"]
+      },
+      {
+        "desc1":"DOC-FPA0000062",
+        "desc2":"Blendrahmen oben",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000062p.png?v=e0b2f2f0f6598a672bad348f2267b20a8907f942",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000062.png?v=e4cfd045b5539495b73fd2fbc8b0e58752504a2f",
+        "dwg":"../globalassets/media/sections/wicona/dwg/wl75fp_ei90_ks.dwg?v=b5190835b92d6ca937a99244876563395762de8a",
+        "tags":["1311073","3991006","4010016","4010297","4080325","4080332","4090033","4090037","4090216","4090223"]
+      },
+      {
+        "desc1":"DOC-FPA0000063",
+        "desc2":"Kämpfer",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000063p.png?v=44fea98677fc795f738dcb41963ff39dcc451fe4",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000063.png?v=d0d4a12c9324c87bdbdf1c23a659909fc4ae25da",
+        "dwg":"../globalassets/media/sections/wicona/dwg/wl75fp_ei90_ks.dwg?v=b5190835b92d6ca937a99244876563395762de8a",
+        "tags":["1917206","3991006","4010016","4010297","4080325","4080332","4090035","4090040","4090216","4090223"]
+      },
+      {
+        "desc1":"DOC-FPA0000064",
+        "desc2":"Kämpfer verstärkt",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000064p.png?v=c6409414743ea83eb3b877f05ff8af74f4ae2009",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000064.png?v=a76cb01a75628fa846459164b423b841c2c520b5",
+        "dwg":"../globalassets/media/sections/wicona/dwg/wl75fp_ei90_ks.dwg?v=b5190835b92d6ca937a99244876563395762de8a",
+        "tags":["1010592","3991006","4010016","4010297","4080325","4080332","4090034","4090039","4090216","4090223"]
+      },
+      {
+        "desc1":"DOC-FPA0000065",
+        "desc2":"Blendrahmen mit Aufdoppelung",
+        "type":"Section",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000065p.png?v=d3ed7e53853077722f740631f96474b3bfc7c8f5",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000065.png?v=d6b5c2d8f9bd09869ddd64b9378118568ee03f94",
+        "dwg":"../globalassets/media/sections/wicona/dwg/wl75fp_ei90_ks.dwg?v=b5190835b92d6ca937a99244876563395762de8a",
+        "tags":["1311073","1917060","4010016","4010047","4010297","4030187","4070448","4080202","4080325","4080332","4090033","4090036","4090037","4090041"]
+      }
+    ]
+  },
+  "style":{"background":false}
+}

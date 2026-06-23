@@ -1,0 +1,47 @@
+﻿{
+  "subnavigation":[
+    {
+      "label":"Planung",
+      "icon":"fa fa-desktop",
+      "links":[
+        {"text":"Füllungen & Größen","link":"ws65nngfp_ew30_fg"},
+        {"text":"Systemdatenblatt","link":"ws65nngfp_ew30_sd"}
+      ]
+    },
+    {
+      "label":"CAD-Unterstützung",
+      "icon":"fa fa-usb",
+      "links":[
+        {"text":"Konstruktionsschnitte","link":"ws65nngfp_ew30_ks"},
+        {"text":"Profilkonturen (.dwg)","link":"ws65nngfp_ew30_pk"},
+        {"text":"Vorschläge Bauanschlüsse","link":"ws65nngfp_ew30_ba"}
+      ]
+    },
+    {
+      "label":"Dokumentation",
+      "icon":"fa fa-book",
+      "links":[
+        {"text":"Montageanleitung","link":"ws65nngfp_ew30_ma", "active":true},
+        {"text":"Programm & Verarbeitung","link":"ws65nngfp_ew30_pv"}
+      ]
+    }
+  ],
+  "content":{
+    "list":[
+
+      {
+        "desc1":"Montageanleitung Brandschutz",
+        "pimg":"../globalassets/media/items/wicona/png/ws65nngfp_ew30_bs_ma.png?v=6497e0df07699d63f72441b174ded4e337397c7f",
+        "pdf":"../globalassets/media/items/wicona/pdf/ws65nngfp_ew30_bs_ma.pdf?v=fbf97f56c981655089dcd58acafba861e7c52a04",
+        "ebook":"../ebook.html?d=561040"
+      },
+      {
+        "desc1":"Montageanleitung Rauchschutz",
+        "pimg":"../globalassets/media/items/wicona/png/ws65nngfp_ew30_rs_ma.png?v=fc33e57cd611199c29646724db4011438dac3f6a",
+        "pdf":"../globalassets/media/items/wicona/pdf/ws65nngfp_ew30_rs_ma.pdf?v=33ff6dba33dd2a165d38158c2c14517318f932dc",
+        "ebook":"../ebook.html?d=694485"
+      }
+    ]
+  },
+  "style":{"background":false}
+}

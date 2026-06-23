@@ -1,0 +1,41 @@
+﻿{
+  "subnavigation":[
+    {
+      "label":"Planung",
+      "icon":"fa fa-desktop",
+      "links":[
+        {"text":"Ausschreibungstexte","link":"wt50fp_ei30_at"},
+        {"text":"Füllungen & Größen","link":"wt50fp_ei30_fg", "active":true},
+        {"text":"Systemdatenblatt","link":"wt50fp_ei30_sd"}
+      ]
+    },
+    {
+      "label":"CAD-Unterstützung",
+      "icon":"fa fa-usb",
+      "links":[
+        {"text":"Konstruktionsschnitte","link":"wt50fp_ei30_ks"},
+        {"text":"Profilkonturen (.dwg)","link":"wt50fp_ei30_pk"},
+        {"text":"Vorschläge Bauanschlüsse","link":"wt50fp_ei30_ba"}
+      ]
+    },
+    {
+      "label":"Dokumentation",
+      "icon":"fa fa-book",
+      "links":[
+        {"text":"Programm & Verarbeitung","link":"wt50fp_ei30_pv"}
+      ]
+    }
+  ],
+  "content":{
+    "list":[
+
+      {
+        "desc1":"Element- und Glasgrößen",
+        "pimg":"../globalassets/media/items/wicona/png/wt50fp_ei30_eg.png?v=4c6562f1803e54113b1b746e27124dd212f22b94",
+        "pdf":"../globalassets/media/items/wicona/pdf/wt50fp_ei30_eg.pdf?v=4cdaef411fd7a7448386c808423d89392717d259",
+        "ebook":"../ebook.html?d=412766"
+      }
+    ]
+  },
+  "style":{"background":false}
+}

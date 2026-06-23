@@ -1,0 +1,74 @@
+﻿{
+  "subnavigation":[
+    {
+      "label":"Planung",
+      "icon":"fa fa-desktop",
+      "links":[
+        {"text":"Ausschreibungstexte","link":"wl75fp_ei30_at"},
+        {"text":"Füllungen & Größen CE","link":"wl75fp_ei30_fg_ce"},
+        {"text":"Füllungen & Größen ÜA","link":"wl75fp_ei30_fg_ua"},
+        {"text":"Systemdatenblatt","link":"wl75fp_ei30_sd"}
+      ]
+    },
+    {
+      "label":"CAD-Unterstützung",
+      "icon":"fa fa-usb",
+      "links":[
+        {"text":"Konstruktionsschnitte","link":"wl75fp_ei30_ks"},
+        {"text":"Profilkonturen (.dwg)","link":"wl75fp_ei30_pk"},
+        {"text":"Vorschläge Bauanschlüsse","link":"wl75fp_ei30_ba"}
+      ]
+    },
+    {
+      "label":"Dokumentation",
+      "icon":"fa fa-book",
+      "links":[
+        {"text":"Dokumentation CE","link":"wl75fp_ei30_do_ce", "active":true},
+        {"text":"Montageanleitung ÜA","link":"wl75fp_ei30_ma_ua"},
+        {"text":"Programm ÜA","link":"wl75fp_ei30_pl_ua"},
+        {"text":"Verarbeitung","link":"wl75fp_ei30_vr"},
+        {"text":"Vorlagen","link":"wl75fp_ei30_vo"}
+      ]
+    }
+  ],
+  "content":{
+    "list":[
+
+      {
+        "desc1":"EXAP - Dokumentation allgemein",
+        "desc2":"WICLINE 75FP, EXAP - Dokumentation allgemein",
+        "pimg":"../globalassets/media/items/wicona/png/wl75fp_exap_ag.png?v=b05c18f3e540cf509a816bda8cbf7debb751d3ad",
+        "pdf":"https://wictip.wicona.com/tip-media/ebook/4f4eb177-2a95-4af2-8ce1-1bff33fa3038",
+        "ebook":"../ebook.html?d=014017"
+      },
+      {
+        "desc1":"EXAP - Konstruktionsschnitte",
+        "desc2":"WICLINE 75FP, EXAP - Konstruktionsschnitte",
+        "pimg":"../globalassets/media/items/wicona/png/wl75fp_exap_ks.png?v=cb676ecdeaa40afb5014f422bb84970436e9a8cc",
+        "pdf":"https://wictip.wicona.com/tip-media/ebook/85e67dd4-29e6-4419-9275-46b3cda7f5ae",
+        "ebook":"../ebook.html?d=760723"
+      },
+      {
+        "desc1":"EXAP - Kettenantrieb AT",
+        "desc2":"WICLINE 75FP, EXAP - Kettenantrieb AT",
+        "pimg":"../globalassets/media/items/wicona/png/wl75fp_exap_ka.png?v=711ae7943313519df92aa53966c279bf1e5a97c3",
+        "pdf":"../globalassets/media/items/wicona/pdf/wl75fp_exap_cd.pdf?v=c691ee11d920b4ae46aea55e67d7278dddd09724",
+        "ebook":"../ebook.html?d=814490"
+      },
+      {
+        "desc1":"EXAP - Einbauanleitung",
+        "desc2":"WICLINE 75FP, EXAP - Einbauanleitung",
+        "pimg":"../globalassets/media/items/wicona/png/wl75fp_exap_ea.png?v=261fb50af48ffb4d440ac87e9618e7cb73996e1b",
+        "pdf":"https://wictip.wicona.com/tip-media/ebook/17ebc4b8-9774-42f4-bad1-25a57389d4d8",
+        "ebook":"../ebook.html?d=709037"
+      },
+      {
+        "desc1":"Zulässige Beschlagsformate CE",
+        "pimg":"../globalassets/media/items/wicona/png/wl75fp_ei30_fg.png?v=033a3ecdb4404df9108a841a07989ef6627a0561",
+        "pdf":"../globalassets/media/items/wicona/pdf/wl75fp_ei30_fg.pdf?v=229b498d2a4f2f3355af608afbb104f482e0782e",
+        "ebook":"../ebook.html?d=513737"
+      }
+    ]
+  },
+  "style":{"background":false}
+}

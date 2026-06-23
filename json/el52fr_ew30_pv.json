@@ -1,0 +1,45 @@
+﻿{
+  "subnavigation":[
+    {
+      "label":"Planung",
+      "icon":"fa fa-desktop",
+      "links":[
+        {"text":"Füllungen & Größen","link":"el52fr_ew30_fg"}
+      ]
+    },
+    {
+      "label":"CAD-Unterstützung",
+      "icon":"fa fa-usb",
+      "links":[
+        {"text":"Konstruktionsschnitte","link":"el52fr_ew30_ks"},
+        {"text":"Profilkonturen (.dwg)","link":"el52fr_ew30_pk"},
+        {"text":"Vorschläge Bauanschlüsse","link":"el52fr_ew30_ba"}
+      ]
+    },
+    {
+      "label":"Dokumentation",
+      "icon":"fa fa-book",
+      "links":[
+        {"text":"Programm & Verarbeitung","link":"el52fr_ew30_pv", "active":true}
+      ]
+    }
+  ],
+  "content":{
+    "list":[
+
+      {
+        "desc1":"Programmliste",
+        "pimg":"../globalassets/media/items/wicona/png/se52fr_ei30_pl.png?v=eecb14fc1eaeeb0276d8726718890e4ecd1f7a15",
+        "pdf":"../globalassets/media/items/wicona/pdf/se52fr_ei30_pl.pdf?v=a608f990c285fefe478b9406637fce1b0dbb77ef",
+        "ebook":"../ebook.html?d=533424"
+      },
+      {
+        "desc1":"Verarbeitungsrichtlinien",
+        "pimg":"../globalassets/media/items/wicona/png/se52fr_ei30_va.png?v=dd0132b067109e2df287418ae75317f448bfaea2",
+        "pdf":"../globalassets/media/items/wicona/pdf/se52fr_ei30_va.pdf?v=3c35ff58d5088feb3992a8ef7764f980be697657",
+        "ebook":"../ebook.html?d=579518"
+      }
+    ]
+  },
+  "style":{"background":false}
+}

@@ -1,0 +1,61 @@
+﻿{
+  "subnavigation":[
+    {
+      "label":"Planung",
+      "icon":"fa fa-desktop",
+      "links":[
+        {"text":"Ausschreibungstexte","link":"wl75fp_ei90_at"},
+        {"text":"Füllungen & Größen","link":"wl75fp_ei90_fg"},
+        {"text":"Systemdatenblatt","link":"wl75fp_ei90_sd"}
+      ]
+    },
+    {
+      "label":"CAD-Unterstützung",
+      "icon":"fa fa-usb",
+      "links":[
+        {"text":"Konstruktionsschnitte","link":"wl75fp_ei90_ks"},
+        {"text":"Profilkonturen (.dwg)","link":"wl75fp_ei90_pk"},
+        {"text":"Vorschläge Bauanschlüsse","link":"wl75fp_ei90_ba", "active":true}
+      ]
+    },
+    {
+      "label":"Dokumentation",
+      "icon":"fa fa-book",
+      "links":[
+        {"text":"Programm & Verarbeitung","link":"wl75fp_ei90_pv"}
+      ]
+    }
+  ],
+  "content":{
+    "list":[
+      {
+        "desc1":"DOC-FPA0000066",
+        "desc2":"Bauanschluss seitlich",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000066p.png?v=ccfcbe3fec33269a37e8ddd3535825cd977cded6",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000066.png?v=3ebe40c7f8bfce6c0451b4a2dd91012f979f10ce",
+        "dwg":"../globalassets/media/sections/wicona/dwg/wl75fp_ei90_ks.dwg?v=b5190835b92d6ca937a99244876563395762de8a",
+        "tags":["1311073","4090033","4090037","4940171"]
+      },
+      {
+        "desc1":"DOC-FPA0000067",
+        "desc2":"Kopplung mit Türe",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000067p.png?v=f8aea79b7608cf84d450a51b6055a442b4b14caf",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000067.png?v=fcaebeca5e74318e29d9d149d3eb5aaac189f3cc",
+        "dwg":"../globalassets/media/sections/wicona/dwg/wl75fp_ei90_ks.dwg?v=b5190835b92d6ca937a99244876563395762de8a",
+        "tags":["1021351","1311073","4070448","4080202","4090033","4090037","4940171"]
+      },
+      {
+        "desc1":"DOC-FPA0000068",
+        "desc2":"Kopplung mit Türe",
+        "type":"",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000068p.png?v=867cba8e62b9d523ebab6ed1cffcfe77c3b736e1",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000068.png?v=e613af89b9fdff0fba304f861b2c94985071cc4b",
+        "dwg":"../globalassets/media/sections/wicona/dwg/wl75fp_ei90_ks.dwg?v=b5190835b92d6ca937a99244876563395762de8a",
+        "tags":[]
+      }
+    ]
+  },
+  "style":{"background":false}
+}

@@ -1,0 +1,214 @@
+﻿{
+  "subnavigation":[
+    {
+      "label":"Planung",
+      "icon":"fa fa-desktop",
+      "links":[
+        {"text":"Ausschreibungstexte","link":"ws70nfp_ew30_at"},
+        {"text":"Füllungen & Größen","link":"ws70nfp_ew30_fg"}
+      ]
+    },
+    {
+      "label":"CAD-Unterstützung",
+      "icon":"fa fa-usb",
+      "links":[
+        {"text":"Konstruktionsschnitte","link":"ws70nfp_ew30_ks"},
+        {"text":"Profilkonturen (.dwg)","link":"ws70nfp_ew30_pk"},
+        {"text":"Vorschläge Bauanschlüsse","link":"ws70nfp_ew30_ba", "active":true}
+      ]
+    },
+    {
+      "label":"Dokumentation",
+      "icon":"fa fa-book",
+      "links":[
+        {"text":"Montageanleitung ÜA","link":"ws70nfp_ew30_ma"},
+        {"text":"Programmliste & Verarbeitung","link":"ws70nfp_ew30_pv"}
+      ]
+    }
+  ],
+  "content":{
+    "list":[
+      {
+        "desc1":"DOC-FPA0000025",
+        "desc2":"Bauanschluss seitlich",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000025p.png?v=f3a905fac8582a421a3bbf1430ad9bd76b7bc911",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000025.png?v=5f0e1587c246a1379278753404ef5b60b9633f5b",
+        "dwg":"../globalassets/media/sections/wicona/dwg/GDFPa915.dwg?v=2212dcd8856d0fa988aef82717fdf6496fe910ea",
+        "tags":["132341","190507","199161"]
+      },
+      {
+        "desc1":"DOC-FPA0000026",
+        "desc2":"Bauanschluss seitlich",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000026p.png?v=66979c37bf59c663121a12dcbae092bb3f5060c2",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000026.png?v=29c544c11182e2e9f1a6a09442915d36250cbf7f",
+        "dwg":"../globalassets/media/sections/wicona/dwg/GDFPa915.dwg?v=2212dcd8856d0fa988aef82717fdf6496fe910ea",
+        "tags":["132346","190508","199162","3091017"]
+      },
+      {
+        "desc1":"DOC-FPA0000027",
+        "desc2":"Bauanschluss seitlich",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000027p.png?v=9e79b51c2be55c756540a1bcef7313c6a51f5a99",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000027.png?v=f77cfba4f907e1188d970a8f12b971fc0450e490",
+        "dwg":"../globalassets/media/sections/wicona/dwg/GDFPa915.dwg?v=2212dcd8856d0fa988aef82717fdf6496fe910ea",
+        "tags":["132344","190507","190508","199161","3091017"]
+      },
+      {
+        "desc1":"DOC-FPA0000028",
+        "desc2":"Bauanschluss seitlich",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000028p.png?v=397e3884fcb1134a1ed080adbdd4c3f3f32de3a4",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000028.png?v=d0786b57248481cda1a106929189ca824561b319",
+        "dwg":"../globalassets/media/sections/wicona/dwg/GDFPa915.dwg?v=2212dcd8856d0fa988aef82717fdf6496fe910ea",
+        "tags":["132352","199162"]
+      },
+      {
+        "desc1":"DOC-FPA0000029",
+        "desc2":"Bauanschluss seitlich",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000029p.png?v=46143afb39111fa6d68d686c5f35b17a998945ff",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000029.png?v=035273ed97e18c7ca9f68e27d70ebfb3d5b0b54c",
+        "dwg":"../globalassets/media/sections/wicona/dwg/GDFPa915V.dwg?v=59e11fce82f297a48489d0662129cca8a18e80b3",
+        "tags":["132342","199231"]
+      },
+      {
+        "desc1":"DOC-FPA0000030",
+        "desc2":"Bauanschluss seitlich",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000030p.png?v=b65f110bbe926abd86a0504c6ca2ea2dc1faa9ee",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000030.png?v=34a84f66b8d58e9e63e221943eae18c28703877a",
+        "dwg":"../globalassets/media/sections/wicona/dwg/GDFPa915V.dwg?v=59e11fce82f297a48489d0662129cca8a18e80b3",
+        "tags":["132341","190507","199161"]
+      },
+      {
+        "desc1":"DOC-FPA0000031",
+        "desc2":"Bauanschluss seitlich",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000031p.png?v=b758b767ee7670973b975595a806edf8cf0961f2",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000031.png?v=509969a51baa8604574855a4d90274d774fb9cc4",
+        "dwg":"../globalassets/media/sections/wicona/dwg/GDFPa915V.dwg?v=59e11fce82f297a48489d0662129cca8a18e80b3",
+        "tags":["132346","190508","199231","3091017"]
+      },
+      {
+        "desc1":"DOC-FPA0000032",
+        "desc2":"Bauanschluss seitlich",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000032p.png?v=4933d00f362b67c14cc6f22297526bc51eb9ad85",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000032.png?v=193ab931de36b02ac968762111da7b0f0698b170",
+        "dwg":"../globalassets/media/sections/wicona/dwg/GDFPa915V.dwg?v=59e11fce82f297a48489d0662129cca8a18e80b3",
+        "tags":["132341","190507","199161"]
+      },
+      {
+        "desc1":"DOC-FPA0000033",
+        "desc2":"Bauanschluss seitlich",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000033p.png?v=937bd80bbbac4ade5a5ddb77e5e2e792cddf9410",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000033.png?v=b5c6da528d09f73c2cfd45fd358b79d82a17d72d",
+        "dwg":"../globalassets/media/sections/wicona/dwg/GDFPa916.dwg?v=b95e6e226ade69d399dd0ff7ad60625403ef96d3",
+        "tags":["132344","199161"]
+      },
+      {
+        "desc1":"DOC-FPA0000034",
+        "desc2":"Bauanschluss seitlich",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000034p.png?v=72bcbbf5723febf5fa75e5c09bb806b3198d0e84",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000034.png?v=3de957788af4f908ff3777ec1eea4ce2ac9f5a62",
+        "dwg":"../globalassets/media/sections/wicona/dwg/GDFPa916.dwg?v=b95e6e226ade69d399dd0ff7ad60625403ef96d3",
+        "tags":["132345","199161","4010060"]
+      },
+      {
+        "desc1":"DOC-FPA0000035",
+        "desc2":"Bauanschluss seitlich",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000035p.png?v=f4f6e38eb5ac73b07f13bdef9c4d0626fa69b349",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000035.png?v=173fba1a6390477965004b0d4f3f1ed7bb42022d",
+        "dwg":"../globalassets/media/sections/wicona/dwg/GDFPa916.dwg?v=b95e6e226ade69d399dd0ff7ad60625403ef96d3",
+        "tags":["132341","190507","199161","4000020"]
+      },
+      {
+        "desc1":"DOC-FPA0000036",
+        "desc2":"Bauanschluss seitlich",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000036p.png?v=98a8ed24e1fad005a7007b9da01a298b40e7c9f1",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000036.png?v=d2ff7be155251da32f3dbc1dae4ded7e1f4e9f03",
+        "dwg":"../globalassets/media/sections/wicona/dwg/GDFPa916.dwg?v=b95e6e226ade69d399dd0ff7ad60625403ef96d3",
+        "tags":["132341","190507","199161","4000020"]
+      },
+      {
+        "desc1":"DOC-FPA0000037",
+        "desc2":"Bauanschluss seitlich",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000037p.png?v=6a17fccb2ca7fb21af7f4d2563a6c10fff3f3c40",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000037.png?v=0b25b7a78bf30970e8bd11bc8ca1d71e2a85ce5a",
+        "dwg":"../globalassets/media/sections/wicona/dwg/GDFPa916V.dwg?v=6fa135ef9d49d3ce8a655907bb335b1d41971a82",
+        "tags":["132344","190507","190508","199161","3091017"]
+      },
+      {
+        "desc1":"DOC-FPA0000038",
+        "desc2":"Bauanschluss seitlich",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000038p.png?v=2da5e78493c0548a3e6f5f3f658822de6fd66062",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000038.png?v=85ca791ed6684b0795d2897e9ec23d1559043716",
+        "dwg":"../globalassets/media/sections/wicona/dwg/GDFPa916V.dwg?v=6fa135ef9d49d3ce8a655907bb335b1d41971a82",
+        "tags":["132346","190508","199231","3091017"]
+      },
+      {
+        "desc1":"DOC-FPA0000039",
+        "desc2":"Bauanschluss unten",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000039p.png?v=656f9596a20dfa266a7c44e14e50e46d5b87bc79",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000039.png?v=b5602e716198d090d9d7d720d2b0db698878c506",
+        "dwg":"../globalassets/media/sections/wicona/dwg/GDFPa917.dwg?v=cea6aa6de3d8c0e8b3db2df803af3855263c2f3c",
+        "tags":["132345","190508","190523","199231","3091024"]
+      },
+      {
+        "desc1":"DOC-FPA0000040",
+        "desc2":"Bauanschluss unten",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000040p.png?v=8a6ced82f7a1adf25c2088d0cad96b84abd91b0c",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000040.png?v=87b7a69dc2239140b5d60df42ab49fb964270f57",
+        "dwg":"../globalassets/media/sections/wicona/dwg/GDFPa917.dwg?v=cea6aa6de3d8c0e8b3db2df803af3855263c2f3c",
+        "tags":["132345","190508","190523","199231","3091024"]
+      },
+      {
+        "desc1":"DOC-FPA0000041",
+        "desc2":"Bauanschluss unten",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000041p.png?v=aa93a717e9e21ba1b835ca125ddebdbb50c2c2f3",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000041.png?v=600425d646a665dd959e81fad595e3db77a38124",
+        "dwg":"../globalassets/media/sections/wicona/dwg/GDFPa917.dwg?v=cea6aa6de3d8c0e8b3db2df803af3855263c2f3c",
+        "tags":["132351","190508","190523","199231","3091024"]
+      },
+      {
+        "desc1":"DOC-FPA0000042",
+        "desc2":"Bauanschluss unten",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000042p.png?v=8e12d519034c50ed77d76c27b19688efa5207846",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000042.png?v=92831c5880607562a8a254dbf8c3bf51c0b8cb95",
+        "dwg":"../globalassets/media/sections/wicona/dwg/GDFPa917.dwg?v=cea6aa6de3d8c0e8b3db2df803af3855263c2f3c",
+        "tags":["132351","190508","190523","199231","3091024"]
+      },
+      {
+        "desc1":"DOC-FPA0000043",
+        "desc2":"Bauanschluss unten",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000043p.png?v=7ca24dbe327d3919cd77c9d7fc1d8eb506776b65",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000043.png?v=7d2381509daf1069ae60984bafc358f89cf29754",
+        "dwg":"../globalassets/media/sections/wicona/dwg/GDFPa918V.dwg?v=242de5a0e486346fbe71a8c76d049d52ae01ac8d",
+        "tags":["132344","190507","190508","190524","199234","3091023","4020006"]
+      },
+      {
+        "desc1":"DOC-FPA0000044",
+        "desc2":"Bauanschluss unten",
+        "type":"Junction",
+        "pimg":"../globalassets/media/sections/wicona/png/DOC-FPA0000044p.png?v=17dcc31d5c7b1b4f108791ee7b9a47cadaad0ac9",
+        "img":"../globalassets/media/sections/wicona/png/DOC-FPA0000044.png?v=4b0cde494556600969e2e48456500bd793764261",
+        "dwg":"../globalassets/media/sections/wicona/dwg/GDFPa918V.dwg?v=242de5a0e486346fbe71a8c76d049d52ae01ac8d",
+        "tags":["132343","190507","190508","190524","199231","3091023","4020006"]
+      }
+    ]
+  },
+  "style":{"background":false}
+}

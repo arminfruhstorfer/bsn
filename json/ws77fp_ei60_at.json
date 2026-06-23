@@ -1,0 +1,121 @@
+﻿{
+  "subnavigation":[
+    {
+      "label":"Planung",
+      "icon":"fa fa-desktop",
+      "links":[
+        {"text":"Ausschreibungstexte","link":"ws77fp_ei60_at", "active":true},
+        {"text":"Füllungen & Größen CE","link":"ws77fp_ei60_fg_ce"},
+        {"text":"Füllungen & Größen ÜA","link":"ws77fp_ei60_fg_ua"},
+        {"text":"Systemdatenblatt","link":"ws77fp_ei60_sd"}
+      ]
+    },
+    {
+      "label":"CAD-Unterstützung",
+      "icon":"fa fa-usb",
+      "links":[
+        {"text":"Konstruktionsschnitte","link":"ws77fp_ei60_ks"},
+        {"text":"Profilkonturen (.dwg)","link":"ws77fp_ei60_pk"},
+        {"text":"Vorschläge Bauanschlüsse","link":"ws77fp_ei60_ba"}
+      ]
+    },
+    {
+      "label":"Dokumentation",
+      "icon":"fa fa-book",
+      "links":[
+        {"text":"Dokumentation CE","link":"ws77fp_ei60_do_ce"},
+        {"text":"Montageanleitung ÜA","link":"ws77fp_ei60_ma_ua"},
+        {"text":"Programm ÜA","link":"ws77fp_ei60_pl_ua"},
+        {"text":"Verarbeitung","link":"ws77fp_ei60_vr"}
+      ]
+    }
+  ],
+  "content":{
+    "text":[
+      {
+        "tagtype":"h3",
+        "text":[
+          {"line":"WICSTYLE 77FP EI60-C Alu-Feuerschutztüre gedämmt Bautiefe 77mm"},
+          {"line":"(Technische Spezifikation)"}
+        ]
+      },
+      {
+        "tagtype":"p",
+        "text":[
+          {"line":"Gegenstand der Ausschreibung sind Herstellung, Lieferung und Einbau von Aluminiumtüren als Feuerschutzabschluss der Brandwiderstandsklasse EI60-C (brandhemmend) nach ÖNORM EN 1634 Teil 1 (ein- und zweiflügelige Drehtüren), z. Bsp. WICSTYLE 77 FP."}
+        ]
+      },
+      {
+        "tagtype":"h3",
+        "text":[
+          {"line":"Bindend zu erfüllen sind folgende technische Anforderungen:"},
+          {"line":"Profiltechnik"}
+        ]
+      },
+      {
+        "tagtype":"p",
+        "text":[
+          {"line":"Fünfkammerhohlprofile mit Doppelverbund."},
+          {"line":"Industriell im Profilpresswerk ausgeführt, qualitätsgesichert nach ISO 9000 und mit Werksgarantie des Systemherstellers."},
+          {"line":"Grundbautiefe 77 mm"},
+          {"line":"Flügel innen und außen mit Rahmen bündig."},
+          {"line":"In die beiden äußeren Profilkammern werden auf die gefertigten Längen systemintegrierte Brandschutzplatten eingeschoben, um die Konstruktion im Brandfall zu kühlen."},
+          {"line":"In die Glas- und Türfälze werden systemintegrierte, einseitig selbstklebende Brandschutz-Dichtstreifen aufgeklebt, an den Sichtflächen schwarz kaschiert."},
+          {"line":"Äußere Anschlagstege 25 mm hoch Schattennuten zwischen Rahmen- und Flügelprofilen in der Ansicht 6 mm breit"},
+          {"line":"Profilquerschnitte sind nach günstigstem Verhältnis von Profilgewicht zu statischer Tragfähigkeit und Formstabilität bemessen."},
+          {"line":"Hauptansichtsbreiten außen:"},
+          {"line":"Rahmenprofile: 67 und 97 mm"},
+          {"line":"Kämpferprofile: 102 mm und 142 mm"},
+          {"line":"Türflügelprofile nach innen öffnend: 73 und 83 mm"},
+          {"line":"Türflügelprofile nach außen öffnend: 98 und 108 mm"},
+          {"line":"Sockelprofile: 117 und 142 mm"},
+          {"line":"Zusätzliche, in das System integrierte Profile:"},
+          {"line":"Aufsatzprofile entsprechend den Öffnungsarten "}
+        ]
+      },
+      {
+        "tagtype":"h3",
+        "text":[
+          {"line":"Füllungen"}
+        ]
+      },
+      {
+        "tagtype":"p",
+        "text":[
+          {"line":"von 21 bis 42 mm Füllungsdicke"},
+          {"line":"Standardglasleisten 16 - 34 mm breit, 22 mm hoch, schraubenlos in Nuten der Rahmen- und Flügelprofile einhakend"}
+        ]
+      },
+      {
+        "tagtype":"h3",
+        "text":[
+          {"line":"Dichtungssysteme"}
+        ]
+      },
+      {
+        "tagtype":"p",
+        "text":[
+          {"line":"umlaufende innere und äußere Verglasungsdichtungen aus EPDM, beide oben in Feldmitte gestoßen, Türanschlagdichtung umlaufend, aus EPDM, innere Verglasungsdichtungen 5 - 8 mm, äußere Verglasungsdichtung 9 mm"}
+        ]
+      },
+      {
+        "tagtype":"h3",
+        "text":[
+          {"line":"Beschlag"}
+        ]
+      },
+      {
+        "tagtype":"p",
+        "text":[
+          {"line":"Es werden grundsätzlich nur die zum angebotenen Profilsystem gehörigem Systembeschläge verwendet. Grundbeschläge werden entsprechend Flügelgröße durch Zusatzteile komplettiert. Mit zwei 3-teilige Bändern wird ein Flügelgewicht bis zu 200 kg erreicht. Bodendichtung, automatischem Höhenausgleich und gesichertem Andruck eines Silikonprofils gegen den Boden."},
+          {"line":"Öffnungsarten: Türen:"},
+          {"line":"Anschlagtüren ein- und zweiflügelig, nach innen und außen öffnend"},
+          {"line":"Paniktüren nach EN 179 und EN 1125"},
+          {"line":"Wahlweise als Rauchschutztüre (S200) mit absenkbarer Bodendichtung."},
+          {"line":"Über die Bauart der angebotenen Türen wird ein gültiges Prüfzeugnis einer staatlich autorisierten Prüfanstalt vorgelegt."}
+        ]
+      }
+    ]
+  },
+  "style":{"background":false}
+}

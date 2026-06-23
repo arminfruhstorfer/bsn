@@ -1,0 +1,71 @@
+﻿{
+  "subnavigation":[
+    {
+      "label":"Planung",
+      "icon":"fa fa-desktop",
+      "links":[
+        {"text":"Ausschreibungstexte","link":"ws77fp_ei30_at"},
+        {"text":"Füllungen & Größen CE","link":"ws77fp_ei30_fg_ce"},
+        {"text":"Füllungen & Größen ÜA","link":"ws77fp_ei30_fg_ua"},
+        {"text":"Systemdatenblatt","link":"ws77fp_ei30_sd"}
+      ]
+    },
+    {
+      "label":"CAD-Unterstützung",
+      "icon":"fa fa-usb",
+      "links":[
+        {"text":"Konstruktionsschnitte","link":"ws77fp_ei30_ks"},
+        {"text":"Profilkonturen (.dwg)","link":"ws77fp_ei30_pk"},
+        {"text":"Vorschläge Bauanschlüsse","link":"ws77fp_ei30_ba"}
+      ]
+    },
+    {
+      "label":"Dokumentation",
+      "icon":"fa fa-book",
+      "links":[
+        {"text":"Dokumentation CE","link":"ws77fp_ei30_do_ce", "active":true},
+        {"text":"Einbruchhemmung ","link":"ws77fp_ei30_rc"},
+        {"text":"Montageanleitung ÜA","link":"ws77fp_ei30_ma_ua"},
+        {"text":"Programmliste ÜA","link":"ws77fp_ei30_pl_ua"},
+        {"text":"Verarbeitung","link":"ws77fp_ei30_vr"},
+        {"text":"Vorlagen","link":"ws77fp_ei30_vo"}
+      ]
+    }
+  ],
+  "content":{
+    "list":[
+
+      {
+        "desc1":"WICSTYLE 77FP EXAP-Allgemein 12.2022",
+        "pimg":"../globalassets/media/items/wicona/png/ws77fp_exap_al.png?v=3125c1391aaa721fca80bda2b9bb50c8b4a35de3",
+        "pdf":"../globalassets/media/items/wicona/pdf/ws77fp_exap_al.pdf?v=8e98137b87f5bbd91258d3ebcdce01a8043e60bb",
+        "ebook":"../ebook.html?d=676175"
+      },
+      {
+        "desc1":"WICSTYLE 77FP EXAP-Beschläge 12.2022",
+        "pimg":"../globalassets/media/items/wicona/png/ws77fp_exap_bs.png?v=8a507f830dde1a787b656ff574b46d2592ed8d53",
+        "pdf":"../globalassets/media/items/wicona/pdf/ws77fp_exap_bs.pdf?v=312d63701194437117ca9b68c289a909395c840c",
+        "ebook":"../ebook.html?d=015703"
+      },
+      {
+        "desc1":"WICSTYLE 77FP EXAP-Einbauanleitung 12.2022",
+        "pimg":"../globalassets/media/items/wicona/png/ws77fp_exap_ea.png?v=7f8ee98db16e895d4c5aa7cfc2ea1ab449b235cd",
+        "pdf":"../globalassets/media/items/wicona/pdf/ws77fp_exap_ea.pdf?v=f642c9c149a663682ad3d9063e526e2ab84df6cd",
+        "ebook":"../ebook.html?d=575183"
+      },
+      {
+        "desc1":"WICSTYLE 77FP EXAP-Konstruktionsschnitte 12.2022",
+        "pimg":"../globalassets/media/items/wicona/png/ws77fp_exap_ks.png?v=22f430b8aa2d2445ae59e5d9cfc843c9f5c8bb0a",
+        "pdf":"../globalassets/media/items/wicona/pdf/ws77fp_exap_ks.pdf?v=41898f3441b68576fd0dd7b4e2ff132c82d1e8d6",
+        "ebook":"../ebook.html?d=100052"
+      },
+      {
+        "desc1":"WICSTYLE 77FP EXAP-Prüfberichte nach EN 14351-1",
+        "pimg":"../globalassets/media/items/wicona/png/ws77fp_exap_pb.png?v=8b75e1ed7cccc089d2e78f00a2238f12d181c7df",
+        "pdf":"https://wictip.wicona.com/tip-media/ebook/e08cbbe3-c450-4659-a62b-03526d42bb84",
+        "ebook":"../ebook.html?d=103022"
+      }
+    ]
+  },
+  "style":{"background":false}
+}

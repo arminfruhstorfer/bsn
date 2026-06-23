@@ -1,0 +1,182 @@
+﻿{
+  "subnavigation":[
+    {
+      "label":"Planung",
+      "icon":"fa fa-desktop",
+      "links":[
+        {"text":"Ausschreibungstexte","link":"wl75fp_ew30_at", "active":true},
+        {"text":"Füllungen & Größen","link":"wl75fp_ew30_fg"},
+        {"text":"Systemdatenblatt","link":"wl75fp_ew30_sd"}
+      ]
+    },
+    {
+      "label":"CAD-Unterstützung",
+      "icon":"fa fa-usb",
+      "links":[
+        {"text":"Konstruktionsschnitte","link":"wl75fp_ew30_ks"},
+        {"text":"Profilkonturen (.dwg)","link":"wl75fp_ew30_pk"},
+        {"text":"Vorschläge Bauanschlüsse","link":"wl75fp_ew30_ba"}
+      ]
+    },
+    {
+      "label":"Dokumentation",
+      "icon":"fa fa-book",
+      "links":[
+        {"text":"Montageanleitung","link":"wl75fp_ew30_ma"},
+        {"text":"Programm & Verarbeitung","link":"wl75fp_ew30_pv"}
+      ]
+    }
+  ],
+  "content":{
+    "text":[
+      {
+        "tagtype":"h3",
+        "text":[
+          {"line":"WICLINE 75FP Brandschutzfixverglasungen EW 30 nach EN 1634"},
+          {"line":"(Technische Spezifikation)"},
+          {"line":"Vorbemerkungen:"}
+        ]
+      },
+      {
+        "tagtype":"p",
+        "text":[
+          {"line":"Gegenstand der Ausschreibung sind Herstellung, Lieferung und Einbau von wärmegedämmten Aluminium-Brandschutzverglasungen der Feuerwiderstandsklasse EW 30 nach DIN EN 1634 wie nachfolgend spezifiziert."},
+          {"line":"Die im System gegebenen Möglichkeiten bezüglich zulässiger Größen, Gewichte und Füllungsdicken bei Festverglasungen sind in den technischen Unterlagen des Systemherstellers beschrieben."}
+        ]
+      },
+      {
+        "tagtype":"h3",
+        "text":[
+          {"line":"Bindend zu erfüllen sind folgende technischen Anforderungen:"},
+          {"line":"Profiltechnik"}
+        ]
+      },
+      {
+        "tagtype":"p",
+        "text":[
+          {"line":"Rahmenbautiefe: 75 mm"}
+        ]
+      },
+      {
+        "tagtype":"p",
+        "text":[
+          {"line":"Außenansichtsbreiten:"},
+          {"line":"Blendrahmenprofile: 65 mm und 75 mm"},
+          {"line":"Kämpferprofile: 90, 100, 110 mm"}
+        ]
+      },
+      {
+        "tagtype":"h3",
+        "text":[
+          {"line":"Konstruktionsmerkmale"}
+        ]
+      },
+      {
+        "tagtype":"p",
+        "text":[
+          {"line":"Durchlaufende Dämmebene in Rahmen und Füllungen, mit zum Falz hin flächenbündigen Dämmstegen"},
+          {"line":"Hauptprofile als Dreikammer-Hohlprofile, Kantenradius &le; 0,5 mm."},
+          {"line":"Verglasungsdichtung aus EPDM, innen umlaufend"},
+          {"line":"Rahmenverbindungen:"},
+          {"line":"Gehrungsecken mit systemeigenen, hohlkammerfüllenden Gusseckwinkeln mit Spreizfunktion mechanisch gesichert und mittels einseitiger, mengenbegrenzter Klebstoffinjektion verbunden."},
+          {"line":"Stumpfe Verbindungen:"},
+          {"line":"mit systemeigenen, hohlkammerfüllenden Aluminium-Profilverbindern und mengenbegrenzter Klebstoffinjektion."},
+          {"line":"Offene Fügequerschnitte in der Dämmzone von stumpfen Verbindungen müssen mit systemeigenen Kunststoff-Formteilen und Injektionstechnik dichtend geschlossen werden."}
+        ]
+      },
+      {
+        "tagtype":"h3",
+        "text":[
+          {"line":"Konstruktionsvarianten"}
+        ]
+      },
+      {
+        "tagtype":"p",
+        "text":[
+          {"line":"Diese Konstruktion basiert zu 100% auf der Basisserie WICLINE 75. Sie ist optisch von dieser nicht zu unterscheiden. Ausführung in der Feuerwiderstandsklasse EW30 (geprüft gemäß der Norm EN 1634) durch einfache Ergänzung von Zubehörteilen."},
+          {"line":"Die WICLINE 75FP EW 30 ist als reine Brandschutzverglasung einsetzbar. Die Elementbreiten des Fensters mit Umfeld und der Verglasung sind unbegrenzt."}
+        ]
+      },
+      {
+        "tagtype":"h3",
+        "text":[
+          {"line":"Wandanschlüsse"}
+        ]
+      },
+      {
+        "tagtype":"p",
+        "text":[
+          {"line":"Für die, an die Bauteile angrenzenden, Wände sind die Anforderungen hinsichtlich der mindesterforderlichen Feuerwiderstandsklassen bauseits erfüllt."},
+          {"line":"Der Einbau erfolgt:"},
+          {"line":"a) in Wände aus Mauerwerk nach DIN 1053 Teil 1, Dicke &ge; 115 mm, Steindruckfestigkeitsklasse mind. 12, Mörtelgruppe II"},
+          {"line":"b) in Wände aus Beton nach DIN 1045, Dicke &ge; 100 mm (Festigkeitsklasse mind. C12/15)"},
+          {"line":"c) Leichtbauwände nach DIN 4102, Teil 4 (EI 30-A)"},
+          {"line":"d) Bekleidete Stahlstützen und/oder Stahlträger (EI 30-A)"},
+          {"line":"e) Bekleidete Holzstützen und/oder Holzträger (EI 30-B)"}
+        ]
+      },
+      {
+        "tagtype":"h3",
+        "text":[
+          {"line":"Verglasungstyp"}
+        ]
+      },
+      {
+        "tagtype":"p",
+        "text":[
+          {"line":"Ausschließlich nachfolgende Glastypen und Paneele sind einsetzbar:"},
+          {"line":"a) Pyrodur 30-25/26/27/28/35/36 (EW 30)"},
+          {"line":"b) Füllungen aus min. 20 mm Promatect-H, 2x Alublech oder einseitig min. 6 mm ESG, min. 12 mm Mineralwolle (EW 30)"}
+        ]
+      },
+      {
+        "tagtype":"h3",
+        "text":[
+          {"line":"Wärmedämmung"}
+        ]
+      },
+      {
+        "tagtype":"p",
+        "text":[
+          {"line":"Wärmedurchgangskoeffizient des Profilsystems:"},
+          {"line":"Uf &ge; 1,7 bis 3,6 W/(m²K) nach DIN EN ISO 10077-2: 2012"},
+          {"line":"Wärmedämmung mit durchlaufenden, falzflächenbündigen Isolierstegen (Kunststoff-Leisten) aus PA 6.6, 25 % Glasfaseranteil und stirnseitiger Einlage aus Klebeschmelzdraht"}
+        ]
+      },
+      {
+        "tagtype":"h3",
+        "text":[
+          {"line":"Nachweise und Zertifizierungen"}
+        ]
+      },
+      {
+        "tagtype":"p",
+        "text":[
+          {"line":"Systemprüfungen / CE-Produktpass nach DIN EN 14351-1:2006+A1:2010"},
+          {"line":"Luftdurchlässigkeit: Klasse 4"},
+          {"line":"Schlagregendichtheit: E750"},
+          {"line":"Widerstandsfähigkeit gegen Windlast: Klasse C4 / B4"},
+          {"line":"Die Eignung des Profilverbundes (Dämmstege) muss durch ein allgemein bauaufsichtliches Prüfzeugnis nachgewiesen werden."},
+          {"line":"Nachweis der Standsicherheit von Metall-Kunststoff-Verbundprofilen gemäß IfBt-Richtlinie."},
+          {"line":"Profilverbundherstellung ausschließlich werksseitig. Systemhersteller, Profilpresswerke und Verbundhersteller sind nach der ISO 9000-Normenreihe zertifiziert."},
+          {"line":"Profilverbund mit Qualitätssicherung und Werksgarantie auch für nachträgliche Oberflächenbehandlungen (Anodisieren, Nass- und Pulverbeschichtung)."}
+        ]
+      },
+      {
+        "tagtype":"h3",
+        "text":[
+          {"line":"Verarbeitung"}
+        ]
+      },
+      {
+        "tagtype":"p",
+        "text":[
+          {"line":"Entwässerung und Dampfdruckausgleich"},
+          {"line":"Vorkammerentwässerung bzw. Dampfdruckausgleich über außen sichtbare Entwässerungsabdeckungen."},
+          {"line":"Den ausgeschriebenen Leistungen liegen die Konstruktionsmerkmale, Werkstoffe und Verfahren des WICONA - Systems WICLINE 75FP für Brandschutzverglasungen entsprechend der beiliegenden Systembeschreibung zugrunde; sie sind vertragsgemäß zu erfüllende Leistungsanforderungen."}
+        ]
+      }
+    ]
+  },
+  "style":{"background":false}
+}
